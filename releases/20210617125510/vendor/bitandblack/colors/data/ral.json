@@ -1,0 +1,1711 @@
+{
+  "name": {
+    "system": "RAL",
+    "prefix": "RAL",
+    "suffix": ""
+  },
+  "values": [
+    {
+      "name": "1000",
+      "title": "Beigegr\u00fcn",
+      "PANTONE": "4525",
+      "cyan": 0,
+      "magenta": 6,
+      "yellow": 38,
+      "black": 18,
+      "hex": "ccc188"
+    },
+    {
+      "name": "1001",
+      "title": "Beige",
+      "PANTONE": "728",
+      "cyan": 0,
+      "magenta": 18,
+      "yellow": 43,
+      "black": 11,
+      "hex": "ceb487"
+    },
+    {
+      "name": "1002",
+      "title": "Sandgelb",
+      "PANTONE": "465",
+      "cyan": 18,
+      "magenta": 31,
+      "yellow": 56,
+      "black": 0,
+      "hex": "d0b173"
+    },
+    {
+      "name": "1003",
+      "title": "Signalgelb",
+      "PANTONE": "137",
+      "cyan": 0,
+      "magenta": 34,
+      "yellow": 91,
+      "black": 0,
+      "hex": "f2ad00"
+    },
+    {
+      "name": "1004",
+      "title": "Gelbgold",
+      "PANTONE": "124",
+      "cyan": 0,
+      "magenta": 27,
+      "yellow": 100,
+      "black": 6,
+      "hex": "e4a700"
+    },
+    {
+      "name": "1005",
+      "title": "Honiggelb",
+      "PANTONE": "131",
+      "cyan": 0,
+      "magenta": 27,
+      "yellow": 100,
+      "black": 9,
+      "hex": "c79600"
+    },
+    {
+      "name": "1006",
+      "title": "Maisgelb",
+      "PANTONE": "144",
+      "cyan": 0,
+      "magenta": 47,
+      "yellow": 100,
+      "black": 0,
+      "hex": "d99300"
+    },
+    {
+      "name": "1007",
+      "title": "Chromgelb",
+      "PANTONE": "144",
+      "cyan": 0,
+      "magenta": 47,
+      "yellow": 100,
+      "black": 0,
+      "hex": "e69400"
+    },
+    {
+      "name": "1011",
+      "title": "Beigebraun",
+      "PANTONE": "723",
+      "cyan": 0,
+      "magenta": 38,
+      "yellow": 94,
+      "black": 18,
+      "hex": "af8552"
+    },
+    {
+      "name": "1012",
+      "title": "Zitronengelb",
+      "PANTONE": "612",
+      "cyan": 0,
+      "magenta": 0,
+      "yellow": 100,
+      "black": 18,
+      "hex": "d8ba2e"
+    },
+    {
+      "name": "1013",
+      "title": "Perlwei\u00df",
+      "PANTONE": "468",
+      "cyan": 6,
+      "magenta": 9,
+      "yellow": 24,
+      "black": 0,
+      "hex": "e5dfcc"
+    },
+    {
+      "name": "1014",
+      "title": "Elfenbein",
+      "PANTONE": "467",
+      "cyan": 9,
+      "magenta": 15,
+      "yellow": 34,
+      "black": 0,
+      "hex": "dfcea1"
+    },
+    {
+      "name": "1015",
+      "title": "Hellelfenbein",
+      "PANTONE": "726",
+      "cyan": 0,
+      "magenta": 6,
+      "yellow": 18,
+      "black": 6,
+      "hex": "e6d9bd"
+    },
+    {
+      "name": "1016",
+      "title": "Schwefelgelb",
+      "PANTONE": "604",
+      "cyan": 0,
+      "magenta": 0,
+      "yellow": 87,
+      "black": 0,
+      "hex": "ecea41"
+    },
+    {
+      "name": "1017",
+      "title": "Safran",
+      "PANTONE": "150",
+      "cyan": 0,
+      "magenta": 31,
+      "yellow": 69,
+      "black": 0,
+      "hex": "f6b256"
+    },
+    {
+      "name": "1018",
+      "title": "Zinkgelb",
+      "PANTONE": "123",
+      "cyan": 0,
+      "magenta": 31,
+      "yellow": 94,
+      "black": 0,
+      "hex": "fdda38"
+    },
+    {
+      "name": "1019",
+      "title": "Beige",
+      "PANTONE": "479",
+      "cyan": 31,
+      "magenta": 43,
+      "yellow": 47,
+      "black": 0,
+      "hex": "a6937b"
+    },
+    {
+      "name": "1020",
+      "title": "Olivgelb",
+      "PANTONE": "4505",
+      "cyan": 0,
+      "magenta": 15,
+      "yellow": 76,
+      "black": 38,
+      "hex": "a09465"
+    },
+    {
+      "name": "1021",
+      "title": "Cadmium Gelb",
+      "PANTONE": "1235",
+      "cyan": 0,
+      "magenta": 27,
+      "yellow": 76,
+      "black": 0,
+      "hex": "f2c000"
+    },
+    {
+      "name": "1023",
+      "PANTONE": "1235",
+      "cyan": 0,
+      "magenta": 27,
+      "yellow": 76,
+      "black": 0,
+      "hex": "f2bf00"
+    },
+    {
+      "name": "1024",
+      "title": "Ockergelb",
+      "PANTONE": "722",
+      "cyan": 0,
+      "magenta": 34,
+      "yellow": 83,
+      "black": 15,
+      "hex": "b89650"
+    },
+    {
+      "name": "1027",
+      "title": "Curry",
+      "PANTONE": "1255",
+      "cyan": 0,
+      "magenta": 27,
+      "yellow": 100,
+      "black": 34,
+      "hex": "a4861a"
+    },
+    {
+      "name": "1028",
+      "title": "Melonengelb",
+      "PANTONE": "137",
+      "cyan": 0,
+      "magenta": 34,
+      "yellow": 91,
+      "black": 0,
+      "hex": "ffa600"
+    },
+    {
+      "name": "1032",
+      "title": "Ginster",
+      "PANTONE": "124",
+      "cyan": 0,
+      "magenta": 27,
+      "yellow": 100,
+      "black": 6,
+      "hex": "e2ac00"
+    },
+    {
+      "name": "1033",
+      "title": "Dahliengelb",
+      "PANTONE": "1375",
+      "cyan": 0,
+      "magenta": 38,
+      "yellow": 76,
+      "black": 0,
+      "hex": "f7a11f"
+    },
+    {
+      "name": "1034",
+      "title": "Pastellgelb",
+      "PANTONE": "715",
+      "cyan": 0,
+      "magenta": 27,
+      "yellow": 60,
+      "black": 0,
+      "hex": "eba557"
+    },
+    {
+      "name": "1037",
+      "title": "Sonnenuntergangsgelb",
+      "PANTONE": "715",
+      "cyan": 0,
+      "magenta": 27,
+      "yellow": 60,
+      "black": 0,
+      "hex": "eba557"
+    },
+    {
+      "name": "2000",
+      "title": "Gelborange",
+      "PANTONE": "152",
+      "cyan": 0,
+      "magenta": 51,
+      "yellow": 100,
+      "black": 0,
+      "hex": "d97604"
+    },
+    {
+      "name": "2001",
+      "title": "Rotorange",
+      "PANTONE": "173",
+      "cyan": 0,
+      "magenta": 69,
+      "yellow": 100,
+      "black": 6,
+      "hex": "bb4926"
+    },
+    {
+      "name": "2002",
+      "title": "Blutorange",
+      "PANTONE": "485",
+      "cyan": 0,
+      "magenta": 100,
+      "yellow": 91,
+      "black": 0,
+      "hex": "c13524"
+    },
+    {
+      "name": "2003",
+      "PANTONE": "164",
+      "cyan": 0,
+      "magenta": 47,
+      "yellow": 76,
+      "black": 0,
+      "hex": "f97a31"
+    },
+    {
+      "name": "2004",
+      "PANTONE": "1655",
+      "cyan": 0,
+      "magenta": 65,
+      "yellow": 87,
+      "black": 0,
+      "hex": "e8540d"
+    },
+    {
+      "name": "2008",
+      "PANTONE": "1585",
+      "cyan": 0,
+      "magenta": 70,
+      "yellow": 90,
+      "black": 0,
+      "hex": "f46f29"
+    },
+    {
+      "name": "2009",
+      "PANTONE": "172",
+      "cyan": 0,
+      "magenta": 82,
+      "yellow": 100,
+      "black": 0,
+      "hex": "db5316"
+    },
+    {
+      "name": "2010",
+      "PANTONE": "1665",
+      "cyan": 0,
+      "magenta": 78,
+      "yellow": 100,
+      "black": 0,
+      "hex": "d55d23"
+    },
+    {
+      "name": "2011",
+      "PANTONE": "1585",
+      "cyan": 0,
+      "magenta": 66,
+      "yellow": 96,
+      "black": 0,
+      "hex": "ea7625"
+    },
+    {
+      "name": "2012",
+      "PANTONE": "178",
+      "cyan": 0,
+      "magenta": 75,
+      "yellow": 73,
+      "black": 0,
+      "hex": "d6654e"
+    },
+    {
+      "name": "3000",
+      "PANTONE": "484",
+      "cyan": 19,
+      "magenta": 99,
+      "yellow": 100,
+      "black": 9,
+      "hex": "a02725"
+    },
+    {
+      "name": "3001",
+      "PANTONE": "484",
+      "cyan": 18,
+      "magenta": 100,
+      "yellow": 100,
+      "black": 9,
+      "hex": "a0001c"
+    },
+    {
+      "name": "3002",
+      "PANTONE": "187",
+      "cyan": 20,
+      "magenta": 100,
+      "yellow": 100,
+      "black": 12,
+      "hex": "991424"
+    },
+    {
+      "name": "3003",
+      "PANTONE": "704",
+      "cyan": 24,
+      "magenta": 100,
+      "yellow": 97,
+      "black": 21,
+      "hex": "870a24"
+    },
+    {
+      "name": "3004",
+      "PANTONE": "491",
+      "cyan": 30,
+      "magenta": 99,
+      "yellow": 80,
+      "black": 37,
+      "hex": "6c1b2a"
+    },
+    {
+      "name": "3005",
+      "PANTONE": "490",
+      "cyan": 36,
+      "magenta": 94,
+      "yellow": 73,
+      "black": 50,
+      "hex": "581e29"
+    },
+    {
+      "name": "3007",
+      "PANTONE": "4975",
+      "cyan": 46,
+      "magenta": 82,
+      "yellow": 67,
+      "black": 65,
+      "hex": "402226"
+    },
+    {
+      "name": "3009",
+      "PANTONE": "181",
+      "cyan": 31,
+      "magenta": 88,
+      "yellow": 84,
+      "black": 37,
+      "hex": "6d312b"
+    },
+    {
+      "name": "3011",
+      "PANTONE": "1815",
+      "cyan": 28,
+      "magenta": 99,
+      "yellow": 96,
+      "black": 29,
+      "hex": "791f24"
+    },
+    {
+      "name": "3012",
+      "PANTONE": "729",
+      "cyan": 13,
+      "magenta": 54,
+      "yellow": 54,
+      "black": 1,
+      "hex": "c68873"
+    },
+    {
+      "name": "3013",
+      "PANTONE": "484",
+      "cyan": 21,
+      "magenta": 98,
+      "yellow": 100,
+      "black": 12,
+      "hex": "992a28"
+    },
+    {
+      "name": "3014",
+      "PANTONE": "709",
+      "cyan": 4,
+      "magenta": 69,
+      "yellow": 41,
+      "black": 0,
+      "hex": "cf7278"
+    },
+    {
+      "name": "3015",
+      "PANTONE": "197",
+      "cyan": 0,
+      "magenta": 47,
+      "yellow": 11,
+      "black": 0,
+      "hex": "e3a0ac"
+    },
+    {
+      "name": "3016",
+      "PANTONE": "180",
+      "cyan": 16,
+      "magenta": 93,
+      "yellow": 98,
+      "black": 5,
+      "hex": "ab392d"
+    },
+    {
+      "name": "3017",
+      "PANTONE": "1787",
+      "cyan": 2,
+      "magenta": 84,
+      "yellow": 55,
+      "black": 1,
+      "hex": "cc515e"
+    },
+    {
+      "name": "3018",
+      "PANTONE": "710",
+      "cyan": 2,
+      "magenta": 91,
+      "yellow": 64,
+      "black": 0,
+      "hex": "ca3f51"
+    },
+    {
+      "name": "3020",
+      "PANTONE": "485",
+      "cyan": 6,
+      "magenta": 100,
+      "yellow": 100,
+      "black": 1,
+      "hex": "bf111b"
+    },
+    {
+      "name": "3022",
+      "PANTONE": "178",
+      "cyan": 1,
+      "magenta": 72,
+      "yellow": 68,
+      "black": 1,
+      "hex": "d36b56"
+    },
+    {
+      "name": "3027",
+      "PANTONE": "186",
+      "cyan": 13,
+      "magenta": 100,
+      "yellow": 74,
+      "black": 2,
+      "hex": "b01d42"
+    },
+    {
+      "name": "3031",
+      "PANTONE": "1805",
+      "cyan": 17,
+      "magenta": 95,
+      "yellow": 79,
+      "black": 6,
+      "hex": "a7323e"
+    },
+    {
+      "name": "4001",
+      "PANTONE": "682",
+      "cyan": 46,
+      "magenta": 73,
+      "yellow": 23,
+      "black": 2,
+      "hex": "865d86"
+    },
+    {
+      "name": "4002",
+      "PANTONE": "201",
+      "cyan": 28,
+      "magenta": 88,
+      "yellow": 57,
+      "black": 14,
+      "hex": "8f3f51"
+    },
+    {
+      "name": "4003",
+      "PANTONE": "205",
+      "cyan": 4,
+      "magenta": 80,
+      "yellow": 10,
+      "black": 0,
+      "hex": "ca5b91"
+    },
+    {
+      "name": "4004",
+      "PANTONE": "505",
+      "cyan": 32,
+      "magenta": 99,
+      "yellow": 71,
+      "black": 38,
+      "hex": "69193b"
+    },
+    {
+      "name": "4005",
+      "PANTONE": "667",
+      "cyan": 53,
+      "magenta": 70,
+      "yellow": 4,
+      "black": 1,
+      "hex": "7e63a1"
+    },
+    {
+      "name": "4006",
+      "PANTONE": "465",
+      "cyan": 14,
+      "magenta": 29,
+      "yellow": 65,
+      "black": 0,
+      "hex": "d0b173"
+    },
+    {
+      "name": "4007",
+      "PANTONE": "5185",
+      "cyan": 57,
+      "magenta": 91,
+      "yellow": 47,
+      "black": 48,
+      "hex": "47243c"
+    },
+    {
+      "name": "4008",
+      "PANTONE": "689",
+      "cyan": 45,
+      "magenta": 91,
+      "yellow": 18,
+      "black": 2,
+      "hex": "853d7d"
+    },
+    {
+      "name": "4009",
+      "PANTONE": "Kaltes Grau",
+      "cyan": 0,
+      "magenta": 0,
+      "yellow": 0,
+      "black": 65,
+      "hex": "9d8493"
+    },
+    {
+      "name": "5000",
+      "PANTONE": "533",
+      "cyan": 98,
+      "magenta": 75,
+      "yellow": 31,
+      "black": 16,
+      "hex": "2f4a71"
+    },
+    {
+      "name": "5001",
+      "PANTONE": "302",
+      "cyan": 100,
+      "magenta": 71,
+      "yellow": 38,
+      "black": 25,
+      "hex": "0e4666"
+    },
+    {
+      "name": "5002",
+      "PANTONE": "288",
+      "cyan": 100,
+      "magenta": 92,
+      "yellow": 21,
+      "black": 11,
+      "hex": "162e7b"
+    },
+    {
+      "name": "5003",
+      "PANTONE": "540",
+      "cyan": 100,
+      "magenta": 47,
+      "yellow": 0,
+      "black": 47,
+      "hex": "193058"
+    },
+    {
+      "name": "5004",
+      "PANTONE": "Schwarz 6",
+      "cyan": 86,
+      "magenta": 77,
+      "yellow": 55,
+      "black": 71,
+      "hex": "1a1d2a"
+    },
+    {
+      "name": "5005",
+      "PANTONE": "294",
+      "cyan": 100,
+      "magenta": 80,
+      "yellow": 20,
+      "black": 7,
+      "hex": "004389"
+    },
+    {
+      "name": "5007",
+      "PANTONE": "5405",
+      "cyan": 94,
+      "magenta": 61,
+      "yellow": 23,
+      "black": 5,
+      "hex": "38618c"
+    },
+    {
+      "name": "5008",
+      "PANTONE": "433",
+      "cyan": 86,
+      "magenta": 67,
+      "yellow": 53,
+      "black": 49,
+      "hex": "2d3944"
+    },
+    {
+      "name": "5009",
+      "PANTONE": "3025",
+      "cyan": 100,
+      "magenta": 61,
+      "yellow": 34,
+      "black": 14,
+      "hex": "245878"
+    },
+    {
+      "name": "5010",
+      "PANTONE": "541",
+      "cyan": 100,
+      "magenta": 80,
+      "yellow": 25,
+      "black": 11,
+      "hex": "00427f"
+    },
+    {
+      "name": "5011",
+      "PANTONE": "289",
+      "cyan": 98,
+      "magenta": 83,
+      "yellow": 46,
+      "black": 53,
+      "hex": "1a2740"
+    },
+    {
+      "name": "5012",
+      "PANTONE": "307",
+      "cyan": 96,
+      "magenta": 36,
+      "yellow": 6,
+      "black": 0,
+      "hex": "2781bb"
+    },
+    {
+      "name": "5013",
+      "PANTONE": "5255",
+      "cyan": 100,
+      "magenta": 88,
+      "yellow": 38,
+      "black": 35,
+      "hex": "202e53"
+    },
+    {
+      "name": "5014",
+      "PANTONE": "646",
+      "cyan": 69,
+      "magenta": 46,
+      "yellow": 24,
+      "black": 2,
+      "hex": "667b9a"
+    },
+    {
+      "name": "5015",
+      "PANTONE": "3015",
+      "cyan": 100,
+      "magenta": 49,
+      "yellow": 4,
+      "black": 1,
+      "hex": "0071b5"
+    },
+    {
+      "name": "5017",
+      "PANTONE": "2945",
+      "cyan": 100,
+      "magenta": 76,
+      "yellow": 18,
+      "black": 4,
+      "hex": "004c91"
+    },
+    {
+      "name": "5018",
+      "PANTONE": "3145",
+      "cyan": 100,
+      "magenta": 23,
+      "yellow": 43,
+      "black": 2,
+      "hex": "138992"
+    },
+    {
+      "name": "5019",
+      "PANTONE": "301",
+      "cyan": 100,
+      "magenta": 43,
+      "yellow": 0,
+      "black": 18,
+      "hex": "005688"
+    },
+    {
+      "name": "5020",
+      "PANTONE": "3155",
+      "cyan": 100,
+      "magenta": 34,
+      "yellow": 48,
+      "black": 10,
+      "hex": "00747d"
+    },
+    {
+      "name": "5021",
+      "PANTONE": "3155",
+      "cyan": 100,
+      "magenta": 34,
+      "yellow": 48,
+      "black": 10,
+      "hex": "00747d"
+    },
+    {
+      "name": "5022",
+      "PANTONE": "276",
+      "cyan": 87,
+      "magenta": 87,
+      "yellow": 0,
+      "black": 51,
+      "hex": "28275a"
+    },
+    {
+      "name": "5023",
+      "PANTONE": "5405",
+      "cyan": 86,
+      "magenta": 60,
+      "yellow": 21,
+      "black": 3,
+      "hex": "486591"
+    },
+    {
+      "name": "5024",
+      "PANTONE": "5483",
+      "cyan": 73,
+      "magenta": 30,
+      "yellow": 20,
+      "black": 1,
+      "hex": "6391b0"
+    },
+    {
+      "name": "6000",
+      "PANTONE": "568",
+      "cyan": 97,
+      "magenta": 30,
+      "yellow": 70,
+      "black": 15,
+      "hex": "327663"
+    },
+    {
+      "name": "6001",
+      "PANTONE": "349",
+      "cyan": 100,
+      "magenta": 30,
+      "yellow": 100,
+      "black": 21,
+      "hex": "266d3b"
+    },
+    {
+      "name": "6002",
+      "PANTONE": "349",
+      "cyan": 100,
+      "magenta": 0,
+      "yellow": 83,
+      "black": 47,
+      "hex": "276230"
+    },
+    {
+      "name": "6003",
+      "PANTONE": "448",
+      "cyan": 87,
+      "magenta": 72,
+      "yellow": 100,
+      "black": 0,
+      "hex": "4e553d"
+    },
+    {
+      "name": "6004",
+      "PANTONE": "004547",
+      "cyan": 90,
+      "magenta": 10,
+      "yellow": 45,
+      "black": 70,
+      "hex": "024442"
+    },
+    {
+      "name": "6005",
+      "PANTONE": "3308",
+      "cyan": 100,
+      "magenta": 45,
+      "yellow": 76,
+      "black": 52,
+      "hex": "0e4438"
+    },
+    {
+      "name": "6006",
+      "PANTONE": "Schwarz",
+      "cyan": 0,
+      "magenta": 11,
+      "yellow": 51,
+      "black": 100,
+      "hex": "3b3d33"
+    },
+    {
+      "name": "6007",
+      "PANTONE": "5605",
+      "cyan": 76,
+      "magenta": 53,
+      "yellow": 81,
+      "black": 65,
+      "hex": "2b3626"
+    },
+    {
+      "name": "6008",
+      "PANTONE": "Schwarz 4",
+      "cyan": 65,
+      "magenta": 59,
+      "yellow": 78,
+      "black": 69,
+      "hex": "302f22"
+    },
+    {
+      "name": "6009",
+      "PANTONE": "5467",
+      "cyan": 85,
+      "magenta": 51,
+      "yellow": 77,
+      "black": 66,
+      "hex": "213529"
+    },
+    {
+      "name": "6010",
+      "PANTONE": "349",
+      "cyan": 100,
+      "magenta": 0,
+      "yellow": 83,
+      "black": 47,
+      "hex": "426e38"
+    },
+    {
+      "name": "6011",
+      "PANTONE": "625",
+      "cyan": 67,
+      "magenta": 31,
+      "yellow": 73,
+      "black": 12,
+      "hex": "68825f"
+    },
+    {
+      "name": "6012",
+      "PANTONE": "5467",
+      "cyan": 84,
+      "magenta": 56,
+      "yellow": 66,
+      "black": 57,
+      "hex": "293a37"
+    },
+    {
+      "name": "6013",
+      "PANTONE": "417",
+      "cyan": 53,
+      "magenta": 40,
+      "yellow": 69,
+      "black": 16,
+      "hex": "76785b"
+    },
+    {
+      "name": "6014",
+      "PANTONE": "Schwarz",
+      "cyan": 59,
+      "magenta": 58,
+      "yellow": 76,
+      "black": 54,
+      "hex": "443f31"
+    },
+    {
+      "name": "6015",
+      "PANTONE": "426",
+      "cyan": 69,
+      "magenta": 58,
+      "yellow": 68,
+      "black": 57,
+      "hex": "383b34"
+    },
+    {
+      "name": "6016",
+      "PANTONE": "342",
+      "cyan": 100,
+      "magenta": 0,
+      "yellow": 69,
+      "black": 43,
+      "hex": "00664f"
+    },
+    {
+      "name": "6017",
+      "PANTONE": "364",
+      "cyan": 87,
+      "magenta": 23,
+      "yellow": 100,
+      "black": 9,
+      "hex": "4d8542"
+    },
+    {
+      "name": "6018",
+      "PANTONE": "363",
+      "cyan": 90,
+      "magenta": 10,
+      "yellow": 100,
+      "black": 1,
+      "hex": "4b9b3e"
+    },
+    {
+      "name": "6019",
+      "PANTONE": "557",
+      "cyan": 37,
+      "magenta": 0,
+      "yellow": 37,
+      "black": 0,
+      "hex": "b2d8b4"
+    },
+    {
+      "name": "6020",
+      "PANTONE": "5535",
+      "cyan": 76,
+      "magenta": 48,
+      "yellow": 78,
+      "black": 49,
+      "hex": "394937"
+    },
+    {
+      "name": "6021",
+      "PANTONE": "624",
+      "cyan": 55,
+      "magenta": 22,
+      "yellow": 58,
+      "black": 2,
+      "hex": "87a180"
+    },
+    {
+      "name": "6022",
+      "PANTONE": "Schwarz 2",
+      "cyan": 0,
+      "magenta": 0,
+      "yellow": 31,
+      "black": 100,
+      "hex": "3c372a"
+    },
+    {
+      "name": "6024",
+      "PANTONE": "348",
+      "cyan": 100,
+      "magenta": 19,
+      "yellow": 89,
+      "black": 7,
+      "hex": "008455"
+    },
+    {
+      "name": "6025",
+      "PANTONE": "371",
+      "cyan": 75,
+      "magenta": 33,
+      "yellow": 99,
+      "black": 21,
+      "hex": "56723d"
+    },
+    {
+      "name": "6026",
+      "PANTONE": "2735",
+      "cyan": 100,
+      "magenta": 94,
+      "yellow": 0,
+      "black": 0,
+      "hex": "005c54"
+    },
+    {
+      "name": "6027",
+      "PANTONE": "631",
+      "cyan": 66,
+      "magenta": 2,
+      "yellow": 29,
+      "black": 0,
+      "hex": "77bbbd"
+    },
+    {
+      "name": "6028",
+      "PANTONE": "3305",
+      "cyan": 92,
+      "magenta": 43,
+      "yellow": 69,
+      "black": 37,
+      "hex": "2e554b"
+    },
+    {
+      "name": "6029",
+      "PANTONE": "349",
+      "cyan": 100,
+      "magenta": 28,
+      "yellow": 97,
+      "black": 20,
+      "hex": "006f43"
+    },
+    {
+      "name": "6032",
+      "PANTONE": "3288",
+      "cyan": 100,
+      "magenta": 0,
+      "yellow": 56,
+      "black": 18,
+      "hex": "00855a"
+    },
+    {
+      "name": "6033",
+      "PANTONE": "569",
+      "cyan": 92,
+      "magenta": 25,
+      "yellow": 52,
+      "black": 5,
+      "hex": "3f8884"
+    },
+    {
+      "name": "6034",
+      "PANTONE": "624",
+      "cyan": 66,
+      "magenta": 12,
+      "yellow": 31,
+      "black": 0,
+      "hex": "75adb1"
+    },
+    {
+      "name": "7000",
+      "PANTONE": "424",
+      "cyan": 58,
+      "magenta": 38,
+      "yellow": 36,
+      "black": 4,
+      "hex": "798790"
+    },
+    {
+      "name": "7001",
+      "PANTONE": "444",
+      "cyan": 49,
+      "magenta": 34,
+      "yellow": 31,
+      "black": 1,
+      "hex": "8c969f"
+    },
+    {
+      "name": "7002",
+      "PANTONE": "10 Warmes Grau",
+      "cyan": 0,
+      "magenta": 15,
+      "yellow": 27,
+      "black": 56,
+      "hex": "827d67"
+    },
+    {
+      "name": "7003",
+      "PANTONE": "417",
+      "cyan": 52,
+      "magenta": 43,
+      "yellow": 56,
+      "black": 13,
+      "hex": "79796c"
+    },
+    {
+      "name": "7004",
+      "PANTONE": "423",
+      "cyan": 42,
+      "magenta": 34,
+      "yellow": 31,
+      "black": 1,
+      "hex": "999a9f"
+    },
+    {
+      "name": "7005",
+      "PANTONE": "431",
+      "cyan": 59,
+      "magenta": 46,
+      "yellow": 49,
+      "black": 14,
+      "hex": "6d7270"
+    },
+    {
+      "name": "7006",
+      "PANTONE": "Warmes Grau 11",
+      "cyan": 48,
+      "magenta": 51,
+      "yellow": 60,
+      "black": 20,
+      "hex": "766a5d"
+    },
+    {
+      "name": "7008",
+      "PANTONE": "463",
+      "cyan": 60,
+      "magenta": 65,
+      "yellow": 100,
+      "black": 0,
+      "hex": "756444"
+    },
+    {
+      "name": "7009",
+      "PANTONE": "405",
+      "cyan": 65,
+      "magenta": 49,
+      "yellow": 61,
+      "black": 29,
+      "hex": "585e55"
+    },
+    {
+      "name": "7010",
+      "PANTONE": "5477",
+      "cyan": 65,
+      "magenta": 54,
+      "yellow": 56,
+      "black": 30,
+      "hex": "565957"
+    },
+    {
+      "name": "7011",
+      "PANTONE": "5477",
+      "cyan": 70,
+      "magenta": 55,
+      "yellow": 50,
+      "black": 26,
+      "hex": "525a60"
+    },
+    {
+      "name": "7012",
+      "PANTONE": "445",
+      "cyan": 68,
+      "magenta": 53,
+      "yellow": 50,
+      "black": 24,
+      "hex": "575e62"
+    },
+    {
+      "name": "7013",
+      "PANTONE": "449",
+      "cyan": 57,
+      "magenta": 54,
+      "yellow": 68,
+      "black": 37,
+      "hex": "585346"
+    },
+    {
+      "name": "7015",
+      "PANTONE": "446",
+      "cyan": 71,
+      "magenta": 60,
+      "yellow": 51,
+      "black": 32,
+      "hex": "4c5057"
+    },
+    {
+      "name": "7016",
+      "PANTONE": "433",
+      "cyan": 78,
+      "magenta": 64,
+      "yellow": 56,
+      "black": 49,
+      "hex": "363d43"
+    },
+    {
+      "name": "7021",
+      "PANTONE": "419",
+      "cyan": 75,
+      "magenta": 65,
+      "yellow": 59,
+      "black": 60,
+      "hex": "2e3236"
+    },
+    {
+      "name": "7022",
+      "PANTONE": "465",
+      "cyan": 14,
+      "magenta": 29,
+      "yellow": 65,
+      "black": 0,
+      "hex": "d0b173"
+    },
+    {
+      "name": "7023",
+      "PANTONE": "424",
+      "cyan": 52,
+      "magenta": 49,
+      "yellow": 49,
+      "black": 8,
+      "hex": "7f8279"
+    },
+    {
+      "name": "7024",
+      "PANTONE": "432",
+      "cyan": 71,
+      "magenta": 61,
+      "yellow": 52,
+      "black": 36,
+      "hex": "484b52"
+    },
+    {
+      "name": "7026",
+      "PANTONE": "Schwarz 7",
+      "cyan": 80,
+      "magenta": 61,
+      "yellow": 57,
+      "black": 47,
+      "hex": "354044"
+    },
+    {
+      "name": "7030",
+      "PANTONE": "416",
+      "cyan": 0,
+      "magenta": 0,
+      "yellow": 15,
+      "black": 51,
+      "hex": "919089"
+    },
+    {
+      "name": "7031",
+      "PANTONE": "445",
+      "cyan": 69,
+      "magenta": 50,
+      "yellow": 46,
+      "black": 17,
+      "hex": "5b686f"
+    },
+    {
+      "name": "7032",
+      "PANTONE": "Warmes Grau 5",
+      "cyan": 30,
+      "magenta": 22,
+      "yellow": 33,
+      "black": 0,
+      "hex": "b5b5a7"
+    },
+    {
+      "name": "7033",
+      "PANTONE": "5625",
+      "cyan": 55,
+      "magenta": 37,
+      "yellow": 53,
+      "black": 9,
+      "hex": "7a8376"
+    },
+    {
+      "name": "7034",
+      "PANTONE": "Warmes Grau 8",
+      "cyan": 42,
+      "magenta": 37,
+      "yellow": 56,
+      "black": 6,
+      "hex": "928d75"
+    },
+    {
+      "name": "7035",
+      "PANTONE": "421",
+      "cyan": 23,
+      "magenta": 14,
+      "yellow": 17,
+      "black": 0,
+      "hex": "c4caca"
+    },
+    {
+      "name": "7036",
+      "PANTONE": "Kaltes Grau 8",
+      "cyan": 44,
+      "magenta": 37,
+      "yellow": 36,
+      "black": 2,
+      "hex": "949294"
+    },
+    {
+      "name": "7037",
+      "PANTONE": "424",
+      "cyan": 53,
+      "magenta": 43,
+      "yellow": 42,
+      "black": 7,
+      "hex": "7e8082"
+    },
+    {
+      "name": "7038",
+      "title": "Achatgrau",
+      "PANTONE": "429",
+      "cyan": 32,
+      "magenta": 23,
+      "yellow": 27,
+      "black": 0,
+      "hex": "b0b3af"
+    },
+    {
+      "name": "7039",
+      "title": "Quarzgrau",
+      "PANTONE": "431",
+      "cyan": 56,
+      "magenta": 49,
+      "yellow": 55,
+      "black": 19,
+      "hex": "6d6b64"
+    },
+    {
+      "name": "7040",
+      "PANTONE": "423",
+      "cyan": 43,
+      "magenta": 31,
+      "yellow": 28,
+      "black": 1,
+      "hex": "9aa0a7"
+    },
+    {
+      "name": "7042",
+      "PANTONE": "430",
+      "cyan": 46,
+      "magenta": 33,
+      "yellow": 35,
+      "black": 1,
+      "hex": "929899"
+    },
+    {
+      "name": "7043",
+      "PANTONE": "446",
+      "cyan": 68,
+      "magenta": 56,
+      "yellow": 55,
+      "black": 32,
+      "hex": "505455"
+    },
+    {
+      "name": "8000",
+      "PANTONE": "464",
+      "cyan": 47,
+      "magenta": 65,
+      "yellow": 100,
+      "black": 0,
+      "hex": "8b7045"
+    },
+    {
+      "name": "8001",
+      "title": "Ockerbraun",
+      "PANTONE": "471",
+      "cyan": 0,
+      "magenta": 56,
+      "yellow": 100,
+      "black": 18,
+      "hex": "9c6935"
+    },
+    {
+      "name": "8002",
+      "title": "Signalbraun",
+      "PANTONE": "478",
+      "cyan": 34,
+      "magenta": 71,
+      "yellow": 78,
+      "black": 29,
+      "hex": "774c3b"
+    },
+    {
+      "name": "8003",
+      "PANTONE": "4635",
+      "cyan": 32,
+      "magenta": 69,
+      "yellow": 90,
+      "black": 25,
+      "hex": "815333"
+    },
+    {
+      "name": "8004",
+      "title": "Kupferbraun",
+      "PANTONE": "4635",
+      "cyan": 26,
+      "magenta": 78,
+      "yellow": 83,
+      "black": 17,
+      "hex": "904e3b"
+    },
+    {
+      "name": "8007",
+      "title": "Rehbraun",
+      "PANTONE": "478",
+      "cyan": 36,
+      "magenta": 72,
+      "yellow": 91,
+      "black": 37,
+      "hex": "6b442a"
+    },
+    {
+      "name": "8008",
+      "title": "Olivbraun",
+      "PANTONE": "463",
+      "cyan": 37,
+      "magenta": 64,
+      "yellow": 91,
+      "black": 31,
+      "hex": "735230"
+    },
+    {
+      "name": "8011",
+      "title": "Walnussbraun",
+      "PANTONE": "477",
+      "cyan": 39,
+      "magenta": 74,
+      "yellow": 86,
+      "black": 47,
+      "hex": "5b3927"
+    },
+    {
+      "name": "8012",
+      "title": "Rotbraun",
+      "PANTONE": "175",
+      "cyan": 34,
+      "magenta": 85,
+      "yellow": 82,
+      "black": 42,
+      "hex": "64312a"
+    },
+    {
+      "name": "8014",
+      "title": "Braun",
+      "PANTONE": "4695",
+      "cyan": 49,
+      "magenta": 57,
+      "yellow": 77,
+      "black": 57,
+      "hex": "49372a"
+    },
+    {
+      "name": "8015",
+      "title": "Haselnu\u00dfbraun",
+      "PANTONE": "175",
+      "cyan": 37,
+      "magenta": 83,
+      "yellow": 77,
+      "black": 49,
+      "hex": "5a2e2a"
+    },
+    {
+      "name": "8016",
+      "title": "Mahagoniebraun",
+      "PANTONE": "4695",
+      "cyan": 42,
+      "magenta": 75,
+      "yellow": 77,
+      "black": 55,
+      "hex": "4f3128"
+    },
+    {
+      "name": "8017",
+      "title": "Schokoladenbraun",
+      "PANTONE": "497",
+      "cyan": 48,
+      "magenta": 72,
+      "yellow": 71,
+      "black": 60,
+      "hex": "45302b"
+    },
+    {
+      "name": "8019",
+      "title": "Braungrau",
+      "PANTONE": "412",
+      "cyan": 62,
+      "magenta": 67,
+      "yellow": 64,
+      "black": 60,
+      "hex": "3b3332"
+    },
+    {
+      "name": "8022",
+      "title": "Schwarzbraun",
+      "PANTONE": "Schwarz 6",
+      "cyan": 69,
+      "magenta": 69,
+      "yellow": 66,
+      "black": 81,
+      "hex": "1e1a1a"
+    },
+    {
+      "name": "8023",
+      "title": "Orangebraun",
+      "PANTONE": "471",
+      "cyan": 0,
+      "magenta": 56,
+      "yellow": 100,
+      "black": 18,
+      "hex": "a45c32"
+    },
+    {
+      "name": "8024",
+      "title": "Braunbeige",
+      "PANTONE": "4705",
+      "cyan": 0,
+      "magenta": 60,
+      "yellow": 72,
+      "black": 47,
+      "hex": "7b5741"
+    },
+    {
+      "name": "8025",
+      "title": "Hellbraun",
+      "PANTONE": "4705",
+      "cyan": 42,
+      "magenta": 59,
+      "yellow": 67,
+      "black": 25,
+      "hex": "765d4d"
+    },
+    {
+      "name": "8028",
+      "title": "Erdbraun",
+      "PANTONE": "4695",
+      "cyan": 0,
+      "magenta": 79,
+      "yellow": 100,
+      "black": 72,
+      "hex": "4f3b2b"
+    },
+    {
+      "name": "9001",
+      "title": "Cremewei\u00df",
+      "PANTONE": "WarmesGrau 1",
+      "cyan": 5,
+      "magenta": 6,
+      "yellow": 13,
+      "black": 0,
+      "hex": "eee9da"
+    },
+    {
+      "name": "9002",
+      "title": "Wei\u00dfgrau",
+      "PANTONE": "420",
+      "cyan": 13,
+      "magenta": 9,
+      "yellow": 13,
+      "black": 0,
+      "hex": "dadbd5"
+    },
+    {
+      "name": "9003",
+      "PANTONE": "705",
+      "cyan": 2,
+      "magenta": 1,
+      "yellow": 1,
+      "black": 0,
+      "hex": "f8f9fb"
+    },
+    {
+      "name": "9004",
+      "title": "Signalschwarz",
+      "PANTONE": "Schwarz 6",
+      "cyan": 73,
+      "magenta": 69,
+      "yellow": 62,
+      "black": 73,
+      "hex": "252427"
+    },
+    {
+      "name": "9005",
+      "title": "Tiefschwarz",
+      "PANTONE": "Schwarz 4",
+      "cyan": 75,
+      "magenta": 68,
+      "yellow": 65,
+      "black": 82,
+      "hex": "151619"
+    },
+    {
+      "name": "9010",
+      "title": "Reinwei\u00df",
+      "PANTONE": "Kaltes Grau 1",
+      "cyan": 3,
+      "magenta": 2,
+      "yellow": 6,
+      "black": 0,
+      "hex": "f4f4ed"
+    },
+    {
+      "name": "9011",
+      "title": "Graphitschwarz",
+      "PANTONE": "Schwarz 6",
+      "cyan": 78,
+      "magenta": 70,
+      "yellow": 60,
+      "black": 75,
+      "hex": "1f2126"
+    },
+    {
+      "name": "9016",
+      "PANTONE": "705",
+      "cyan": 4,
+      "magenta": 1,
+      "yellow": 2,
+      "black": 0,
+      "hex": "f3f6f6"
+    },
+    {
+      "name": "9017",
+      "PANTONE": "Schwarz 4",
+      "cyan": 74,
+      "magenta": 70,
+      "yellow": 63,
+      "black": 80,
+      "hex": "1b191d"
+    },
+    {
+      "name": "9018",
+      "title": "Papierwei\u00df",
+      "PANTONE": "428",
+      "cyan": 20,
+      "magenta": 10,
+      "yellow": 15,
+      "black": 0,
+      "hex": "cbd2d0"
+    }
+  ]
+}

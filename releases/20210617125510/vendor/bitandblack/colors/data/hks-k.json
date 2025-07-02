@@ -1,0 +1,713 @@
+{
+  "name": {
+    "system": "HKS K",
+    "prefix": "HKS",
+    "suffix": "K"
+  },
+  "values": [
+    {
+      "id": "1",
+      "name": "1",
+      "alias": " 01K",
+      "lightness": 87,
+      "a-chrominance": 3,
+      "b-chrominance": 57
+    },
+    {
+      "id": "2",
+      "name": "2",
+      "alias": " 02K",
+      "lightness": 85,
+      "a-chrominance": -2,
+      "b-chrominance": 95
+    },
+    {
+      "id": "3",
+      "name": "3",
+      "alias": " 03K",
+      "lightness": 88,
+      "a-chrominance": 0,
+      "b-chrominance": 110
+    },
+    {
+      "id": "4",
+      "name": "4",
+      "alias": " 04K",
+      "lightness": 82,
+      "a-chrominance": 13,
+      "b-chrominance": 98
+    },
+    {
+      "id": "5",
+      "name": "5",
+      "alias": " 05K",
+      "lightness": 80,
+      "a-chrominance": 21,
+      "b-chrominance": 102
+    },
+    {
+      "id": "6",
+      "name": "6",
+      "alias": " 06K",
+      "lightness": 72,
+      "a-chrominance": 44,
+      "b-chrominance": 94
+    },
+    {
+      "id": "7",
+      "name": "7",
+      "alias": " 07K",
+      "lightness": 65,
+      "a-chrominance": 57,
+      "b-chrominance": 94
+    },
+    {
+      "id": "8",
+      "name": "8",
+      "alias": " 08K",
+      "lightness": 62,
+      "a-chrominance": 61,
+      "b-chrominance": 72
+    },
+    {
+      "id": "9",
+      "name": "10",
+      "alias": " 10K",
+      "lightness": 58,
+      "a-chrominance": 67,
+      "b-chrominance": 66
+    },
+    {
+      "id": "10",
+      "name": "11",
+      "alias": " 11K",
+      "lightness": 72,
+      "a-chrominance": 41,
+      "b-chrominance": 38
+    },
+    {
+      "id": "11",
+      "name": "12",
+      "alias": " 12K",
+      "lightness": 53,
+      "a-chrominance": 69,
+      "b-chrominance": 56
+    },
+    {
+      "id": "12",
+      "name": "13",
+      "alias": " 13K",
+      "lightness": 52,
+      "a-chrominance": 75,
+      "b-chrominance": 57
+    },
+    {
+      "id": "13",
+      "name": "14",
+      "alias": " 14K",
+      "lightness": 49,
+      "a-chrominance": 69,
+      "b-chrominance": 47
+    },
+    {
+      "id": "14",
+      "name": "15",
+      "alias": " 15K",
+      "lightness": 43,
+      "a-chrominance": 68,
+      "b-chrominance": 36
+    },
+    {
+      "id": "15",
+      "name": "16",
+      "alias": " 16K",
+      "lightness": 36,
+      "a-chrominance": 52,
+      "b-chrominance": 25
+    },
+    {
+      "id": "16",
+      "name": "17",
+      "alias": " 17K",
+      "lightness": 35,
+      "a-chrominance": 55,
+      "b-chrominance": 19
+    },
+    {
+      "id": "17",
+      "name": "18",
+      "alias": " 18K",
+      "lightness": 25,
+      "a-chrominance": 39,
+      "b-chrominance": 8
+    },
+    {
+      "id": "18",
+      "name": "21",
+      "alias": " 21K",
+      "lightness": 67,
+      "a-chrominance": 54,
+      "b-chrominance": 13
+    },
+    {
+      "id": "19",
+      "name": "22",
+      "alias": " 22K",
+      "lightness": 55,
+      "a-chrominance": 72,
+      "b-chrominance": 49
+    },
+    {
+      "id": "20",
+      "name": "23",
+      "alias": " 23K",
+      "lightness": 48,
+      "a-chrominance": 74,
+      "b-chrominance": 37
+    },
+    {
+      "id": "21",
+      "name": "24",
+      "alias": " 24K",
+      "lightness": 43,
+      "a-chrominance": 65,
+      "b-chrominance": 18
+    },
+    {
+      "id": "22",
+      "name": "25",
+      "alias": " 25K",
+      "lightness": 43,
+      "a-chrominance": 75,
+      "b-chrominance": 17
+    },
+    {
+      "id": "23",
+      "name": "26",
+      "alias": " 26K",
+      "lightness": 40,
+      "a-chrominance": 69,
+      "b-chrominance": -3
+    },
+    {
+      "id": "24",
+      "name": "27",
+      "alias": " 27K",
+      "lightness": 46,
+      "a-chrominance": 80,
+      "b-chrominance": -8
+    },
+    {
+      "id": "25",
+      "name": "28",
+      "alias": " 28K",
+      "lightness": 38,
+      "a-chrominance": 64,
+      "b-chrominance": 9
+    },
+    {
+      "id": "26",
+      "name": "29",
+      "alias": " 29K",
+      "lightness": 34,
+      "a-chrominance": 55,
+      "b-chrominance": -29
+    },
+    {
+      "id": "27",
+      "name": "31",
+      "alias": " 31K",
+      "lightness": 42,
+      "a-chrominance": 70,
+      "b-chrominance": -11
+    },
+    {
+      "id": "28",
+      "name": "32",
+      "alias": " 32K",
+      "lightness": 41,
+      "a-chrominance": 71,
+      "b-chrominance": 3
+    },
+    {
+      "id": "29",
+      "name": "33",
+      "alias": " 33K",
+      "lightness": 36,
+      "a-chrominance": 74,
+      "b-chrominance": -48
+    },
+    {
+      "id": "30",
+      "name": "34",
+      "alias": " 34K",
+      "lightness": 30,
+      "a-chrominance": 43,
+      "b-chrominance": -43
+    },
+    {
+      "id": "31",
+      "name": "35",
+      "alias": " 35K",
+      "lightness": 27,
+      "a-chrominance": 27,
+      "b-chrominance": -47
+    },
+    {
+      "id": "32",
+      "name": "36",
+      "alias": " 36K",
+      "lightness": 27,
+      "a-chrominance": 38,
+      "b-chrominance": -48
+    },
+    {
+      "id": "33",
+      "name": "37",
+      "alias": " 37K",
+      "lightness": 25,
+      "a-chrominance": 32,
+      "b-chrominance": -40
+    },
+    {
+      "id": "34",
+      "name": "38",
+      "alias": " 38K",
+      "lightness": 18,
+      "a-chrominance": -4,
+      "b-chrominance": -18
+    },
+    {
+      "id": "35",
+      "name": "39",
+      "alias": " 39K",
+      "lightness": 37,
+      "a-chrominance": 4,
+      "b-chrominance": -62
+    },
+    {
+      "id": "36",
+      "name": "40",
+      "alias": " 40K",
+      "lightness": 48,
+      "a-chrominance": -27,
+      "b-chrominance": -37
+    },
+    {
+      "id": "37",
+      "name": "41",
+      "alias": " 41K",
+      "lightness": 21,
+      "a-chrominance": -2,
+      "b-chrominance": -22
+    },
+    {
+      "id": "38",
+      "name": "42",
+      "alias": " 42K",
+      "lightness": 26,
+      "a-chrominance": 18,
+      "b-chrominance": -59
+    },
+    {
+      "id": "39",
+      "name": "43",
+      "alias": " 43K",
+      "lightness": 26,
+      "a-chrominance": 29,
+      "b-chrominance": -79
+    },
+    {
+      "id": "40",
+      "name": "44",
+      "alias": " 44K",
+      "lightness": 34,
+      "a-chrominance": -4,
+      "b-chrominance": -56
+    },
+    {
+      "id": "41",
+      "name": "45",
+      "alias": " 45K",
+      "lightness": 35,
+      "a-chrominance": 15,
+      "b-chrominance": -44
+    },
+    {
+      "id": "42",
+      "name": "46",
+      "alias": " 46K",
+      "lightness": 45,
+      "a-chrominance": -21,
+      "b-chrominance": -37
+    },
+    {
+      "id": "43",
+      "name": "47",
+      "alias": " 47K",
+      "lightness": 47,
+      "a-chrominance": -33,
+      "b-chrominance": -56
+    },
+    {
+      "id": "44",
+      "name": "48",
+      "alias": " 48K",
+      "lightness": 47,
+      "a-chrominance": -45,
+      "b-chrominance": -46
+    },
+    {
+      "id": "45",
+      "name": "49",
+      "alias": " 49K",
+      "lightness": 42,
+      "a-chrominance": -33,
+      "b-chrominance": -47
+    },
+    {
+      "id": "46",
+      "name": "50",
+      "alias": " 50K",
+      "lightness": 65,
+      "a-chrominance": -37,
+      "b-chrominance": -35
+    },
+    {
+      "id": "47",
+      "name": "51",
+      "alias": " 51K",
+      "lightness": 53,
+      "a-chrominance": -47,
+      "b-chrominance": -19
+    },
+    {
+      "id": "48",
+      "name": "52",
+      "alias": " 52K",
+      "lightness": 47,
+      "a-chrominance": -55,
+      "b-chrominance": -6
+    },
+    {
+      "id": "49",
+      "name": "53",
+      "alias": " 53K",
+      "lightness": 62,
+      "a-chrominance": -73,
+      "b-chrominance": 2
+    },
+    {
+      "id": "50",
+      "name": "54",
+      "alias": " 54K",
+      "lightness": 45,
+      "a-chrominance": -71,
+      "b-chrominance": 16
+    },
+    {
+      "id": "51",
+      "name": "55",
+      "alias": " 55K",
+      "lightness": 39,
+      "a-chrominance": -58,
+      "b-chrominance": 6
+    },
+    {
+      "id": "52",
+      "name": "56",
+      "alias": " 56K",
+      "lightness": 32,
+      "a-chrominance": -39,
+      "b-chrominance": -1
+    },
+    {
+      "id": "53",
+      "name": "57",
+      "alias": " 57K",
+      "lightness": 43,
+      "a-chrominance": -60,
+      "b-chrominance": 23
+    },
+    {
+      "id": "54",
+      "name": "58",
+      "alias": " 58K",
+      "lightness": 35,
+      "a-chrominance": -25,
+      "b-chrominance": 17
+    },
+    {
+      "id": "55",
+      "name": "59",
+      "alias": " 59K",
+      "lightness": 41,
+      "a-chrominance": -52,
+      "b-chrominance": -14
+    },
+    {
+      "id": "56",
+      "name": "60",
+      "alias": " 60K",
+      "lightness": 48,
+      "a-chrominance": -50,
+      "b-chrominance": 50
+    },
+    {
+      "id": "57",
+      "name": "61",
+      "alias": " 61K",
+      "lightness": 29,
+      "a-chrominance": -21,
+      "b-chrominance": 16
+    },
+    {
+      "id": "58",
+      "name": "62",
+      "alias": " 62K",
+      "lightness": 38,
+      "a-chrominance": -7,
+      "b-chrominance": 34
+    },
+    {
+      "id": "59",
+      "name": "63",
+      "alias": " 63K",
+      "lightness": 40,
+      "a-chrominance": -30,
+      "b-chrominance": 34
+    },
+    {
+      "id": "60",
+      "name": "64",
+      "alias": " 64K",
+      "lightness": 51,
+      "a-chrominance": -57,
+      "b-chrominance": 45
+    },
+    {
+      "id": "61",
+      "name": "65",
+      "alias": " 65K",
+      "lightness": 59,
+      "a-chrominance": -59,
+      "b-chrominance": 60
+    },
+    {
+      "id": "62",
+      "name": "66",
+      "alias": " 66K",
+      "lightness": 67,
+      "a-chrominance": -43,
+      "b-chrominance": 68
+    },
+    {
+      "id": "63",
+      "name": "67",
+      "alias": " 67K",
+      "lightness": 69,
+      "a-chrominance": -50,
+      "b-chrominance": 75
+    },
+    {
+      "id": "64",
+      "name": "68",
+      "alias": " 68K",
+      "lightness": 75,
+      "a-chrominance": 0,
+      "b-chrominance": 78
+    },
+    {
+      "id": "65",
+      "name": "69",
+      "alias": " 69K",
+      "lightness": 80,
+      "a-chrominance": -9,
+      "b-chrominance": 89
+    },
+    {
+      "id": "66",
+      "name": "71",
+      "alias": " 71K",
+      "lightness": 68,
+      "a-chrominance": 21,
+      "b-chrominance": 64
+    },
+    {
+      "id": "67",
+      "name": "72",
+      "alias": " 72K",
+      "lightness": 62,
+      "a-chrominance": 28,
+      "b-chrominance": 67
+    },
+    {
+      "id": "68",
+      "name": "73",
+      "alias": " 73K",
+      "lightness": 55,
+      "a-chrominance": 19,
+      "b-chrominance": 47
+    },
+    {
+      "id": "69",
+      "name": "74",
+      "alias": " 74K",
+      "lightness": 44,
+      "a-chrominance": 15,
+      "b-chrominance": 37
+    },
+    {
+      "id": "70",
+      "name": "75",
+      "alias": " 75K",
+      "lightness": 42,
+      "a-chrominance": 5,
+      "b-chrominance": 34
+    },
+    {
+      "id": "71",
+      "name": "76",
+      "alias": " 76K",
+      "lightness": 28,
+      "a-chrominance": 8,
+      "b-chrominance": 14
+    },
+    {
+      "id": "72",
+      "name": "77",
+      "alias": " 77K",
+      "lightness": 28,
+      "a-chrominance": 14,
+      "b-chrominance": 17
+    },
+    {
+      "id": "73",
+      "name": "78",
+      "alias": " 78K",
+      "lightness": 32,
+      "a-chrominance": 25,
+      "b-chrominance": 23
+    },
+    {
+      "id": "74",
+      "name": "81",
+      "alias": " 81K",
+      "lightness": 50,
+      "a-chrominance": 43,
+      "b-chrominance": 48
+    },
+    {
+      "id": "75",
+      "name": "82",
+      "alias": " 82K",
+      "lightness": 40,
+      "a-chrominance": 40,
+      "b-chrominance": 38
+    },
+    {
+      "id": "76",
+      "name": "83",
+      "alias": " 83K",
+      "lightness": 32,
+      "a-chrominance": 28,
+      "b-chrominance": 19
+    },
+    {
+      "id": "77",
+      "name": "84",
+      "alias": " 84K",
+      "lightness": 27,
+      "a-chrominance": 22,
+      "b-chrominance": 13
+    },
+    {
+      "id": "78",
+      "name": "88",
+      "alias": " 88K",
+      "lightness": 12,
+      "a-chrominance": 1,
+      "b-chrominance": 2
+    },
+    {
+      "id": "79",
+      "name": "89",
+      "alias": " 89K",
+      "lightness": 65,
+      "a-chrominance": 2,
+      "b-chrominance": 11
+    },
+    {
+      "id": "80",
+      "name": "90",
+      "alias": " 90K",
+      "lightness": 21,
+      "a-chrominance": 5,
+      "b-chrominance": 2
+    },
+    {
+      "id": "81",
+      "name": "91",
+      "alias": " 91K",
+      "lightness": 65,
+      "a-chrominance": -4,
+      "b-chrominance": 2
+    },
+    {
+      "id": "82",
+      "name": "92",
+      "alias": " 92K",
+      "lightness": 46,
+      "a-chrominance": -2,
+      "b-chrominance": -1
+    },
+    {
+      "id": "83",
+      "name": "93",
+      "alias": " 93K",
+      "lightness": 34,
+      "a-chrominance": -2,
+      "b-chrominance": -5
+    },
+    {
+      "id": "84",
+      "name": "95",
+      "alias": " 95K",
+      "lightness": 60,
+      "a-chrominance": -1,
+      "b-chrominance": 5
+    },
+    {
+      "id": "85",
+      "name": "96",
+      "alias": " 96K",
+      "lightness": 49,
+      "a-chrominance": -1,
+      "b-chrominance": 4
+    },
+    {
+      "id": "86",
+      "name": "97",
+      "alias": " 97K",
+      "lightness": 23,
+      "a-chrominance": -3,
+      "b-chrominance": 4
+    },
+    {
+      "id": "87",
+      "name": "98",
+      "alias": " 98K",
+      "lightness": 47,
+      "a-chrominance": 8,
+      "b-chrominance": 25
+    },
+    {
+      "id": "88",
+      "name": "99",
+      "alias": " 99K",
+      "lightness": 63,
+      "a-chrominance": 0,
+      "b-chrominance": 0
+    }
+  ]
+}

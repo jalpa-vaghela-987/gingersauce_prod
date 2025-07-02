@@ -1,0 +1,783 @@
+{
+  "name": {
+    "system": "HKS Z Process",
+    "prefix": "HKS",
+    "suffix": "Z Process"
+  },
+  "values": [
+    {
+      "id": "1",
+      "name": "01",
+      "alias": " 01ZP",
+      "cyan": 0,
+      "magenta": 5,
+      "yellow": 70,
+      "black": 0
+    },
+    {
+      "id": "2",
+      "name": "02",
+      "alias": " 02ZP",
+      "cyan": 3,
+      "magenta": 0,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "3",
+      "name": "03",
+      "alias": " 03ZP",
+      "cyan": 0,
+      "magenta": 0,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "4",
+      "name": "04",
+      "alias": " 04ZP",
+      "cyan": 0,
+      "magenta": 15,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "5",
+      "name": "05",
+      "alias": " 05ZP",
+      "cyan": 0,
+      "magenta": 20,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "6",
+      "name": "06",
+      "alias": " 06ZP",
+      "cyan": 0,
+      "magenta": 30,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "7",
+      "name": "07",
+      "alias": " 07ZP",
+      "cyan": 0,
+      "magenta": 45,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "8",
+      "name": "08",
+      "alias": " 08ZP",
+      "cyan": 0,
+      "magenta": 55,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "9",
+      "name": "10",
+      "alias": " 10ZP",
+      "cyan": 0,
+      "magenta": 65,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "10",
+      "name": "11",
+      "alias": " 11ZP",
+      "cyan": 0,
+      "magenta": 45,
+      "yellow": 45,
+      "black": 0
+    },
+    {
+      "id": "11",
+      "name": "12",
+      "alias": " 12ZP",
+      "cyan": 0,
+      "magenta": 75,
+      "yellow": 90,
+      "black": 0
+    },
+    {
+      "id": "12",
+      "name": "13",
+      "alias": " 13ZP",
+      "cyan": 0,
+      "magenta": 90,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "13",
+      "name": "14",
+      "alias": " 14ZP",
+      "cyan": 0,
+      "magenta": 85,
+      "yellow": 95,
+      "black": 0
+    },
+    {
+      "id": "14",
+      "name": "15",
+      "alias": " 15ZP",
+      "cyan": 0,
+      "magenta": 95,
+      "yellow": 70,
+      "black": 0
+    },
+    {
+      "id": "15",
+      "name": "16",
+      "alias": " 16ZP",
+      "cyan": 10,
+      "magenta": 100,
+      "yellow": 80,
+      "black": 0
+    },
+    {
+      "id": "16",
+      "name": "17",
+      "alias": " 17ZP",
+      "cyan": 5,
+      "magenta": 100,
+      "yellow": 35,
+      "black": 5
+    },
+    {
+      "id": "17",
+      "name": "18",
+      "alias": " 18ZP",
+      "cyan": 25,
+      "magenta": 100,
+      "yellow": 55,
+      "black": 0
+    },
+    {
+      "id": "18",
+      "name": "21",
+      "alias": " 21ZP",
+      "cyan": 0,
+      "magenta": 55,
+      "yellow": 20,
+      "black": 0
+    },
+    {
+      "id": "19",
+      "name": "22",
+      "alias": " 22ZP",
+      "cyan": 0,
+      "magenta": 90,
+      "yellow": 80,
+      "black": 0
+    },
+    {
+      "id": "20",
+      "name": "23",
+      "alias": " 23ZP",
+      "cyan": 0,
+      "magenta": 95,
+      "yellow": 65,
+      "black": 0
+    },
+    {
+      "id": "21",
+      "name": "24",
+      "alias": " 24ZP",
+      "cyan": 0,
+      "magenta": 100,
+      "yellow": 25,
+      "black": 0
+    },
+    {
+      "id": "22",
+      "name": "25",
+      "alias": " 25ZP",
+      "cyan": 0,
+      "magenta": 100,
+      "yellow": 20,
+      "black": 0
+    },
+    {
+      "id": "23",
+      "name": "26",
+      "alias": " 26ZP",
+      "cyan": 5,
+      "magenta": 100,
+      "yellow": 5,
+      "black": 0
+    },
+    {
+      "id": "24",
+      "name": "27",
+      "alias": " 27ZP",
+      "cyan": 5,
+      "magenta": 100,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "25",
+      "name": "28",
+      "alias": " 28ZP",
+      "cyan": 10,
+      "magenta": 95,
+      "yellow": 15,
+      "black": 0
+    },
+    {
+      "id": "26",
+      "name": "29",
+      "alias": " 29ZP",
+      "cyan": 35,
+      "magenta": 95,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "27",
+      "name": "31",
+      "alias": " 31ZP",
+      "cyan": 15,
+      "magenta": 95,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "28",
+      "name": "32",
+      "alias": " 32ZP",
+      "cyan": 10,
+      "magenta": 100,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "29",
+      "name": "33",
+      "alias": " 33ZP",
+      "cyan": 30,
+      "magenta": 95,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "30",
+      "name": "34",
+      "alias": " 34ZP",
+      "cyan": 50,
+      "magenta": 100,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "31",
+      "name": "35",
+      "alias": " 35ZP",
+      "cyan": 95,
+      "magenta": 85,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "32",
+      "name": "36",
+      "alias": " 36ZP",
+      "cyan": 70,
+      "magenta": 95,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "33",
+      "name": "37",
+      "alias": " 37ZP",
+      "cyan": 70,
+      "magenta": 100,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "34",
+      "name": "38",
+      "alias": " 38ZP",
+      "cyan": 100,
+      "magenta": 65,
+      "yellow": 10,
+      "black": 35
+    },
+    {
+      "id": "35",
+      "name": "39",
+      "alias": " 39ZP",
+      "cyan": 100,
+      "magenta": 35,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "36",
+      "name": "40",
+      "alias": " 40ZP",
+      "cyan": 100,
+      "magenta": 10,
+      "yellow": 5,
+      "black": 0
+    },
+    {
+      "id": "37",
+      "name": "41",
+      "alias": " 41ZP",
+      "cyan": 95,
+      "magenta": 55,
+      "yellow": 5,
+      "black": 30
+    },
+    {
+      "id": "38",
+      "name": "42",
+      "alias": " 42ZP",
+      "cyan": 100,
+      "magenta": 65,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "39",
+      "name": "43",
+      "alias": " 43ZP",
+      "cyan": 100,
+      "magenta": 60,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "40",
+      "name": "44",
+      "alias": " 44ZP",
+      "cyan": 100,
+      "magenta": 30,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "41",
+      "name": "45",
+      "alias": " 45ZP",
+      "cyan": 100,
+      "magenta": 90,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "42",
+      "name": "46",
+      "alias": " 46ZP",
+      "cyan": 95,
+      "magenta": 10,
+      "yellow": 0,
+      "black": 15
+    },
+    {
+      "id": "43",
+      "name": "47",
+      "alias": " 47ZP",
+      "cyan": 100,
+      "magenta": 10,
+      "yellow": 0,
+      "black": 0
+    },
+    {
+      "id": "44",
+      "name": "48",
+      "alias": " 48ZP",
+      "cyan": 100,
+      "magenta": 0,
+      "yellow": 5,
+      "black": 0
+    },
+    {
+      "id": "45",
+      "name": "49",
+      "alias": " 49ZP",
+      "cyan": 100,
+      "magenta": 15,
+      "yellow": 5,
+      "black": 0
+    },
+    {
+      "id": "46",
+      "name": "50",
+      "alias": " 50ZP",
+      "cyan": 70,
+      "magenta": 0,
+      "yellow": 5,
+      "black": 0
+    },
+    {
+      "id": "47",
+      "name": "51",
+      "alias": " 51ZP",
+      "cyan": 100,
+      "magenta": 0,
+      "yellow": 25,
+      "black": 0
+    },
+    {
+      "id": "48",
+      "name": "52",
+      "alias": " 52ZP",
+      "cyan": 100,
+      "magenta": 0,
+      "yellow": 45,
+      "black": 0
+    },
+    {
+      "id": "49",
+      "name": "53",
+      "alias": " 53ZP",
+      "cyan": 75,
+      "magenta": 0,
+      "yellow": 40,
+      "black": 0
+    },
+    {
+      "id": "50",
+      "name": "54",
+      "alias": " 54ZP",
+      "cyan": 85,
+      "magenta": 0,
+      "yellow": 70,
+      "black": 0
+    },
+    {
+      "id": "51",
+      "name": "55",
+      "alias": " 55ZP",
+      "cyan": 100,
+      "magenta": 0,
+      "yellow": 65,
+      "black": 0
+    },
+    {
+      "id": "52",
+      "name": "56",
+      "alias": " 56ZP",
+      "cyan": 100,
+      "magenta": 10,
+      "yellow": 55,
+      "black": 20
+    },
+    {
+      "id": "53",
+      "name": "57",
+      "alias": " 57ZP",
+      "cyan": 100,
+      "magenta": 0,
+      "yellow": 85,
+      "black": 0
+    },
+    {
+      "id": "54",
+      "name": "58",
+      "alias": " 58ZP",
+      "cyan": 90,
+      "magenta": 5,
+      "yellow": 100,
+      "black": 30
+    },
+    {
+      "id": "55",
+      "name": "59",
+      "alias": " 59ZP",
+      "cyan": 100,
+      "magenta": 0,
+      "yellow": 35,
+      "black": 15
+    },
+    {
+      "id": "56",
+      "name": "60",
+      "alias": " 60ZP",
+      "cyan": 65,
+      "magenta": 0,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "57",
+      "name": "61",
+      "alias": " 61ZP",
+      "cyan": 70,
+      "magenta": 0,
+      "yellow": 95,
+      "black": 40
+    },
+    {
+      "id": "58",
+      "name": "62",
+      "alias": " 62ZP",
+      "cyan": 25,
+      "magenta": 15,
+      "yellow": 85,
+      "black": 20
+    },
+    {
+      "id": "59",
+      "name": "63",
+      "alias": " 63ZP",
+      "cyan": 60,
+      "magenta": 0,
+      "yellow": 85,
+      "black": 10
+    },
+    {
+      "id": "60",
+      "name": "64",
+      "alias": " 64ZP",
+      "cyan": 75,
+      "magenta": 0,
+      "yellow": 95,
+      "black": 0
+    },
+    {
+      "id": "61",
+      "name": "65",
+      "alias": " 65ZP",
+      "cyan": 55,
+      "magenta": 0,
+      "yellow": 75,
+      "black": 0
+    },
+    {
+      "id": "62",
+      "name": "66",
+      "alias": " 66ZP",
+      "cyan": 40,
+      "magenta": 0,
+      "yellow": 80,
+      "black": 0
+    },
+    {
+      "id": "63",
+      "name": "67",
+      "alias": " 67ZP",
+      "cyan": 40,
+      "magenta": 0,
+      "yellow": 85,
+      "black": 0
+    },
+    {
+      "id": "64",
+      "name": "68",
+      "alias": " 68ZP",
+      "cyan": 10,
+      "magenta": 0,
+      "yellow": 90,
+      "black": 0
+    },
+    {
+      "id": "65",
+      "name": "69",
+      "alias": " 69ZP",
+      "cyan": 5,
+      "magenta": 0,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "66",
+      "name": "71",
+      "alias": " 71ZP",
+      "cyan": 0,
+      "magenta": 25,
+      "yellow": 95,
+      "black": 0
+    },
+    {
+      "id": "67",
+      "name": "72",
+      "alias": " 72ZP",
+      "cyan": 0,
+      "magenta": 35,
+      "yellow": 100,
+      "black": 0
+    },
+    {
+      "id": "68",
+      "name": "73",
+      "alias": " 73ZP",
+      "cyan": 0,
+      "magenta": 35,
+      "yellow": 100,
+      "black": 15
+    },
+    {
+      "id": "69",
+      "name": "74",
+      "alias": " 74ZP",
+      "cyan": 0,
+      "magenta": 40,
+      "yellow": 100,
+      "black": 35
+    },
+    {
+      "id": "70",
+      "name": "75",
+      "alias": " 75ZP",
+      "cyan": 25,
+      "magenta": 25,
+      "yellow": 100,
+      "black": 25
+    },
+    {
+      "id": "71",
+      "name": "76",
+      "alias": " 76ZP",
+      "cyan": 0,
+      "magenta": 50,
+      "yellow": 100,
+      "black": 70
+    },
+    {
+      "id": "72",
+      "name": "77",
+      "alias": " 77ZP",
+      "cyan": 0,
+      "magenta": 60,
+      "yellow": 100,
+      "black": 55
+    },
+    {
+      "id": "73",
+      "name": "78",
+      "alias": " 78ZP",
+      "cyan": 0,
+      "magenta": 65,
+      "yellow": 95,
+      "black": 35
+    },
+    {
+      "id": "74",
+      "name": "81",
+      "alias": " 81ZP",
+      "cyan": 0,
+      "magenta": 70,
+      "yellow": 100,
+      "black": 10
+    },
+    {
+      "id": "75",
+      "name": "82",
+      "alias": " 82ZP",
+      "cyan": 10,
+      "magenta": 75,
+      "yellow": 90,
+      "black": 5
+    },
+    {
+      "id": "76",
+      "name": "83",
+      "alias": " 83ZP",
+      "cyan": 25,
+      "magenta": 95,
+      "yellow": 100,
+      "black": 15
+    },
+    {
+      "id": "77",
+      "name": "84",
+      "alias": " 84ZP",
+      "cyan": 35,
+      "magenta": 90,
+      "yellow": 90,
+      "black": 25
+    },
+    {
+      "id": "78",
+      "name": "88",
+      "alias": " 88ZP",
+      "cyan": 40,
+      "magenta": 0,
+      "yellow": 0,
+      "black": 100
+    },
+    {
+      "id": "79",
+      "name": "89",
+      "alias": " 89ZP",
+      "cyan": 0,
+      "magenta": 10,
+      "yellow": 20,
+      "black": 30
+    },
+    {
+      "id": "80",
+      "name": "90",
+      "alias": " 90ZP",
+      "cyan": 0,
+      "magenta": 30,
+      "yellow": 30,
+      "black": 95
+    },
+    {
+      "id": "81",
+      "name": "91",
+      "alias": " 91ZP",
+      "cyan": 15,
+      "magenta": 0,
+      "yellow": 5,
+      "black": 20
+    },
+    {
+      "id": "82",
+      "name": "92",
+      "alias": " 92ZP",
+      "cyan": 20,
+      "magenta": 5,
+      "yellow": 0,
+      "black": 50
+    },
+    {
+      "id": "83",
+      "name": "93",
+      "alias": " 93ZP",
+      "cyan": 35,
+      "magenta": 10,
+      "yellow": 0,
+      "black": 70
+    },
+    {
+      "id": "84",
+      "name": "95",
+      "alias": " 95ZP",
+      "cyan": 10,
+      "magenta": 5,
+      "yellow": 10,
+      "black": 30
+    },
+    {
+      "id": "85",
+      "name": "96",
+      "alias": " 96ZP",
+      "cyan": 5,
+      "magenta": 0,
+      "yellow": 5,
+      "black": 50
+    },
+    {
+      "id": "86",
+      "name": "97",
+      "alias": " 97ZP",
+      "cyan": 15,
+      "magenta": 0,
+      "yellow": 20,
+      "black": 95
+    }
+  ]
+}

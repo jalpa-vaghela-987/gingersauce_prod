@@ -1,0 +1,409 @@
+{
+  "name": {
+    "system": "HKS Z",
+    "prefix": "HKS",
+    "suffix": "Z"
+  },
+  "values": [
+    {
+      "id": "1",
+      "name": "2",
+      "alias": " 02Z",
+      "lightness": 82,
+      "a-chrominance": -3,
+      "b-chrominance": 75
+    },
+    {
+      "id": "2",
+      "name": "3",
+      "alias": " 03Z",
+      "lightness": 82,
+      "a-chrominance": 0,
+      "b-chrominance": 73
+    },
+    {
+      "id": "3",
+      "name": "4",
+      "alias": " 04Z",
+      "lightness": 78,
+      "a-chrominance": 10,
+      "b-chrominance": 68
+    },
+    {
+      "id": "4",
+      "name": "5",
+      "alias": " 05Z",
+      "lightness": 77,
+      "a-chrominance": 13,
+      "b-chrominance": 65
+    },
+    {
+      "id": "5",
+      "name": "6",
+      "alias": " 06Z",
+      "lightness": 73,
+      "a-chrominance": 25,
+      "b-chrominance": 60
+    },
+    {
+      "id": "6",
+      "name": "7",
+      "alias": " 07Z",
+      "lightness": 68,
+      "a-chrominance": 39,
+      "b-chrominance": 57
+    },
+    {
+      "id": "7",
+      "name": "8",
+      "alias": " 08Z",
+      "lightness": 64,
+      "a-chrominance": 45,
+      "b-chrominance": 51
+    },
+    {
+      "id": "8",
+      "name": "10",
+      "alias": " 10Z",
+      "lightness": 59,
+      "a-chrominance": 53,
+      "b-chrominance": 46
+    },
+    {
+      "id": "9",
+      "name": "12",
+      "alias": " 12Z",
+      "lightness": 56,
+      "a-chrominance": 56,
+      "b-chrominance": 42
+    },
+    {
+      "id": "10",
+      "name": "13",
+      "alias": " 13Z",
+      "lightness": 56,
+      "a-chrominance": 56,
+      "b-chrominance": 39
+    },
+    {
+      "id": "11",
+      "name": "14",
+      "alias": " 14Z",
+      "lightness": 58,
+      "a-chrominance": 54,
+      "b-chrominance": 33
+    },
+    {
+      "id": "12",
+      "name": "15",
+      "alias": " 15Z",
+      "lightness": 54,
+      "a-chrominance": 56,
+      "b-chrominance": 27
+    },
+    {
+      "id": "13",
+      "name": "16",
+      "alias": " 16Z",
+      "lightness": 52,
+      "a-chrominance": 48,
+      "b-chrominance": 22
+    },
+    {
+      "id": "14",
+      "name": "18",
+      "alias": " 18Z",
+      "lightness": 43,
+      "a-chrominance": 33,
+      "b-chrominance": 8
+    },
+    {
+      "id": "15",
+      "name": "22",
+      "alias": " 22Z",
+      "lightness": 54,
+      "a-chrominance": 56,
+      "b-chrominance": 35
+    },
+    {
+      "id": "16",
+      "name": "23",
+      "alias": " 23Z",
+      "lightness": 53,
+      "a-chrominance": 55,
+      "b-chrominance": 27
+    },
+    {
+      "id": "17",
+      "name": "25",
+      "alias": " 25Z",
+      "lightness": 51,
+      "a-chrominance": 54,
+      "b-chrominance": 10
+    },
+    {
+      "id": "18",
+      "name": "27",
+      "alias": " 27Z",
+      "lightness": 53,
+      "a-chrominance": 59,
+      "b-chrominance": -4
+    },
+    {
+      "id": "19",
+      "name": "33",
+      "alias": " 33Z",
+      "lightness": 45,
+      "a-chrominance": 48,
+      "b-chrominance": -29
+    },
+    {
+      "id": "20",
+      "name": "34",
+      "alias": " 34Z",
+      "lightness": 42,
+      "a-chrominance": 29,
+      "b-chrominance": -30
+    },
+    {
+      "id": "21",
+      "name": "37",
+      "alias": " 37Z",
+      "lightness": 40,
+      "a-chrominance": 25,
+      "b-chrominance": -36
+    },
+    {
+      "id": "22",
+      "name": "38",
+      "alias": " 38Z",
+      "lightness": 36,
+      "a-chrominance": 0,
+      "b-chrominance": -14
+    },
+    {
+      "id": "23",
+      "name": "39",
+      "alias": " 39Z",
+      "lightness": 45,
+      "a-chrominance": -5,
+      "b-chrominance": -43
+    },
+    {
+      "id": "24",
+      "name": "41",
+      "alias": " 41Z",
+      "lightness": 40,
+      "a-chrominance": -2,
+      "b-chrominance": -15
+    },
+    {
+      "id": "25",
+      "name": "42",
+      "alias": " 42Z",
+      "lightness": 42,
+      "a-chrominance": 4,
+      "b-chrominance": -40
+    },
+    {
+      "id": "26",
+      "name": "43",
+      "alias": " 43Z",
+      "lightness": 43,
+      "a-chrominance": 5,
+      "b-chrominance": -42
+    },
+    {
+      "id": "27",
+      "name": "44",
+      "alias": " 44Z",
+      "lightness": 46,
+      "a-chrominance": -9,
+      "b-chrominance": -39
+    },
+    {
+      "id": "28",
+      "name": "46",
+      "alias": " 46Z",
+      "lightness": 50,
+      "a-chrominance": -16,
+      "b-chrominance": -24
+    },
+    {
+      "id": "29",
+      "name": "47",
+      "alias": " 47Z",
+      "lightness": 53,
+      "a-chrominance": -23,
+      "b-chrominance": -35
+    },
+    {
+      "id": "30",
+      "name": "48",
+      "alias": " 48Z",
+      "lightness": 56,
+      "a-chrominance": -29,
+      "b-chrominance": -27
+    },
+    {
+      "id": "31",
+      "name": "50",
+      "alias": " 50Z",
+      "lightness": 62,
+      "a-chrominance": -27,
+      "b-chrominance": -21
+    },
+    {
+      "id": "32",
+      "name": "51",
+      "alias": " 51Z",
+      "lightness": 56,
+      "a-chrominance": -37,
+      "b-chrominance": -18
+    },
+    {
+      "id": "33",
+      "name": "53",
+      "alias": " 53Z",
+      "lightness": 61,
+      "a-chrominance": -49,
+      "b-chrominance": 1
+    },
+    {
+      "id": "34",
+      "name": "54",
+      "alias": " 54Z",
+      "lightness": 56,
+      "a-chrominance": -45,
+      "b-chrominance": 13
+    },
+    {
+      "id": "35",
+      "name": "55",
+      "alias": " 55Z",
+      "lightness": 53,
+      "a-chrominance": -39,
+      "b-chrominance": 6
+    },
+    {
+      "id": "36",
+      "name": "57",
+      "alias": " 57Z",
+      "lightness": 52,
+      "a-chrominance": -40,
+      "b-chrominance": 18
+    },
+    {
+      "id": "37",
+      "name": "60",
+      "alias": " 60Z",
+      "lightness": 60,
+      "a-chrominance": -35,
+      "b-chrominance": 37
+    },
+    {
+      "id": "38",
+      "name": "61",
+      "alias": " 61Z",
+      "lightness": 45,
+      "a-chrominance": -17,
+      "b-chrominance": 14
+    },
+    {
+      "id": "39",
+      "name": "62",
+      "alias": " 62Z",
+      "lightness": 55,
+      "a-chrominance": -7,
+      "b-chrominance": 32
+    },
+    {
+      "id": "40",
+      "name": "63",
+      "alias": " 63Z",
+      "lightness": 55,
+      "a-chrominance": -22,
+      "b-chrominance": 30
+    },
+    {
+      "id": "41",
+      "name": "64",
+      "alias": " 64Z",
+      "lightness": 58,
+      "a-chrominance": -41,
+      "b-chrominance": 30
+    },
+    {
+      "id": "42",
+      "name": "65",
+      "alias": " 65Z",
+      "lightness": 64,
+      "a-chrominance": -45,
+      "b-chrominance": 39
+    },
+    {
+      "id": "43",
+      "name": "66",
+      "alias": " 66Z",
+      "lightness": 71,
+      "a-chrominance": -35,
+      "b-chrominance": 51
+    },
+    {
+      "id": "44",
+      "name": "67",
+      "alias": " 67Z",
+      "lightness": 69,
+      "a-chrominance": -37,
+      "b-chrominance": 53
+    },
+    {
+      "id": "45",
+      "name": "71",
+      "alias": " 71Z",
+      "lightness": 70,
+      "a-chrominance": 20,
+      "b-chrominance": 59
+    },
+    {
+      "id": "46",
+      "name": "72",
+      "alias": " 72Z",
+      "lightness": 67,
+      "a-chrominance": 23,
+      "b-chrominance": 55
+    },
+    {
+      "id": "47",
+      "name": "76",
+      "alias": " 76Z",
+      "lightness": 40,
+      "a-chrominance": 7,
+      "b-chrominance": 15
+    },
+    {
+      "id": "48",
+      "name": "77",
+      "alias": " 77Z",
+      "lightness": 40,
+      "a-chrominance": 12,
+      "b-chrominance": 15
+    },
+    {
+      "id": "49",
+      "name": "78",
+      "alias": " 78Z",
+      "lightness": 46,
+      "a-chrominance": 19,
+      "b-chrominance": 20
+    },
+    {
+      "id": "50",
+      "name": "82",
+      "alias": " 82Z",
+      "lightness": 53,
+      "a-chrominance": 32,
+      "b-chrominance": 30
+    }
+  ]
+}
