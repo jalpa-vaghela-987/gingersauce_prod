@@ -1,0 +1,121 @@
+.parentClassV3 .brand-archetype-line {
+
+    .main-color-fill {
+        fill: var(--theme-color);
+    }
+
+    .sec-color-fill {
+        fill: var(--sec-color);
+    }
+
+
+    .archetype-wrapper {
+        position: relative;
+        z-index: 2;
+        display: flex;
+        flex-wrap: wrap;
+
+
+        @media screen and (max-width: 992px) {
+            margin-right: 0px;
+        }
+
+        .archetype {
+            &:only-child {
+                text-align: center;
+                margin: 0 auto;
+                max-width: 600px;
+
+                .img-wrapper {
+                    width: 321px;
+                    height: 367px;
+                    margin: 0 auto 50px;
+                    display: flex;
+
+                    @media screen and (max-width: 992px) {
+                        width: 93px;
+                        height: 103px;
+                        margin-bottom: 17px;
+                        margin-left: 0px;
+                    }
+
+                    img,
+                    svg {
+                        max-width: 100%;
+                        max-height: 100%;
+                        align-self: center;
+                        object-fit: fill;
+                        margin: 0 auto;
+                    }
+                }
+            }
+
+            &:not(:only-child) {
+                max-width: 340px;
+                display: block;
+                float: left;
+
+
+                .img-wrapper {
+                    width: 285px;
+                    height: 333px;
+                    margin: 0 auto 50px;
+                    display: flex;
+
+                    @media screen and (max-width: 992px) {
+                        width: 93px;
+                        height: 103px;
+                        margin-bottom: 17px;
+                        margin-left: 0px;
+                    }
+
+                    img,
+                    svg {
+                        max-width: 100%;
+                        max-height: 100%;
+                        align-self: end;
+                        object-fit: fill;
+                    }
+                }
+
+                .content {
+                    margin-top: 30px;
+
+                    @media screen and (max-width: 992px) {
+                        margin-top: 0px;
+                    }
+                }
+
+                &:not(:only-child):not(:first-child) {
+                    position: relative;
+                    margin-left: 210px;
+
+                    @media screen and (max-width: 992px) {
+                        margin-left: 0px !important;
+                        margin-top: 140px;
+                    }
+
+                    &::before {
+                        content: '&';
+                        font-family: 'Abril Fatface';
+                        font-size: 100px;
+                        position: absolute;
+                        left: -155px;
+                        bottom: 30px;
+                        opacity: 0.2;
+
+                        @media screen and (max-width: 992px) {
+                            left: 0px !important;
+                            top: -140px;
+                            font-size: 76px;
+                        }
+                    }
+
+
+                }
+
+            }
+
+        }
+    }
+}

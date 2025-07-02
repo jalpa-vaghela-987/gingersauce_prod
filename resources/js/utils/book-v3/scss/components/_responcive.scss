@@ -1,0 +1,157 @@
+.parentClassV3 {
+    @media (max-width: 796px) {
+
+
+        .colors-line {
+            grid-row-start: 1;
+        }
+
+        #main-book>.d-flex {
+            flex-direction: column;
+            flex-wrap: nowrap;
+            gap: 10px !important;
+            grid-column: 1;
+            padding-bottom: 10px !important;
+        }
+
+        #main-book {
+            grid-template-columns: calc(70% - 5px) calc(30% - 5px);
+            //grid-auto-rows: 2px;
+            gap: 0px 10px !important;
+            padding: 70px 0 40px;
+            max-width: 100%;
+            overflow: hidden;
+            grid-auto-flow: column;
+        }
+
+        .full-width {
+            grid-column: 1 / -1;
+        }
+    }
+
+    @media screen and (max-width: 1280px) {
+        .colors-line {
+            flex-wrap: wrap;
+        }
+
+        .tooltip-wrapper {
+            max-width: unset !important;
+            min-width: 120px;
+        }
+
+        .brand-archetype-line .archetype-wrapper .archetype:not(:only-child):not(:only-child):not(:first-child) {
+            position: relative;
+            margin-left: 100px;
+        }
+
+        .brand-archetype-line .archetype-wrapper .archetype:not(:only-child):not(:only-child):not(:first-child)::before {
+            left: -90px;
+        }
+    }
+
+    @media screen and (max-width: 1300px) {
+        .colors-line .wrapper-default-block {
+            max-width: unset !important;
+        }
+
+        .colors-line:has(.wrapper-default-block:nth-child(7)) .wrapper-default-block {
+            min-width: calc(100% / 5)
+        }
+
+        .colors-line:has(.wrapper-default-block:nth-child(8)) .wrapper-default-block {
+            min-width: calc(100% / 5)
+        }
+
+        .colors-line:has(.wrapper-default-block:nth-child(9)) .wrapper-default-block {
+            min-width: calc(100% / 6)
+        }
+    }
+
+    @media screen and (max-width: 796px) {
+        #main-book .wrapper-default-block.proportions-block {
+            width: 100%;
+        }
+
+        .colors-line:has(.wrapper-default-block:nth-child(6)) .wrapper-default-block {
+            min-width: calc(100% / 7)
+        }
+
+        #main-book .wrapper-default-block,
+        #main-book .wrapper-default-block.brand-archetype-line .default-block {
+            height: fit-content;
+        }
+
+        #main-book .zero-line .logo-block-v3 {
+            height: 200px !important;
+            min-height: 200px;
+            max-height: 200px;
+        }
+
+
+        #main-book .zero-line .mockup-block {
+            height: 125px !important;
+            max-height: 125px;
+        }
+
+        #main-book .colors-block {
+            min-height: 93px !important;
+            height: 93px;
+            padding-bottom: 5px !important;
+
+            .color-value {
+                gap: 3px 3px;
+                grid-template-columns: 1fr 1fr;
+                font-size: 7px;
+            }
+        }
+
+        .icons-line .icons-block {
+            min-height: 70px !important;
+            height: 70px;
+            max-height: 73px;
+        }
+
+        .full-width-masonry {
+            grid-column: 1 / -1 !important;
+        }
+
+        .colors-line,
+        .icons-line {
+            flex-direction: column;
+            grid-column: 2 !important;
+        }
+
+        .core-values-block-wrap .content {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .misuse-line .misuse-block-wrap {
+            gap: 10px;
+            justify-content: space-around;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .misuse-line .misuse-block-wrapper {
+            max-width: 40%;
+        }
+
+        .mockup-block-spaces {
+            height: 222px;
+            min-height: 222px !important;
+            max-height: 222px !important;
+        }
+
+        .font-block,
+        .mockup-block,
+        .four-elements,
+        .three-elements {
+            height: 150px;
+            min-height: 150px !important;
+            max-height: 150px !important;
+
+        }
+    }
+
+}

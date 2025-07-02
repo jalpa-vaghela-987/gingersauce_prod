@@ -1,0 +1,53 @@
+.main-book a{
+    color: var(--theme-color);
+}
+
+.main-book .main-btn{
+    background-color: var(--theme-color);
+}
+
+.main-book  .sec-btn:hover {
+    border-color: var(--theme-color);
+    color: var(--theme-color);
+}
+
+.main-book #dropzone {
+    border: 2px dashed var(--theme-color) !important;
+}
+
+.main-book {
+    scrollbar-color: var(--theme-color) #f2f2f2 !important;
+}
+
+.parentClass {
+    scrollbar-color: var(--main-color-book) #f2f2f2;
+}
+
+
+.parentClass {
+    scrollbar-color: var(--main-color-book) #f2f2f2;
+}
+
+#new-brandbook-form {
+    z-index: 10000;
+}
+
+#modal-choose-plan {
+    z-index: 1060;
+}
+.footer-icon {
+    align-self: center;
+}
+
+.parentClass section>*:not([class*="bg"]){
+    position: relative;
+    z-index: 1
+}
+
+.parentClass #section-new + .content {
+    z-index: 3;
+}
+
+.not-remove-watermark {
+    margin-top: 0 !important;
+}

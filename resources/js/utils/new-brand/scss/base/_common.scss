@@ -1,0 +1,38 @@
+.link {
+    text-decoration: none;
+}
+
+a {
+    color: var(--main-color-book);
+}
+
+.list {
+    list-style: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+img {
+    display: block;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: var(--secFont);
+    min-height: 100%;
+    font-weight: var(--secFontWeight);
+}
+
+hr.divider {
+    border-color: #F0F0F0;
+    opacity: 1;
+}
+
+.vc-chrome {
+    font-family: var(--secFont) !important;
+}

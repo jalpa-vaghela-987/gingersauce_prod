@@ -1,0 +1,25 @@
+:root {
+
+    --mainFont: 'Poppins', serif;
+    --secFont: 'Poppins', sans-serif;
+    --main-color-book: #A2224C;
+
+    --border-color: #E1E1E1;
+    --theme-color: #A2224C;
+    --sec-color: #93989B;
+    --mainFontWeight: 400;
+    --secFontWeight: 400;
+
+}
+
+.parentClassV3 .main-color {
+    fill: var(--theme-color) !important;
+}
+
+.parentClassV3 .sec-color {
+    fill: var(--sec-color) !important;
+}
+
+.parentClassV3 .sec-font {
+    font-family: var(--secFont);
+}

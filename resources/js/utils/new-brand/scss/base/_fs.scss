@@ -1,0 +1,139 @@
+:root {
+    --fontSize: 16px;
+}
+
+.fs-18 {
+    font-size: calc(var(--fontSize) * 1.125);
+}
+
+.fs-22 {
+    font-size: calc(var(--fontSize) * 1.375);
+    /* 22 / 16 */
+}
+
+.fs-16 {
+    font-size: var(--fontSize);
+    /* 16 / 16 */
+}
+
+.fs-12 {
+    font-size: calc(var(--fontSize) * 0.75);
+    /* 12 / 16 */
+}
+
+.fs-14 {
+    font-size: calc(var(--fontSize) * 0.875);
+    /* 14 / 16 */
+}
+
+.fs-20 {
+    font-size: calc(var(--fontSize) * 1.25);
+    /* 20 / 16 */
+}
+
+.fs-24 {
+    font-size: calc(var(--fontSize) * 1.5);
+
+    @media screen and (max-width: 992px) {
+        font-size: calc(var(--fontSize) * 1);
+    }
+}
+
+.fs-28 {
+    font-size: calc(var(--fontSize) * 1.75);
+
+    @media screen and (max-width: 992px) {
+        font-size: calc(var(--fontSize) * 1.17);
+    }
+}
+
+.fs-32 {
+    font-size: calc(var(--fontSize) * 2);
+    /* 32 / 16 */
+}
+
+.fs-34 {
+    font-size: calc(var(--fontSize) * 2.125);
+
+    @media screen and (max-width: 992px) {
+        font-size: calc(var(--fontSize) * 1.42);
+    }
+}
+
+.mt-90 {
+    margin-top: calc(var(--fontSize) * 5.625);
+    /* 90 / 16 */
+}
+
+.mt-60 {
+    margin-top: calc(var(--fontSize) * 3.75);
+    /* 60 / 16 */
+}
+
+.mt-32 {
+    margin-top: calc(var(--fontSize) * 2);
+    /* 32 / 16 */
+}
+
+.mt-37 {
+    margin-top: calc(var(--fontSize) * 2.3125);
+    /* 37 / 16 */
+}
+
+.mb-32 {
+    margin-bottom: calc(var(--fontSize) * 2);
+    /* 32 / 16 */
+}
+
+.mb-40 {
+    margin-bottom: calc(var(--fontSize) * 2.5);
+    /* 40 / 16 */
+}
+
+.mb-50 {
+    margin-bottom: calc(var(--fontSize) * 3.125);
+    /* 50 / 16 */
+}
+
+.pt-40 {
+    padding-block-start: calc(var(--fontSize) * 2.5) !important;
+    /* 40 / 16 */
+}
+
+h1 {
+    font-family: var(--mainFont);
+    font-size: calc(var(--fontSize) * 3.75);
+    /* 60 / 16 */
+    font-weight: var(--mainFontWeight);
+    line-height: 1.2;
+    text-align: left;
+
+    @media screen and (max-width: 992px) {
+        font-size: calc(var(--fontSize) * 2.5);
+        /* 40 / 16 */
+    }
+}
+
+h2 {
+    font-family: var(--mainFont);
+    /* 60 / 16 */
+    font-weight: var(--mainFontWeight);
+    font-size: calc(var(--fontSize) * 2.5);
+    /* 40 / 16 */
+    color: #121434;
+}
+
+.me-36 {
+    margin-right: calc(var(--fontSize) * 2.25);
+    /* 36 / 16 */
+}
+
+.me-40 {
+    margin-inline-end: calc(var(--fontSize) * 2.5);
+    /* 40 / 16 */
+}
+
+.ms-40 {
+    margin-inline-start: calc(var(--fontSize) * 2.5);
+    /* 40 / 16 */
+}

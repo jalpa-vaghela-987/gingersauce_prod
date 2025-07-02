@@ -1,0 +1,185 @@
+.preview-card-container {
+    width: 328px;
+    height: 270px;
+    border-radius: 16px;
+    box-shadow: 0px 4px 30px 0px #00000026;
+    position: relative;
+    overflow: hidden;
+
+    @media screen and (max-width: 1071px) {
+        width: calc(50% - 8px);
+        height: 20vw;
+        min-height: 135px;
+        border-radius: 10px;
+        box-shadow: 0px 1.99px 14.96px 0px #00000026;
+    }
+
+    .logo-section {
+        height: calc(100% - 64px);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        @media screen and (max-width: 1071px) {
+            height: calc(100% - 35px);
+        }
+
+        img {
+            object-fit: contain;
+            width: 170px;
+            height: 56px;
+
+            @media screen and (max-width: 1071px) {
+                width: 85px;
+                height: 28px;
+            }
+        }
+    }
+
+    .font-colors-section {
+        height: 64px;
+
+        @media screen and (max-width: 1071px) {
+            height: 35px;
+        }
+    }
+
+    .font-indicator {
+        border: 1px solid #00000033;
+        border-radius: 8px;
+        width: fit-content;
+        padding: 8px;
+        position: absolute;
+        left: 28px;
+        bottom: 34px;
+        background-color: #fff;
+        min-width: 56px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        @media screen and (max-width: 1071px) {
+            padding: 5px;
+            left: 10px;
+            bottom: 18px;
+            min-width: 31px;
+        }
+
+
+        .font-icon {
+            font-weight: 600;
+            line-height: 110%;
+            text-align: center;
+            vertical-align: middle;
+            font-size: 29px;
+
+            @media screen and (max-width: 1071px) {
+                font-size: 16px;
+            }
+        }
+    }
+
+    .color-bars {
+        width: 100%;
+        display: flex;
+        height: 100%;
+
+        .color-bar {
+            &:first-child {
+                flex-grow: 120;
+            }
+
+            &:nth-child(2) {
+                flex-grow: 70;
+
+                &:last-child {
+                    flex-grow: 120;
+                }
+            }
+
+            &:nth-child(3) {
+                flex-grow: 50;
+            }
+
+
+        }
+
+        .other-colors {
+            flex-grow: 112;
+            display: flex;
+
+            &>* {
+                flex-grow: 1 !important;
+            }
+        }
+    }
+
+    &:last-child:nth-child(2) {
+        margin-top: 13vh;
+
+        @media screen and (max-width: 1253px) {
+            margin-top: 0px;
+        }
+    }
+
+    &:only-child,
+    &:first-child:nth-last-child(2),
+    &:last-child:nth-child(2) {
+        width: 419px;
+        height: 345px;
+
+        @media screen and (max-width: 1253px) {
+            width: 100%;
+            height: 40vw;
+            min-height: 277px;
+        }
+
+        .logo-section {
+            height: calc(100% - 82px);
+
+            @media screen and (max-width: 1071px) {
+                height: calc(100% - 65px);
+            }
+
+            img {
+                object-fit: contain;
+                width: 217px;
+                height: 72px;
+
+                @media screen and (max-width: 1071px) {
+                    width: 173px;
+                    height: 57px;
+                }
+            }
+        }
+
+        .font-colors-section {
+            height: 82px;
+
+            @media screen and (max-width: 1071px) {
+                height: 65px;
+            }
+        }
+
+        .font-indicator {
+            border: 1.32px solid #00000033;
+            padding: 10px;
+            bottom: 41px;
+            min-width: 74px;
+
+            @media screen and (max-width: 1071px) {
+                padding: 9px 8px;
+                left: 28px;
+                min-width: 56px;
+            }
+
+            .font-icon {
+                font-size: 38px;
+
+                @media screen and (max-width: 1071px) {
+                    font-size: 29px;
+                }
+            }
+        }
+    }
+}

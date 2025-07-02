@@ -1,0 +1,207 @@
+.parentClass {
+    #section-new {
+        min-height: unset;
+        padding-right: 98px;
+        padding-left: 0px;
+        overflow: visible;
+        z-index: 2;
+
+        @media screen and (max-width: 992px) {
+            padding: 60px 0px 40px 0px;
+        }
+
+        h1,
+        div.editable-content {
+            width: fit-content;
+            padding-right: 110px;
+            min-width: 550px;
+        }
+
+        .content {
+            max-width: unset !important;
+        }
+
+        .add-line {
+            height: 28px;
+            background-image: linear-gradient(to right, #000, #000);
+            background-position: center;
+            background-size: auto 2px;
+            background-repeat: no-repeat;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            position: relative;
+
+            .add-icon {
+                background-color: #000;
+                width: 33px;
+                height: 28px;
+                border-radius: 6px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                svg {
+                    filter: invert(1);
+                }
+
+
+            }
+
+            .dropdown-menu-center {
+                right: auto;
+                left: 50% !important;
+                transform: translateX(-50%) !important;
+                padding: 0px;
+                border: 2px solid #000;
+                border-radius: 28px;
+                gap: 0px;
+                transition: all 300ms linear;
+                position: fixed;
+
+                &.show {
+                    display: flex;
+                }
+
+                &[x-placement="bottom-start"] {
+                    transform: translate(-50%, 40px) !important;
+                }
+
+                &[x-placement="top-start"] {
+                    transform: translate(-50%, -115px) !important;
+                }
+
+                a {
+                    padding: 22px 28px;
+                    display: flex;
+                    flex-direction: column;
+                    font-size: 14px;
+                    font-weight: 400;
+                    justify-content: center;
+                    align-items: center;
+                    color: #000;
+
+                    &:hover {
+                        background-color: transparent;
+                        color: var(--theme-color);
+                    }
+
+
+                    @media screen and (max-width: 992px) {
+                        padding: 10px 15px;
+                    }
+                }
+            }
+        }
+    }
+
+    .new-image,
+    figure.image,
+    .editable-content,
+    figure.image img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .wrapper-cropper {
+        width: 500px;
+        margin: 0 auto;
+
+        img {
+            display: block;
+            max-width: 100%;
+        }
+    }
+
+    #dropzone {
+        border: 2px dashed var(--main-color-book);
+        border-radius: 5px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .resizable-image {
+        position: relative;
+        display: inline-block;
+
+        img {
+            display: block;
+            max-width: 100%;
+            max-height: 100%;
+        }
+
+        .resizer {
+            width: 15px;
+            height: 15px;
+            background: #000;
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            cursor: se-resize;
+            border: 2px solid #fff;
+        }
+    }
+
+    .content {
+        position: relative;
+    }
+
+    .editable-wrap {
+        position: absolute;
+        right: 0px;
+        display: flex;
+        gap: 10px;
+        opacity: 0;
+        z-index: -1;
+        transition: opacity 300ms linear;
+        width: fit-content;
+        padding-bottom: 100px;
+        padding-left: 100px;
+
+        button {
+            border: 0px !important;
+            color: transparent;
+            background-color: transparent;
+            font-size: 0px;
+            width: 20px;
+            height: 20px;
+            background-size: 18px;
+            background-repeat: no-repeat;
+            background-position: center;
+
+            &.edit-button {
+                background-image: url('data:image/svg+xml,%3Csvg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath d="M16.531 5.21604L15.0004 6.7467C14.8443 6.90276 14.592 6.90276 14.4359 6.7467L10.7504 3.06116C10.5943 2.9051 10.5943 2.65276 10.7504 2.4967L12.281 0.96604C12.9019 0.345142 13.9113 0.345142 14.5355 0.96604L16.531 2.96155C17.1553 3.58245 17.1553 4.59182 16.531 5.21604ZM9.43554 3.81155L0.716401 12.5307L0.0124945 16.5649C-0.0837946 17.1094 0.39101 17.5809 0.935541 17.4879L4.96972 16.7807L13.6889 8.06155C13.8449 7.90549 13.8449 7.65315 13.6889 7.49709L10.0033 3.81155C9.84394 3.65549 9.5916 3.65549 9.43554 3.81155ZM4.11972 11.7836C3.9371 11.601 3.9371 11.3088 4.11972 11.1262L9.233 6.01291C9.41562 5.8303 9.70781 5.8303 9.89042 6.01291C10.073 6.19553 10.073 6.48772 9.89042 6.67034L4.77714 11.7836C4.59453 11.9662 4.30234 11.9662 4.11972 11.7836ZM2.92109 14.576H4.51484V15.7813L2.37324 16.1565L1.34062 15.1238L1.71581 12.9822H2.92109V14.576Z" fill="black"/%3E%3C/svg%3E');
+                background-size: 16px;
+            }
+
+            &.delete-button {
+                background-image: url('data:image/svg+xml,%3Csvg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath d="M13.4585 4.95834C13.2706 4.95834 13.0905 5.03297 12.9576 5.16581C12.8248 5.29865 12.7502 5.47882 12.7502 5.66668V13.5936C12.7298 13.9518 12.5688 14.2875 12.3021 14.5275C12.0355 14.7675 11.6848 14.8924 11.3264 14.875H5.67391C5.31556 14.8924 4.96486 14.7675 4.69819 14.5275C4.43152 14.2875 4.27048 13.9518 4.25016 13.5936V5.66668C4.25016 5.47882 4.17553 5.29865 4.0427 5.16581C3.90986 5.03297 3.72969 4.95834 3.54183 4.95834C3.35397 4.95834 3.1738 5.03297 3.04096 5.16581C2.90812 5.29865 2.8335 5.47882 2.8335 5.66668V13.5936C2.85371 14.3276 3.16399 15.0237 3.69637 15.5294C4.22876 16.0351 4.93985 16.3092 5.67391 16.2917H11.3264C12.0605 16.3092 12.7716 16.0351 13.304 15.5294C13.8363 15.0237 14.1466 14.3276 14.1668 13.5936V5.66668C14.1668 5.47882 14.0922 5.29865 13.9594 5.16581C13.8265 5.03297 13.6464 4.95834 13.4585 4.95834Z" fill="black"/%3E%3Cpath d="M14.1667 2.83334H11.3333V1.41668C11.3333 1.22882 11.2587 1.04865 11.1259 0.91581C10.993 0.782971 10.8129 0.708344 10.625 0.708344H6.375C6.18714 0.708344 6.00697 0.782971 5.87413 0.91581C5.74129 1.04865 5.66667 1.22882 5.66667 1.41668V2.83334H2.83333C2.64547 2.83334 2.4653 2.90797 2.33247 3.04081C2.19963 3.17365 2.125 3.35382 2.125 3.54168C2.125 3.72954 2.19963 3.90971 2.33247 4.04254C2.4653 4.17538 2.64547 4.25001 2.83333 4.25001H14.1667C14.3545 4.25001 14.5347 4.17538 14.6675 4.04254C14.8004 3.90971 14.875 3.72954 14.875 3.54168C14.875 3.35382 14.8004 3.17365 14.6675 3.04081C14.5347 2.90797 14.3545 2.83334 14.1667 2.83334ZM7.08333 2.83334V2.12501H9.91667V2.83334H7.08333Z" fill="black"/%3E%3Cpath d="M7.79167 12.0417V7.08333C7.79167 6.89547 7.71704 6.7153 7.5842 6.58247C7.45136 6.44963 7.2712 6.375 7.08333 6.375C6.89547 6.375 6.7153 6.44963 6.58247 6.58247C6.44963 6.7153 6.375 6.89547 6.375 7.08333V12.0417C6.375 12.2295 6.44963 12.4097 6.58247 12.5425C6.7153 12.6754 6.89547 12.75 7.08333 12.75C7.2712 12.75 7.45136 12.6754 7.5842 12.5425C7.71704 12.4097 7.79167 12.2295 7.79167 12.0417Z" fill="black"/%3E%3Cpath d="M10.6252 12.0417V7.08333C10.6252 6.89547 10.5505 6.7153 10.4177 6.58247C10.2849 6.44963 10.1047 6.375 9.91683 6.375C9.72897 6.375 9.5488 6.44963 9.41596 6.58247C9.28312 6.7153 9.2085 6.89547 9.2085 7.08333V12.0417C9.2085 12.2295 9.28312 12.4097 9.41596 12.5425C9.5488 12.6754 9.72897 12.75 9.91683 12.75C10.1047 12.75 10.2849 12.6754 10.4177 12.5425C10.5505 12.4097 10.6252 12.2295 10.6252 12.0417Z" fill="black"/%3E%3C/svg%3E');
+            }
+        }
+
+        @media screen and (max-width: 992px) {
+            left: auto !important;
+            right: 0px;
+            margin-left: 0px !important;
+        }
+    }
+
+    h1.editable-content+.editable-wrap {
+        margin-left: -210px;
+    }
+
+    div.editable-content+.editable-wrap {
+        margin-left: -170px;
+    }
+
+    img.editable-content+.editable-wrap {
+        margin-left: -90px;
+    }
+
+    .editable-wrap:hover,
+    .editable-content:hover+.editable-wrap {
+        opacity: 1;
+        z-index: 2;
+    }
+}

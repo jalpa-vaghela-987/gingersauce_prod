@@ -1,0 +1,23 @@
+:root {
+
+    --mainFont: 'Abril Fatface', serif;
+    --secFont: 'Montserrat', sans-serif;
+    --main-color-book: #A2224C;
+
+    --border-color: #E1E1E1;
+    --theme-color: #A2224C;
+    --sec-color: #93989B;
+
+}
+
+.main-color {
+    fill: var(--theme-color) !important;
+}
+
+.sec-color {
+    fill: var(--sec-color) !important;
+}
+
+.sec-font {
+    font-family: var(--secFont);
+}

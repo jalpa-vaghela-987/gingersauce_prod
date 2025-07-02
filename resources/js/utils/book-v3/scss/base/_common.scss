@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url('~@/utils/book-v3/fonts/Montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Abril Fatface';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('~@/utils/book-v3/fonts/Abril_Fatface/AbrilFatface-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300 800;
+    font-display: swap;
+    src: url('~@/utils/book-v3/fonts/Open_Sans/OpenSans-VariableFont_wdth_wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Open Sans Hebrew';
+    font-style: normal;
+    font-weight: 300 800;
+    font-display: swap;
+    src: url('~@/utils/book-v3/fonts/Open_Sans/OpenSans-VariableFont_wdth_wght.ttf') format('truetype');
+}
+
+.parentClassV3 .link {
+    text-decoration: none;
+}
+
+.parentClassV3 a {
+    color: var(--main-color-book);
+}
+
+.parentClassV3 .list {
+    list-style: none;
+}
+
+.parentClassV3 button {
+    cursor: pointer;
+}
+
+.parentClassV3 img {
+    display: block;
+}
+
+.parentClassV3 {
+    font-family: var(--secFont);
+    min-height: 100%;
+    font-weight: var(--secFontWeight);
+}
+
+.parentClassV3 hr.divider {
+    border-color: #F0F0F0;
+    opacity: 1;
+}
+
+.parentClassV3 .vc-chrome {
+    font-family: var(--secFont) !important;
+}
+
+.parentClassV3 .vc-chrome * {
+    z-index: 100000;
+}
+
+body[style*="theme-color"]:has(.parentClassV3) {
+    overflow: auto;
+}
+
+.parentClassV3 {
+    background-color: #fff !important;
+}
+
+.wrapper-default-block {
+    position: relative;
+}
+
+.submenu-download {
+    position: absolute !important;
+    right: 10px;
+    top: 10px;
+}
+
+.tooltip-wrapper {
+    position: relative;
+}
+
+.tooltip-wrapper:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+}
+
+.tooltip-text {
+    visibility: hidden;
+    background-color: #fff;
+    color: #333;
+    text-align: center;
+    padding: 5px 5px;
+    border-radius: 4px;
+    position: absolute;
+    z-index: 1;
+    top: -20px;
+    left: 0%;
+    opacity: 0;
+    transition: opacity 0.3s;
+    white-space: nowrap;
+    z-index: 1;
+    font-size: 12px;
+    border: 1px solid #00000030;
+}
+
+.text-black {
+    color: #000;
+}

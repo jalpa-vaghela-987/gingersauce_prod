@@ -1,0 +1,159 @@
+@extends('layouts.app')
+
+@section('content')
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="font-weight-bold">{{__('Pricing')}}</h2>
+                <div class="font-weight-bold">{{__('Choose your Favorite Sauce with simple pay-as-you-go pricing')}}</div>
+            </div>
+        </div>
+        <div class="row mt-4 card-deck mb-5">
+            {{-- <div class="col-3 "> --}}
+                <div class="card text-center">
+                    <div class="bg-light card-header">
+                        <div class="font-weight-bold">{{__('On the House')}}</div>
+                    </div>
+                    <div class="card-body d-flex flex-wrap justify-content-center">
+                        <div class="w-100">&nbsp;</div>
+                        <div class="display-4 font-weight-bold w-100">{{__('Free')}}</div>
+                        <div class="w-100">
+                            {{__('Try')}} <strong>1</strong> {{__('Brand Book for Free')}}
+                        </div>
+                        <div class="pricing_small">
+                            {{__('Create, manage and present your brand books')}}
+                        </div>
+                        <div class="mb-4">
+                            <ul class="text-left">
+                                <li class="font-weight-bold">{{__('Single editor')}}</li>
+                                <li class="font-weight-bold">{{__('Export to PDF')}}</li>
+                                <li class="font-weight-bold">{{__('Store & edit for 30 days')}}</li>
+                                <li class="font-weight-bold">{{__('Manage your brands')}}</li>
+                                <li>{{__('Online Brand Book templates')}}</li>
+                                <li>{{__('Best in class logo rules including proportions, clear space and minimum size')}}</li>
+                                <li>{{__('Font specifications')}}</li>
+                                <li>{{__('Color palette generator')}}</li>
+                                <li>{{__('Automatic logo misuse variations  ')}}</li>
+                                <li>{{__('Icon/Favicon specifications')}}</li>
+                                <li>{{__('Automatic logo file creator in png, jpg, pdf')}}</li>
+                                <li>{{__('Automatic Icon/Favicon creator in png, jpg, pdf')}}</li>
+                            </ul>
+                        </div>
+                        <button class="btn btn-outline-secondary align-self-end"  data-toggle="modal" data-target="#signupModal">{{__('Try for Free')}}</button>
+                    </div>
+                </div>
+            {{-- </div> --}}
+            {{-- <div class="col-3"> --}}
+                <div class="card text-center">
+                    <div class="bg-warning card-header">
+                        <div class="font-weight-bold">{{__('Sweet Soy')}}</div>
+                    </div>
+                    <div class="card-body d-flex flex-wrap justify-content-center">
+                        <div class="w-100">&nbsp;</div>
+                        <div class="display-4 font-weight-bold w-100">{{__('$69')}}</div>
+                        <div class="w-100">
+                            <strong>1</strong> {{__('Brand Book')}}
+                        </div>
+                        <div class="pricing_small">
+                            {{__('Create, manage and present your brand books')}}
+                        </div>
+                        <div class="mb-4">
+                            <ul class="text-left">
+                                <li class="font-weight-bold">{{__('Single editor')}}</li>
+                                <li class="font-weight-bold">{{__('Privacy control')}}</li>
+                                <li class="font-weight-bold">{{__('Export to PDF')}}</li>
+                                <li class="font-weight-bold">{{__('Access to all features')}}</li>
+                                <li class="font-weight-bold">{{__('Store & edit for 45 days')}}</li>
+                                <li>{{__('Online Brand Book templates')}}</li>
+                                <li>{{__('Best in class logo rules including proportions, clear space and minimum size')}}</li>
+                                <li>{{__('Font specifications')}}</li>
+                                <li>{{__('Color palette generator')}}</li>
+                                <li>{{__('Automatic logo misuse variations  ')}}</li>
+                                <li>{{__('Icon/Favicon specifications')}}</li>
+                                <li>{{__('Automatic logo file creator in png, jpg, pdf')}}</li>
+                                <li>{{__('Automatic Icon/Favicon creator in png, jpg, pdf')}}</li>
+                            </ul>
+                        </div>
+                        <button class="btn btn-warning text-white align-self-end"  data-toggle="modal" data-target="#signupModal">{{__('Buy Now')}}</button>
+                    </div>
+                </div>
+            {{-- </div> --}}
+            {{-- <div class="col-3"> --}}
+                <div class="card text-center">
+                    <div class="bg-success card-header">
+                        <div class="font-weight-bold">{{__('Spicy Wasabi')}}</div>
+                    </div>
+                    <div class="card-body d-flex flex-wrap justify-content-center">
+                        <div class="text-success w-100">Save 20%</div>
+                        <div class="display-4 w-100 font-weight-bold">{{__('$552')}}</div>
+                        <div class="w-100">
+                            <strong>10</strong> {{__('Brand Books')}}
+                        </div>
+                        <div class="pricing_small">
+                            {{__('Create, manage and present your brand books')}}
+                        </div>
+                        <div class="mb-4">
+                            <ul class="text-left">
+                                <li class="font-weight-bold">{{__('Multiple editors per brand')}}</li>
+                                <li class="font-weight-bold">{{__('Privacy control')}}</li>
+                                <li class="font-weight-bold">{{__('Export to PDF')}}</li>
+                                <li class="font-weight-bold">{{__('Access to all features')}}</li>
+                                <li class="font-weight-bold">{{__('Store & edit for 60 days')}}</li>
+                                <li>{{__('Online Brand Book templates')}}</li>
+                                <li>{{__('Best in class logo rules including proportions, clear space and minimum size')}}</li>
+                                <li>{{__('Font specifications')}}</li>
+                                <li>{{__('Color palette generator')}}</li>
+                                <li>{{__('Automatic logo misuse variations  ')}}</li>
+                                <li>{{__('Icon/Favicon specifications')}}</li>
+                                <li>{{__('Automatic logo file creator in png, jpg, pdf')}}</li>
+                                <li>{{__('Automatic Icon/Favicon creator in png, jpg, pdf')}}</li>
+                            </ul>
+                        </div>
+                        <button class="btn btn-success text-white align-self-end"  data-toggle="modal" data-target="#signupModal">{{__('Buy Now')}}</button>
+                    </div>
+                </div>
+            {{-- </div> --}}
+            {{-- <div class="col-3"> --}}
+                <div class="card text-center">
+                    <div class="bg-danger card-header">
+                        <div class="font-weight-bold">{{__('Hot Chilli')}}</div>
+                    </div>
+                    <div class="card-body d-flex flex-wrap justify-content-center">
+                        <div class="text-danger w-100">Save 33%</div>
+                        <div class="display-4 font-weight-bold w-100">{{__('$4,599')}}</div>
+                        <div class="w-100">
+                            <strong>100</strong> {{__('Brand Books')}}
+                        </div>
+                        <div class="pricing_small">
+                            {{__('Create, manage and present your brand books')}}
+                        </div>
+                        <div class="mb-4">
+                            <ul class="text-left">
+                                <li class="font-weight-bold">{{__('Multiple editors per brand')}}</li>
+                                <li class="font-weight-bold">{{__('Privacy control')}}</li>
+                                <li class="font-weight-bold">{{__('Export to PDF')}}</li>
+                                <li class="font-weight-bold">{{__('Access to all features')}}</li>
+                                <li class="font-weight-bold">{{__('Store & edit for 75 days')}}</li>
+                                <li>{{__('Online Brand Book templates')}}</li>
+                                <li>{{__('Best in class logo rules including proportions, clear space and minimum size')}}</li>
+                                <li>{{__('Font specifications')}}</li>
+                                <li>{{__('Color palette generator')}}</li>
+                                <li>{{__('Automatic logo misuse variations  ')}}</li>
+                                <li>{{__('Icon/Favicon specifications')}}</li>
+                                <li>{{__('Automatic logo file creator in png, jpg, pdf')}}</li>
+                                <li>{{__('Automatic Icon/Favicon creator in png, jpg, pdf')}}</li>
+                            </ul>
+                        </div>
+                        <button class="btn btn-danger text-white align-self-end"  data-toggle="modal" data-target="#signupModal">{{__('Buy Now')}}</button>
+                    </div>
+                </div>
+            {{-- </div> --}}
+        </div>
+        <div class="text-center mb-4">
+            <a href="{{route('features')}}" class="text-danger h4">{{__('See All Features')}}</a>
+        </div>
+        <div class="text-center mb-5">
+            <div class="lobster">{{__('Spice Up Your Brand')}}</div>
+        </div>
+    </div>
+@endsection

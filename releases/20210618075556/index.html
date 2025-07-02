@@ -1,0 +1,112 @@
+
+<html>
+	<head>
+		
+	</head>
+	<body>
+		<script>
+			function selectText(containerid) {
+				if (document.selection) { // IE
+					var range = document.body.createTextRange();
+					range.moveToElementText(document.getElementById(containerid));
+					range.select();
+				} else if (window.getSelection) {
+					var range = document.createRange();
+					range.selectNode(document.getElementById(containerid));
+					window.getSelection().removeAllRanges();
+					window.getSelection().addRange(range);
+				}
+			}
+			
+			window.addEventListener('load', ()=>{
+				document.querySelector('#paste').addEventListener('paste', ev=>{
+					setTimeout(()=>{
+						document.querySelector('#copy').innerHTML=''
+						var count = 0;
+						//console.log(document.querySelector('#paste').innerHTML)	
+						// text.match((<a.*href=".*".*>.*<\/a>))
+						let m;
+						const regex = /(<a href=".*?" style="box-sizing: border-box; background-color: transparent; color: rgb\(0, 102, 204\); text-decoration-line: none;">.*?<\/a>)/gm;
+						//const regex = /<h3 class="?'?media-heading"?'?>\s?(<a href='?"?.*'?"?>.*?<\/a>)/gm;
+						const img_re = /<img/gm
+						while ((m = regex.exec(document.querySelector('#paste').innerHTML)) !== null) {
+						    // This is necessary to avoid infinite loops with zero-width matches
+						    if (m.index === regex.lastIndex && m!='') {
+						        regex.lastIndex++;
+						    }
+						    
+						    // The result can be accessed through the `m`-variable.
+						    // m.forEach((match, groupIndex) => {
+						    	match = m[0]
+								if(!img_re.test(match)){
+						    		var el = document.createElement('div')
+						    		el.innerHTML = match
+						        	document.querySelector('#copy').appendChild(el)
+									count++;
+									document.querySelector('#count').innerHTML=count;
+								}
+						    // });
+						}
+					}, 100)
+					
+				})
+				document.querySelector('#copy').addEventListener('click', ev=>{
+					ev.preventDefault();
+					ev.stopPropagation();
+					selectText('copy')
+				})
+				
+			})
+		</script>
+		<div style="display: flex; justify-content: space-between;">
+			<div id="paste" contenteditable="true" style="border: 1px dotted rgba(0,0,0,0.2); flex-basis: 49%;; max-width: 49%; height: 600px; overflow: scroll;">
+				
+			</div>
+			<div id="copy" style="flex-basis: 49%; max-width: 49%"></div>
+		</div>
+		<div id="count">0</div>
+
+		<style>
+			#count{
+			  position: fixed;
+			  right: 0;
+			  bottom: 0;
+			  background: rgba(255,255,255,.9);
+			  box-shadow: -1px -1px 10px rgba(0,0,0,.2);
+			  padding: 5px;
+			  border-top-left-radius: 5px;
+			  color: #000;
+			}
+			#count:before{
+				content: "Найдено: ";
+			}
+			#paste{
+				position: relative;
+			}
+			#paste:after{
+				content: 'Вставить';
+				text-align: center;
+				width: 100%;
+				display: block;
+				height: 800px;
+				line-height: 600px;
+				font-size: 20px;
+				font-style: italic;
+				opacity: .2;
+				position: absolute;
+			}/*
+			#copy:after{
+				content: "Скопировать";
+				text-align: center;
+				width: 100%;
+				display: block;
+				height: 800px;
+				line-height: 600px;
+				font-size: 20px;
+				font-style: italic;
+				opacity: .2;
+			}*/
+		</style>
+
+	</body>
+</html>

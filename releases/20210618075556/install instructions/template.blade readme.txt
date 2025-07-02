@@ -1,0 +1,78 @@
+Please see the attached PHP file. It is a Blade template file. You can learn more about Blade templates here: https://laravel.com/docs/5.8/blade
+
+This file is rendered as HTML with the data from PDF, and then the HTML is rendered as PDF.
+
+This file includes CSS and HTML code + a little bit of PHP for calculations, and Blade shortcodes for logic and loops.
+
+Every page has it's own div with id = pageN, where N is page number. All pages should be wrapped in a container, and first page styles (CSS) should be set relatively to thic container (.gradient is container, .gradient #page1 – is page 1 style). This is neccessary for dynamic previews of the brandbook themes in the wizard.
+
+All the rest is just a simple HTML and CSS. Placing data to the right place. I would recommend to use this template a basis, just changing styles of the elements.
+
+Description of the $data object properties.
+
+$data->id: id of the brandbook
+$data->brand: name of the brand
+$data->tag: tag
+$data->type: type
+$data->state: (depricated) 
+$data->industry_level_1: industry 1
+$data->industry_level_2: industry 2
+$data->logo: logo as svg xml
+$data->logo_b64: logo as svg base64 encoded (can be placed as background url in CSS or image src)
+$data->icon: icon as svg xml
+$data->icon_b64: icon as svg base64 encoded (can be placed as background url in CSS or image src)
+$data->approved: array of approved logo versions
+$data->rejected: array of rejected logo versions
+$data->approved_icon: array of approved icon versions
+$data->rejected_icon: array of rejected icon versions
+$data->proportions: name of proportions algorithm
+$data->space: name of clear space algorithm
+$data->size: name of minimum size algorithm
+$data->color_scheme_mode: color scheme generation mode name
+$data->generated_colors: array of generated colros
+$data->colors_used: array of colors from the logo
+$data->fonts_main: array of main fonts
+$data->fonts_secondary: array of secondary fonts
+$data->vision: vision text
+$data->mission: mission text
+$data->core_values: array of corevalues
+$data->user_id: id of the creator
+$data->created_at: date created
+$data->updated_at: date changed
+$data->status: (depricated)
+$data->colors_list: list of all colors
+$data->main_color: main color object
+$data->main_color_hex: main color hex
+$data->secondary_color_hex: secondary color hex
+$data->theme: theme id or name
+$data->pdf_link: link to pdf file
+$data->completed: is completed or not
+$data->shared_link: shared link identifier
+$data->introduction_title: user inputed title (through edit brandbook mode after it is completed) on intro page
+$data->introduction_text: user inputed text (through edit brandbook mode after it is completed) on intro page
+$data->vision_title: user inputed title (through edit brandbook mode after it is completed) on vision page
+$data->vision_text: user inputed text (through edit brandbook mode after it is completed) on vision page
+$data->mission_title: user inputed title (through edit brandbook mode after it is completed) on mission page
+$data->mission_text: user inputed text (through edit brandbook mode after it is completed) on mission page
+$data->core_title: user inputed title (through edit brandbook mode after it is completed) on core values page
+$data->core_text: user inputed text (through edit brandbook mode after it is completed) on core values page
+$data->logo_title: user inputed title (through edit brandbook mode after it is completed) on logos page
+$data->logo_text: user inputed text (through edit brandbook mode after it is completed) on logos page
+$data->versions_title: user inputed title (through edit brandbook mode after it is completed) on logo versions page
+$data->versions_text: user inputed text (through edit brandbook mode after it is completed) on logo versions page
+$data->icon_title: user inputed title (through edit brandbook mode after it is completed) on icons page
+$data->icon_text: user inputed text (through edit brandbook mode after it is completed) on icons page
+$data->proportions_title: user inputed title (through edit brandbook mode after it is completed) on proportions page
+$data->proportions_text: user inputed text (through edit brandbook mode after it is completed) on proportions page
+$data->space_title: user inputed title (through edit brandbook mode after it is completed) on space page
+$data->space_text: user inputed text (through edit brandbook mode after it is completed) on space page
+$data->size_title: user inputed title (through edit brandbook mode after it is completed) on min size page
+$data->size_text: user inputed text (through edit brandbook mode after it is completed) on min size page
+$data->misuse_title: user inputed title (through edit brandbook mode after it is completed) on misuse page
+$data->misuse_text: user inputed text (through edit brandbook mode after it is completed) on misuse page
+$data->pallette_title: user inputed title (through edit brandbook mode after it is completed) on pallette page
+$data->pallette_text: user inputed text (through edit brandbook mode after it is completed) on pallette page
+$data->gradient: (depricated)
+$data->old_logo: old logo base64 encoded svg image
+$data->logo_w: logo width in px
+$data->logo_h: logo height in px

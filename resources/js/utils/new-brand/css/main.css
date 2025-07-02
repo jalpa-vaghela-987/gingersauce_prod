@@ -1,0 +1,2593 @@
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url(../fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "Abril Fatface";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../fonts/Abril_Fatface/AbrilFatface-Regular.ttf);
+}
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 300 800;
+    font-display: swap;
+    src: url(../fonts/Open_Sans/OpenSans-VariableFont_wdth_wght.ttf);
+}
+@font-face {
+    font-family: "Open Sans Hebrew";
+    font-style: normal;
+    font-weight: 300 800;
+    font-display: swap;
+    src: url(../fonts/Open_Sans/OpenSans-VariableFont_wdth_wght.ttf);
+}
+.parentClass .mh-100 {
+    max-height: 100% !important;
+}
+
+.parentClass .vh-100 {
+    height: 100vh !important;
+}
+
+.parentClass .min-vh-100 {
+    min-height: 100vh !important;
+}
+
+.parentClass .flex-fill {
+    flex: 1 1 auto !important;
+}
+
+.parentClass .flex-row {
+    flex-direction: row !important;
+}
+
+.parentClass .flex-column {
+    flex-direction: column !important;
+}
+
+.parentClass .flex-row-reverse {
+    flex-direction: row-reverse !important;
+}
+
+.parentClass .flex-column-reverse {
+    flex-direction: column-reverse !important;
+}
+
+.parentClass .flex-grow-0 {
+    flex-grow: 0 !important;
+}
+
+.parentClass .flex-grow-1 {
+    flex-grow: 1 !important;
+}
+
+.parentClass .flex-shrink-0 {
+    flex-shrink: 0 !important;
+}
+
+.parentClass .flex-shrink-1 {
+    flex-shrink: 1 !important;
+}
+
+.parentClass .flex-wrap {
+    flex-wrap: wrap !important;
+}
+
+.parentClass .flex-nowrap {
+    flex-wrap: nowrap !important;
+}
+
+.parentClass .flex-wrap-reverse {
+    flex-wrap: wrap-reverse !important;
+}
+
+.parentClass .gap-0 {
+    gap: 0 !important;
+}
+
+.parentClass .gap-1 {
+    gap: 0.25rem !important;
+}
+
+.parentClass .gap-2 {
+    gap: 0.5rem !important;
+}
+
+.parentClass .gap-3 {
+    gap: 1rem !important;
+}
+
+.parentClass .gap-4 {
+    gap: 1.5rem !important;
+}
+
+.parentClass .gap-5 {
+    gap: 3rem !important;
+}
+
+.parentClass .justify-content-start {
+    justify-content: flex-start !important;
+}
+
+.parentClass .justify-content-end {
+    justify-content: flex-end !important;
+}
+
+.parentClass .justify-content-center {
+    justify-content: center !important;
+}
+
+.parentClass .justify-content-between {
+    justify-content: space-between !important;
+}
+
+.parentClass .justify-content-around {
+    justify-content: space-around !important;
+}
+
+.parentClass .justify-content-evenly {
+    justify-content: space-evenly !important;
+}
+
+.parentClass .align-items-start {
+    align-items: flex-start !important;
+}
+
+.parentClass .align-items-end {
+    align-items: flex-end !important;
+}
+
+.parentClass .align-items-center {
+    align-items: center !important;
+}
+
+.parentClass .align-items-baseline {
+    align-items: baseline !important;
+}
+
+.parentClass .align-items-stretch {
+    align-items: stretch !important;
+}
+
+.parentClass .align-content-start {
+    align-content: flex-start !important;
+}
+
+.parentClass .align-content-end {
+    align-content: flex-end !important;
+}
+
+.parentClass .align-content-center {
+    align-content: center !important;
+}
+
+.parentClass .align-content-between {
+    align-content: space-between !important;
+}
+
+.parentClass .align-content-around {
+    align-content: space-around !important;
+}
+
+.parentClass .align-content-stretch {
+    align-content: stretch !important;
+}
+
+.parentClass .align-self-auto {
+    align-self: auto !important;
+}
+
+.parentClass .align-self-start {
+    align-self: flex-start !important;
+}
+
+.parentClass .align-self-end {
+    align-self: flex-end !important;
+}
+
+.parentClass .align-self-center {
+    align-self: center !important;
+}
+
+.parentClass .align-self-baseline {
+    align-self: baseline !important;
+}
+
+.parentClass .align-self-stretch {
+    align-self: stretch !important;
+}
+
+.parentClass .order-first {
+    order: -1 !important;
+}
+
+.parentClass .order-0 {
+    order: 0 !important;
+}
+
+.parentClass .order-1 {
+    order: 1 !important;
+}
+
+.parentClass .order-2 {
+    order: 2 !important;
+}
+
+.parentClass .order-3 {
+    order: 3 !important;
+}
+
+.parentClass .order-4 {
+    order: 4 !important;
+}
+
+.parentClass .order-5 {
+    order: 5 !important;
+}
+
+.parentClass .order-last {
+    order: 6 !important;
+}
+
+.parentClass .m-0 {
+    margin: 0 !important;
+}
+
+.parentClass .m-1 {
+    margin: 0.25rem !important;
+}
+
+.parentClass .m-2 {
+    margin: 0.5rem !important;
+}
+
+.parentClass .m-3 {
+    margin: 1rem !important;
+}
+
+.parentClass .m-4 {
+    margin: 1.5rem !important;
+}
+
+.parentClass .m-5 {
+    margin: 3rem !important;
+}
+
+.parentClass .m-auto {
+    margin: auto !important;
+}
+
+.parentClass .mx-0 {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.parentClass .mx-1 {
+    margin-right: 0.25rem !important;
+    margin-left: 0.25rem !important;
+}
+
+.parentClass .mx-2 {
+    margin-right: 0.5rem !important;
+    margin-left: 0.5rem !important;
+}
+
+.parentClass .mx-3 {
+    margin-right: 1rem !important;
+    margin-left: 1rem !important;
+}
+
+.parentClass .mx-4 {
+    margin-right: 1.5rem !important;
+    margin-left: 1.5rem !important;
+}
+
+.parentClass .mx-5 {
+    margin-right: 3rem !important;
+    margin-left: 3rem !important;
+}
+
+.parentClass .mx-auto {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.parentClass .my-0 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.parentClass .my-1 {
+    margin-top: 0.25rem !important;
+    margin-bottom: 0.25rem !important;
+}
+
+.parentClass .my-2 {
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+}
+
+.parentClass .my-3 {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.parentClass .my-4 {
+    margin-top: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+}
+
+.parentClass .my-5 {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+}
+
+.parentClass .my-auto {
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+}
+
+.parentClass .mt-0 {
+    margin-top: 0 !important;
+}
+
+.parentClass .mt-1 {
+    margin-top: 0.25rem !important;
+}
+
+.parentClass .mt-2 {
+    margin-top: 0.5rem !important;
+}
+
+.parentClass .mt-3 {
+    margin-top: 1rem !important;
+}
+
+.parentClass .mt-4 {
+    margin-top: 1.5rem !important;
+}
+
+.parentClass .mt-5 {
+    margin-top: 3rem !important;
+}
+
+.parentClass .mt-auto {
+    margin-top: auto !important;
+}
+
+.parentClass .me-0 {
+    margin-right: 0 !important;
+}
+
+.parentClass .me-1 {
+    margin-right: 0.25rem !important;
+}
+
+.parentClass .me-2 {
+    margin-right: 0.5rem !important;
+}
+
+.parentClass .me-3 {
+    margin-right: 1rem !important;
+}
+
+.parentClass .me-4 {
+    margin-right: 1.5rem !important;
+}
+
+.parentClass .me-5 {
+    margin-right: 3rem !important;
+}
+
+.parentClass .me-auto {
+    margin-right: auto !important;
+}
+
+.parentClass .mb-0 {
+    margin-bottom: 0 !important;
+}
+
+.parentClass .mb-1 {
+    margin-bottom: 0.25rem !important;
+}
+
+.parentClass .mb-2 {
+    margin-bottom: 0.5rem !important;
+}
+
+.parentClass .mb-3 {
+    margin-bottom: 1rem !important;
+}
+
+.parentClass .mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+
+.parentClass .mb-5 {
+    margin-bottom: 3rem !important;
+}
+
+.parentClass .mb-auto {
+    margin-bottom: auto !important;
+}
+
+.parentClass .ms-0 {
+    margin-left: 0 !important;
+}
+
+.parentClass .ms-1 {
+    margin-left: 0.25rem !important;
+}
+
+.parentClass .ms-2 {
+    margin-left: 0.5rem !important;
+}
+
+.parentClass .ms-3 {
+    margin-left: 1rem !important;
+}
+
+.parentClass .ms-4 {
+    margin-left: 1.5rem !important;
+}
+
+.parentClass .ms-5 {
+    margin-left: 3rem !important;
+}
+
+.parentClass .ms-auto {
+    margin-left: auto !important;
+}
+
+.parentClass .p-0 {
+    padding: 0 !important;
+}
+
+.parentClass .p-1 {
+    padding: 0.25rem !important;
+}
+
+.parentClass .p-2 {
+    padding: 0.5rem !important;
+}
+
+.parentClass .p-3 {
+    padding: 1rem !important;
+}
+
+.parentClass .p-4 {
+    padding: 1.5rem !important;
+}
+
+.parentClass .p-5 {
+    padding: 3rem !important;
+}
+
+.parentClass .px-0 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+.parentClass .px-1 {
+    padding-right: 0.25rem !important;
+    padding-left: 0.25rem !important;
+}
+
+.parentClass .px-2 {
+    padding-right: 0.5rem !important;
+    padding-left: 0.5rem !important;
+}
+
+.parentClass .px-3 {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+}
+
+.parentClass .px-4 {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
+
+.parentClass .px-5 {
+    padding-right: 3rem !important;
+    padding-left: 3rem !important;
+}
+
+.parentClass .py-0 {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.parentClass .py-1 {
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+}
+
+.parentClass .py-2 {
+    padding-top: 0.5rem !important;
+    padding-bottom: 0.5rem !important;
+}
+
+.parentClass .py-3 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.parentClass .py-4 {
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+}
+
+.parentClass .py-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
+
+.parentClass .pt-0 {
+    padding-top: 0 !important;
+}
+
+.parentClass .pt-1 {
+    padding-top: 0.25rem !important;
+}
+
+.parentClass .pt-2 {
+    padding-top: 0.5rem !important;
+}
+
+.parentClass .pt-3 {
+    padding-top: 1rem !important;
+}
+
+.parentClass .pt-4 {
+    padding-top: 1.5rem !important;
+}
+
+.parentClass .pt-5 {
+    padding-top: 3rem !important;
+}
+
+.parentClass .pe-0 {
+    padding-right: 0 !important;
+}
+
+.parentClass .pe-1 {
+    padding-right: 0.25rem !important;
+}
+
+.parentClass .pe-2 {
+    padding-right: 0.5rem !important;
+}
+
+.parentClass .pe-3 {
+    padding-right: 1rem !important;
+}
+
+.parentClass .pe-4 {
+    padding-right: 1.5rem !important;
+}
+
+.parentClass .pe-5 {
+    padding-right: 3rem !important;
+}
+
+.parentClass .pb-0 {
+    padding-bottom: 0 !important;
+}
+
+.parentClass .pb-1 {
+    padding-bottom: 0.25rem !important;
+}
+
+.parentClass .pb-2 {
+    padding-bottom: 0.5rem !important;
+}
+
+.parentClass .pb-3 {
+    padding-bottom: 1rem !important;
+}
+
+.parentClass .pb-4 {
+    padding-bottom: 1.5rem !important;
+}
+
+.parentClass .pb-5 {
+    padding-bottom: 3rem !important;
+}
+
+.parentClass .ps-0 {
+    padding-left: 0 !important;
+}
+
+.parentClass .ps-1 {
+    padding-left: 0.25rem !important;
+}
+
+.parentClass .ps-2 {
+    padding-left: 0.5rem !important;
+}
+
+.parentClass .ps-3 {
+    padding-left: 1rem !important;
+}
+
+.parentClass .ps-4 {
+    padding-left: 1.5rem !important;
+}
+
+.parentClass .ps-5 {
+    padding-left: 3rem !important;
+}
+
+@media (min-width: 1200px) {
+    .parentClass .sticky-xl-top {
+        position: sticky;
+        top: 0;
+        z-index: 1020;
+    }
+}
+.parentClass .align-self-start {
+    flex-grow: 0;
+    height: -moz-fit-content;
+    height: fit-content;
+}
+
+.parentClass .z-1 {
+    z-index: 1;
+}
+
+.parentClass .text-decoration-underline {
+    text-decoration: underline !important;
+}
+
+.parentClass section {
+    flex-basis: fit-content;
+}
+
+@media (min-width: 1900px) {
+    .parentClass .container {
+        max-width: 1780px;
+    }
+}
+
+.parentClass .link {
+    text-decoration: none;
+}
+
+.parentClass a {
+    color: var(--main-color-book);
+}
+
+.parentClass .list {
+    list-style: none;
+}
+
+.parentClass button {
+    cursor: pointer;
+}
+
+.parentClass img {
+    display: block;
+}
+
+.parentClass {
+    font-family: var(--secFont);
+    min-height: 100%;
+    font-weight: var(--secFontWeight);
+}
+
+.parentClass hr.divider {
+    border-color: #F0F0F0;
+    opacity: 1;
+}
+
+.parentClass .vc-chrome {
+    font-family: var(--secFont) !important;
+}
+
+.parentClass .vc-chrome * {
+    z-index: 100000;
+}
+
+body[style*=theme-color]:has(.parentClass) {
+    overflow: auto;
+}
+
+.parentClass {
+    background-color: #fff !important;
+}
+
+:root {
+    --fontSize: 16px;
+}
+
+.parentClass .fw-500 {
+    font-weight: 500;
+}
+
+.parentClass .fw-bold {
+    font-weight: calc(var(--mainFontWeight) + 200);
+}
+
+.parentClass .fs-18 {
+    font-size: calc(var(--fontSize) * 1.125);
+}
+
+.parentClass .fs-22 {
+    font-size: calc(var(--fontSize) * 1.375);
+    /* 22 / 16 */
+}
+
+.parentClass .fs-16 {
+    font-size: var(--fontSize);
+    /* 16 / 16 */
+}
+
+.parentClass .fs-12 {
+    font-size: calc(var(--fontSize) * 0.75);
+    /* 12 / 16 */
+}
+
+.parentClass .fs-14 {
+    font-size: calc(var(--fontSize) * 0.875);
+    /* 14 / 16 */
+}
+
+.parentClass .fs-20 {
+    font-size: calc(var(--fontSize) * 1.25);
+    /* 20 / 16 */
+}
+
+.parentClass .fs-24 {
+    font-size: calc(var(--fontSize) * 1.5);
+}
+@media screen and (max-width: 992px) {
+    .parentClass .fs-24 {
+        font-size: calc(var(--fontSize) * 1);
+    }
+}
+
+.parentClass .fs-28 {
+    font-size: calc(var(--fontSize) * 1.75);
+}
+@media screen and (max-width: 992px) {
+    .parentClass .fs-28 {
+        font-size: calc(var(--fontSize) * 1.17);
+    }
+}
+
+.parentClass .fs-32 {
+    font-size: calc(var(--fontSize) * 2);
+    /* 32 / 16 */
+}
+
+.parentClass .fs-34 {
+    font-size: calc(var(--fontSize) * 2.125);
+}
+@media screen and (max-width: 992px) {
+    .parentClass .fs-34 {
+        font-size: calc(var(--fontSize) * 1.42);
+    }
+}
+
+.parentClass .mt-90 {
+    margin-top: calc(var(--fontSize) * 5.625);
+    /* 90 / 16 */
+}
+
+.parentClass .mt-60 {
+    margin-top: calc(var(--fontSize) * 3.75);
+    /* 60 / 16 */
+}
+
+.parentClass .mt-32 {
+    margin-top: calc(var(--fontSize) * 2);
+    /* 32 / 16 */
+}
+
+.parentClass .mt-37 {
+    margin-top: calc(var(--fontSize) * 2.3125);
+    /* 37 / 16 */
+}
+
+.parentClass .mb-32 {
+    margin-bottom: calc(var(--fontSize) * 2);
+    /* 32 / 16 */
+}
+
+.parentClass .mb-40 {
+    margin-bottom: calc(var(--fontSize) * 2.5);
+    /* 40 / 16 */
+}
+
+.parentClass .mb-50 {
+    margin-bottom: calc(var(--fontSize) * 3.125);
+    /* 50 / 16 */
+}
+
+.parentClass .pt-40 {
+    padding-block-start: calc(var(--fontSize) * 2.5) !important;
+    /* 40 / 16 */
+}
+
+.parentClass h1 {
+    font-family: var(--mainFont);
+    font-size: calc(var(--fontSize) * 3.75);
+    /* 60 / 16 */
+    font-weight: var(--mainFontWeight);
+    line-height: 1.2;
+    text-align: left;
+}
+@media screen and (max-width: 992px) {
+    .parentClass h1 {
+        font-size: calc(var(--fontSize) * 2.5);
+        /* 40 / 16 */
+    }
+}
+
+.parentClass h2 {
+    font-family: var(--mainFont);
+    /* 60 / 16 */
+    font-weight: var(--mainFontWeight);
+    font-size: calc(var(--fontSize) * 2.5);
+    /* 40 / 16 */
+    color: #121434;
+}
+
+.parentClass .me-36 {
+    margin-right: calc(var(--fontSize) * 2.25);
+    /* 36 / 16 */
+}
+
+.parentClass .me-40 {
+    margin-inline-end: calc(var(--fontSize) * 2.5);
+    /* 40 / 16 */
+}
+
+.parentClass .ms-40 {
+    margin-inline-start: calc(var(--fontSize) * 2.5);
+    /* 40 / 16 */
+}
+
+:root {
+    --mainFont: "Abril Fatface", serif;
+    --secFont: "Montserrat", sans-serif;
+    --main-color-book: #A2224C;
+    --border-color: #E1E1E1;
+    --theme-color: #A2224C;
+    --sec-color: #93989B;
+    --mainFontWeight: 400;
+    --secFontWeight: 400;
+}
+
+.parentClass .main-color {
+    fill: var(--theme-color) !important;
+}
+
+.parentClass .sec-color {
+    fill: var(--sec-color) !important;
+}
+
+.parentClass .sec-font {
+    font-family: var(--secFont);
+}
+
+/* Firefox (uncomment to work in Firefox, although other properties will not work!)  */
+* {
+    scrollbar-width: thin;
+}
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}
+
+*::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: var(--main-color-book);
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background-color: var(--sec-color);
+}
+
+*::-webkit-scrollbar-thumb:active {
+    background-color: var(--sec-color);
+}
+
+.parentClass nav.navbar.border-bottom {
+    border-bottom: 1px solid var(--border-color);
+    padding: 14px 0px 14px 0px;
+    height: 69px;
+    box-sizing: border-box;
+    z-index: 1060;
+}
+.parentClass nav.navbar.border-bottom .image.rounded-circle + span {
+    max-width: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.parentClass nav.navbar.border-bottom .btn {
+    align-self: center;
+}
+.parentClass nav.navbar.border-bottom .name.fs-20 {
+    overflow: hidden;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    line-height: 1.2;
+    text-overflow: ellipsis;
+    max-width: 200px;
+    white-space: nowrap;
+}
+.parentClass nav.navbar.border-bottom .nav-item.dropdown {
+    display: flex;
+}
+.parentClass nav.navbar.border-bottom .menu-toggle-wrap.ms-4,
+.parentClass nav.navbar.border-bottom .ms-40 {
+    margin-inline-start: calc(var(--fontSize) * 1) !important;
+}
+.parentClass nav.navbar.border-bottom .logo {
+    width: 47px;
+    transition: 0.2s ease-in-out;
+}
+.parentClass nav.navbar.border-bottom .logo .logo_small {
+    max-height: 40px;
+    display: block;
+    opacity: 1;
+}
+.parentClass nav.navbar.border-bottom .logo .logo_full {
+    display: none;
+    opacity: 0;
+    transition: 0.2s ease-in-out;
+}
+.parentClass nav.navbar.border-bottom .logo_short {
+    display: block;
+    max-width: 33px;
+    max-height: 40px;
+    opacity: 1;
+}
+.parentClass nav.navbar.border-bottom .logo.is_expanded {
+    width: 193px;
+    margin-left: 14px;
+}
+.parentClass nav.navbar.border-bottom .logo.is_expanded .logo_full {
+    display: block;
+    max-width: 160px;
+    max-height: 40px;
+    opacity: 1;
+}
+.parentClass nav.navbar.border-bottom .logo.is_expanded .logo_small {
+    display: none;
+    opacity: 0;
+    transition: 0.2s ease-in-out;
+}
+.parentClass nav.navbar.border-bottom .menu-toggle:focus {
+    outline: none;
+    color: var(--main-color-book) !important;
+}
+.parentClass nav.navbar.border-bottom .menu-toggle:focus {
+    fill: currentColor !important;
+}
+.parentClass nav.navbar.border-bottom .dropdown-menu.show {
+    display: block;
+    right: 0px;
+    left: auto !important;
+}
+@media screen and (max-width: 768px) {
+    .parentClass nav.navbar.border-bottom {
+        padding: 14px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .parentClass nav.navbar.border-bottom .dropdown::before {
+        content: none !important;
+    }
+}
+.parentClass nav.navbar.border-bottom .dropdown-item.active,
+.parentClass nav.navbar.border-bottom .dropdown-item:active {
+    background-color: var(--main-color-book);
+}
+
+@media screen and (max-width: 576px) {
+    .parentClass nav.navbar.border-bottom .logo.is_expanded {
+        width: 100px;
+        margin-left: 0px;
+    }
+    .parentClass nav.navbar.border-bottom {
+        padding: 5px;
+        height: auto;
+        min-height: 69px;
+    }
+    .parentClass #navbarDropdownMenuLink {
+        padding: 0px;
+    }
+
+    .parentClass .third-btn,
+    .parentClass .main-btn,
+    .parentClass .sec-btn{
+        font-size: 12px !important;
+    }
+
+}
+.parentClass aside {
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #E1E1E1;
+    background-color: #fff;
+    color: #343434;
+    width: 61px;
+    overflow: hidden;
+    min-height: 100vh;
+    max-height: 100vh;
+    padding: 8px;
+    transition: 0.2s ease-in-out;
+}
+.parentClass aside .flex {
+    flex: 1 1 0%;
+}
+.parentClass aside .logo {
+    margin-bottom: 1rem;
+}
+.parentClass aside .logo img {
+    width: 2rem;
+}
+.parentClass aside .menu-item .text {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+.parentClass aside .menu:first-child {
+    margin-top: 80px;
+}
+.parentClass aside .menu {
+    margin: 0;
+}
+.parentClass aside .menu > ul {
+    list-style: none;
+    padding: 0px;
+}
+.parentClass aside .menu > ul > li:not(:last-child) {
+    margin-bottom: 4px;
+}
+.parentClass aside .menu .menu-item {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #343434;
+    gap: 17px;
+    transition: 0.2s ease-in-out;
+    padding-left: 0px;
+    min-height: 36px;
+}
+.parentClass aside .menu .menu-item.active {
+    box-shadow: 0 0 0 100px var(--main-color-book) inset;
+    border-radius: 8px;
+    color: #fff;
+}
+.parentClass aside .menu .menu-item .menu-icon {
+    fill: currentColor;
+    margin-inline-start: 9px;
+    display: flex;
+    align-content: center;
+}
+.parentClass aside .menu .menu-item .icon.icon-menu-plus {
+    height: 15px;
+}
+.parentClass aside .menu .menu-item .icon.icon-menu-space,
+.parentClass aside .menu .menu-item .icon.icon-menu-misuse,
+.parentClass aside .menu .menu-item .icon.icon-menu-feature,
+.parentClass aside .menu .menu-item .icon.icon-menu-palette {
+    fill: none;
+    stroke: currentColor;
+}
+.parentClass aside .menu .menu-item .text {
+    color: currentColor;
+    transition: opacity 0.2s ease-in-out;
+    transition-delay: 0s, 250ms;
+    font-size: 14px;
+    font-weight: var(--secFontWeight);
+    line-height: 1.2;
+    text-align: left;
+    width: -moz-max-content;
+    width: max-content;
+    word-break: keep-all;
+    white-space: nowrap;
+}
+.parentClass aside .drag-menu {
+    margin-left: -8px !important;
+    margin-right: -8px !important;
+}
+.parentClass aside .drag-menu li {
+    position: relative;
+    padding: 0 5px;
+}
+.parentClass aside .drag-menu li .icon-move {
+    cursor: grab;
+}
+.parentClass aside .drag-menu li .icon-delete {
+    position: absolute;
+    right: 4px;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0;
+    transition: all 300ms linear;
+    cursor: pointer;
+}
+.parentClass aside .drag-menu li span.icon-move * {
+    stroke: #000 !important;
+}
+.parentClass aside .drag-menu li:has(.active):hover {
+    background-color: var(--main-color-book);
+}
+.parentClass aside .drag-menu li:has(.active):hover span.icon-move * {
+    color: #fff !important;
+    stroke: #fff !important;
+}
+.parentClass aside .drag-menu li:has(.active):hover span.icon-delete {
+    color: #fff !important;
+}
+.parentClass aside .drag-menu li:hover {
+    background-color: #F3F3F3;
+}
+.parentClass aside .drag-menu li:hover .text {
+    max-width: 120px;
+    overflow: hidden;
+}
+.parentClass aside .drag-menu li:hover .icon-delete {
+    opacity: 1;
+}
+.parentClass aside .drag-menu .d-flex.add-item {
+    border: 1px solid #000;
+    border-radius: 8px;
+    padding: 10px 18px !important;
+    box-sizing: border-box;
+    margin: 0 10px;
+    background-color: transparent !important;
+}
+.parentClass aside .drag-menu .d-flex.add-item input {
+    width: 100%;
+    box-sizing: border-box;
+    border: 0px solid;
+    border-bottom: 1px solid #000;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0 8px;
+    margin-left: 18px;
+}
+.parentClass aside .drag-menu .d-flex.add-item input:focus {
+    outline: 0px;
+}
+.parentClass aside .drag-menu .d-flex.add-item input:placeholder {
+    color: #343434;
+}
+.parentClass aside .drag-menu .d-flex.add-item input.error {
+    border-bottom-color: var(--danger);
+}
+.parentClass aside .drag-menu .d-flex.add-item .menu-icon,
+.parentClass aside .drag-menu .d-flex.add-item .icon-plus {
+    cursor: pointer;
+}
+.parentClass aside .drag-menu #new-section-image {
+    max-width: unset !important;
+}
+.parentClass aside .powered {
+    font-weight: var(--secFontWeight);
+    line-height: 1.2;
+    text-align: left;
+    gap: 2px;
+    margin-bottom: 14px;
+    font-size: 0px;
+    opacity: 0;
+}
+.parentClass aside .footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.25) !important;
+    margin: 0 -8px;
+    padding: 16px 8px 8px;
+}
+.parentClass aside:not(.is_expanded) .drag-menu {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.parentClass aside:not(.is_expanded) .drag-menu li {
+    width: 43px;
+    padding: 0px !important;
+    overflow: hidden;
+    border-radius: 8px;
+}
+.parentClass aside:not(.is_expanded) .drag-menu li a {
+    flex-grow: 0 !important;
+}
+.parentClass aside:not(.is_expanded) .add-item,
+.parentClass aside:not(.is_expanded) .icon-move,
+.parentClass aside:not(.is_expanded) .icon-delete {
+    width: 0px;
+    height: 0px;
+    opacity: 0;
+    margin: 0px !important;
+}
+.parentClass aside.is_expanded {
+    width: 220px;
+}
+.parentClass aside.is_expanded .menu-item .text {
+    opacity: 1;
+}
+.parentClass aside.is_expanded .powered {
+    font-size: 8px;
+    opacity: 0.5;
+}
+@media screen and (max-width: 1200px) {
+    .parentClass aside {
+        position: sticky;
+        top: 0px;
+    }
+}
+@media (max-width: 1024px) {
+    .parentClass aside {
+        position: fixed;
+        z-index: 99;
+        top: 0px;
+        bottom: 0px;
+    }
+}
+
+.parentClass aside .menu:first-child {
+    max-height: calc(100vh - 200px);
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.parentClass .btn {
+    display: flex;
+    align-items: center;
+    transition: all 300ms linear;
+    font-weight: var(--secFontWeight);
+}
+
+.parentClass .main-btn {
+    background-color: var(--main-color-book);
+    padding: 0 16px;
+    min-height: 38px;
+    border-radius: 45px;
+    border: 0px solid;
+    font-size: 16px;
+    font-weight: calc(var(--secFontWeight) + 100);
+    text-align: left;
+    color: #FFFFFF;
+}
+.parentClass .main-btn:hover {
+    background-color: #000;
+    color: #FFFFFF;
+}
+.parentClass .main-btn svg {
+    fill: currentColor;
+}
+
+.parentClass .sec-btn {
+    border: 1px solid #000000;
+    background-color: #fff;
+    font-size: 16px;
+    font-weight: calc(var(--secFontWeight) + 100);
+    text-align: left;
+    gap: 5px;
+    padding: 0 16px;
+    min-height: 38px;
+    border-radius: 45px;
+}
+.parentClass .sec-btn:hover {
+    border-color: var(--main-color-book);
+    color: var(--main-color-book);
+}
+.parentClass .sec-btn svg {
+    fill: currentColor;
+}
+
+.parentClass .third-btn {
+    border: 1px solid #000000;
+    background: #ECECEC;
+    font-size: 16px;
+    font-weight: calc(var(--secFontWeight) + 100);
+    text-align: left;
+    gap: 5px;
+    padding: 0 16px;
+    min-height: 38px;
+    border-radius: 45px;
+}
+.parentClass .third-btn svg {
+    fill: currentColor;
+}
+.parentClass .third-btn:hover {
+    border-color: var(--main-color-book);
+    color: var(--main-color-book);
+}
+
+.parentClass .brandbooks {
+    font-weight: calc(var(--secFontWeight) + 100);
+    color: #000;
+}
+
+.parentClass > .container-fluid > .wrapper > .d-flex {
+    overflow-x: hidden;
+}
+
+.parentClass .section-book {
+    padding: 88px 0px 0px 98px;
+    min-height: 100vh;
+    position: relative;
+    box-sizing: border-box;
+}
+@media screen and (max-width: 1200px) {
+    .parentClass .section-book {
+        min-height: unset;
+    }
+}
+@media screen and (max-width: 992px) {
+    .parentClass .section-book {
+        padding: 60px 20px 40px 80px;
+    }
+}
+.parentClass .section-book .content {
+    max-width: 550px;
+    z-index: 1;
+}
+.parentClass .section-book#versions-book .content, .parentClass .section-book#logo-book .content, .parentClass .section-book#values-book .content, .parentClass .section-book#space-book .content, .parentClass .section-book#palette-book .content, .parentClass .section-book#fonts-book .content, .parentClass .section-book#brand-archetype .content{
+    max-width: 660px;
+}
+
+.parentClass .section-book#brand-archetype .main-color-fill {
+    fill: var(--theme-color);
+}
+
+.parentClass .section-book#brand-archetype .sec-color-fill {
+    fill: var(--sec-color);
+}
+
+.parentClass .section-book#brand-archetype .bg-img {
+    left: -220px;
+    top: -200px;
+}
+.parentClass .section-book#brand-archetype .bg-img2 {
+    left: auto;
+    right: 0px;
+    top: 200px;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .section-book#brand-archetype .bg-img2 {
+        right: -200px;
+        top: 300px;
+    }
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper {
+    margin-top: 0px;
+    margin-right: 98px;
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px 0;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .section-book#brand-archetype .archetype-wrapper {
+        margin-right: 0px;
+    }
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:only-child {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 600px;
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:only-child .img-wrapper {
+    width: 321px;
+    height: 367px;
+    margin: 0 auto 55px;
+    display: flex;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .section-book#brand-archetype .archetype-wrapper .archetype:only-child .img-wrapper {
+        width: 50vw;
+        height: 50vw;
+    }
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:only-child .img-wrapper img,
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:only-child .img-wrapper svg {
+    max-width: 100%;
+    max-height: 100%;
+    align-self: end;
+    -o-object-fit: fill;
+    object-fit: fill;
+    margin: 0 auto;
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child) {
+    max-width: 340px;
+    display: block;
+    float: left;
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child) .img-wrapper {
+    width: 285px;
+    height: 333px;
+    margin: 0 auto;
+    display: flex;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child) .img-wrapper {
+        width: 50vw;
+        height: 50vw;
+    }
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child) .img-wrapper img,
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child) .img-wrapper svg {
+    max-width: 100%;
+    max-height: 100%;
+    align-self: end;
+    -o-object-fit: fill;
+    object-fit: fill;
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child) .content {
+    margin-top: 30px;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child) .content {
+        margin-top: 0px;
+    }
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child):not(:only-child):not(:first-child) {
+    position: relative;
+    margin-left: 120px;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child):not(:only-child):not(:first-child) {
+        margin-left: 0px;
+        margin-top: 100px;
+    }
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child):not(:only-child):not(:first-child)::before {
+    content: "&";
+    font-family: var(--mainFont);
+    font-size: 100px;
+    position: absolute;
+    left: -120px;
+    top: 90px;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .section-book#brand-archetype .archetype-wrapper .archetype:not(:only-child):not(:only-child):not(:first-child)::before {
+        font-size: 50px;
+        left: 50%;
+        transform: translateX(-50%);
+        top: -90px;
+    }
+}
+.parentClass .section-book#brand-archetype .archetype-wrapper .archetype .sample {
+    font-weight: 700;
+}
+
+.parentClass .section-book#proportions-book .content {
+    max-width: 720px;
+}
+.parentClass .section-book .bg {
+    font-family: var(--mainFont);
+    color: #f2f2f2;
+    font-size: 629.97px;
+    font-weight: var(--mainFontWeight);
+    line-height: 482.97px;
+    text-align: left;
+    position: absolute;
+    z-index: 0;
+    left: 0px;
+    bottom: 0px;
+}
+.parentClass .section-book .bg-img {
+    position: absolute;
+    z-index: 0;
+    left: -100px;
+    top: -150px;
+}
+.parentClass .section-book .bg-img svg {
+    fill: #F2F2F2;
+}
+.parentClass .section-book .favicon-block-wrapper svg * {
+    fill: #fff !important;
+}
+.parentClass .section-book#space-book .bg-img {
+    top: 0px !important;
+}
+
+.parentClass .cover-img img {
+    max-width: 100%;
+    height: auto;
+}
+
+.parentClass .watermark {
+    position: absolute !important;
+    z-index: 10 !important;
+    bottom: 20px;
+    width: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+@media screen and (max-width: 992px) {
+    .parentClass .watermark {
+        width: 100px;
+        bottom: 0px;
+    }
+}
+.parentClass .watermark img {
+    width: 100% !important;
+    height: auto;
+}
+
+.parentClass #brand-designer,
+.parentClass #designer-book {
+    padding: 105px 93px 136px;
+    background: #F2F2F2;
+}
+.parentClass #brand-designer .content,
+.parentClass #designer-book .content {
+    max-width: 820px;
+}
+@media screen and (max-width: 992px) {
+    .parentClass #brand-designer,
+    .parentClass #designer-book {
+        padding: 60px 20px 40px 80px;
+    }
+}
+
+.parentClass .simple-pantone-color {
+    min-width: 170px;
+}
+
+.parentClass .simple-pantone-color .pantone-color-wrap {
+    width: 137px;
+    height: 248px;
+    padding: 8px 8px 42px;
+    border: 1.3px solid #c5c3c3;
+    box-shadow: 5.2px 5.2px 19.51px 0px rgba(0, 0, 0, 0.2509803922);
+    margin: 0 auto 9px;
+}
+
+.parentClass .simple-pantone-color .color-name {
+    font-size: 13.05px;
+    font-weight: var(--secFontWeight);
+    line-height: 23.3px;
+    text-align: center;
+}
+
+.parentClass .simple-pantone-color .color-value {
+    display: grid;
+    grid-template-columns: auto 60%;
+    gap: 4px 13px;
+    margin-top: 8px;
+    max-width: 170px;
+}
+
+.parentClass .simple-pantone-color .color-value .name {
+    font-size: 10px;
+    font-weight: var(--secFontWeight);
+    line-height: 20px;
+    text-align: right;
+    color: #999;
+}
+
+.parentClass .simple-pantone-color .color-value .value {
+    font-size: 12px;
+    line-height: 20px;
+    text-align: left;
+    text-wrap: wrap;
+}
+
+.parentClass .add-pantone-color {
+    min-width: 170px;
+}
+
+.parentClass .add-pantone-color .pantone-color-wrap {
+    width: 137px;
+    height: 248px;
+    padding: 8px 8px 42px;
+    border: 1.3px solid #c5c3c3;
+    box-shadow: 5.2px 5.2px 19.51px 0px rgba(0, 0, 0, 0.2509803922);
+    margin: 0 auto 9px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.parentClass .add-pantone-color .shade {
+    height: 30px;
+}
+
+.parentClass .add-pantone-color .color-name {
+    font-size: 13.05px;
+    font-weight: var(--secFontWeight);
+    line-height: 23.3px;
+    text-align: center;
+}
+
+.parentClass .add-pantone-color .color-value {
+    display: grid;
+    grid-template-columns: auto 60%;
+    gap: 4px 13px;
+    margin-top: 8px;
+    max-width: 170px;
+}
+
+.parentClass .add-pantone-color .color-value .name {
+    font-size: 10px;
+    font-weight: var(--secFontWeight);
+    line-height: 20px;
+    text-align: right;
+    color: #999;
+}
+
+.parentClass .add-pantone-color .color-value .value {
+    font-size: 12px;
+    line-height: 20px;
+    text-align: left;
+    text-wrap: wrap;
+}
+
+.parentClass .hex-inside {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 10px;
+    font-weight: var(--secFontWeight);
+    line-height: 0.1;
+    text-align: center;
+    color: #fff;
+    top: 50%;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+}
+
+.parentClass .shade .hex-inside {
+    width: 100%;
+    height: 100%;
+    display: block;
+    display: flex;
+    position: unset;
+    transform: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.parentClass .pantone-color-wrap > .shade ~ .input-group + .hex-inside,
+.parentClass .simple-pantone-color .hex-inside {
+    top: 36%;
+    position: absolute;
+    font-size: 14px;
+}
+
+.parentClass .pantone-color-wrap {
+    position: relative;
+}
+
+.parentClass .pantone-color-wrap > .shade ~ .input-group {
+    max-height: calc(100% - 96px);
+}
+
+.parentClass .vc-chrome * {
+    z-index: 100000;
+}
+
+.parentClass .add-pantone-color .pantone-color-wrap,
+.parentClass .add-pantone-color .pantone-color-wrap .input-group {
+    position: unset;
+}
+
+.parentClass .add-pantone-color .pantone-color-wrap > .shade ~ .input-group + .hex-inside {
+    margin-top: 70px;
+    position: absolute;
+    top: unset !important;
+    left: unset !important;
+    margin-left: 59px;
+}
+
+.parentClass .vc-chrome-body {
+    position: relative;
+}
+
+.parentClass .font-block {
+    margin-top: 150px;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .font-block {
+        margin-top: 50px;
+    }
+}
+.parentClass .font-block .group-samples {
+    margin-top: 52px;
+    gap: 52px;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .font-block .group-samples {
+        margin-top: 25px;
+        gap: 25px;
+    }
+}
+.parentClass .font-block .font-name {
+    font-size: 46px;
+    font-weight: var(--secFontWeight);
+    line-height: 33.5px;
+    text-align: left;
+}
+.parentClass .font-block .font-value {
+    font-size: 16px;
+    font-weight: var(--secFontWeight);
+    text-align: left;
+}
+.parentClass .font-block .font-weight-name {
+    font-style: italic;
+    font-weight: calc(var(--secFontWeight) + 100);
+}
+.parentClass .font-block .first-letter {
+    font-size: 34.77px;
+    text-align: center;
+    min-width: 97px;
+    min-height: 68px;
+    border-right: 2px solid #000;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .font-block .first-letter {
+        border-right: 0px solid #000;
+        border-bottom: 2px solid #000;
+        padding-bottom: 20px;
+    }
+}
+.parentClass .font-block .first-letter .company-name {
+    font-size: 11.92px;
+    line-height: 16.75px;
+    text-align: center;
+}
+.parentClass .font-block .font-sample {
+    color: #58585A;
+}
+@media screen and (max-width: 992px) {
+    .parentClass .font-block .alphabet {
+        font-size: 14px;
+    }
+}
+
+.parentClass .modal .modal-header {
+    border-color: #E1E1E1;
+}
+.parentClass .modal .btn-close {
+    opacity: 1;
+    top: 16px;
+    right: 20px;
+    background-image: url('data:image/svg+xml,%3Csvg width="27" height="28" viewBox="0 0 27 28" fill="none" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath d="M1.17396 1.23472L24.9476 26.2595M24.2671 1.86011L1.17396 25.6341" stroke="black" stroke-width="3"/%3E%3C/svg%3E');
+    background-color: transparent;
+    border: 0px;
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    box-sizing: border-box;
+}
+@media (max-width: 1200px) {
+    .parentClass .modal .btn-close {
+        top: 6px;
+        right: 6px;
+        width: 14px;
+        height: 14px;
+    }
+}
+.parentClass .modal .block-divide {
+    position: relative;
+    padding: 20px 0;
+}
+.parentClass .modal .block-divide:before, .parentClass .modal .block-divide:after {
+    content: "";
+    width: 1px;
+    height: 100%;
+    background-color: #E1E1E1;
+    position: absolute;
+    left: calc(50% - 0.5px);
+    top: 0px;
+    bottom: 0px;
+}
+@media (max-width: 1200px) {
+    .parentClass .modal .block-divide:before, .parentClass .modal .block-divide:after {
+        content: none;
+    }
+}
+.parentClass .modal .block-divide:after {
+    top: auto;
+    height: 1px;
+    width: calc(100% + 60px);
+    left: -30px;
+}
+.parentClass .modal .sec-block-divide > .col:first-child {
+    position: relative;
+}
+.parentClass .modal .sec-block-divide > .col:first-child:before {
+    content: "";
+    height: 1px;
+    width: calc(100% + 30px);
+    background-color: #E1E1E1;
+    top: calc(100% + 1px);
+    position: absolute;
+    left: 0;
+    right: 0px;
+    order: 1;
+}
+@media (max-width: 1200px) {
+    .parentClass .modal .sec-block-divide > .col:first-child:before {
+        content: none;
+    }
+}
+.parentClass .modal .icon-official {
+    color: var(--main-color-book);
+}
+
+@media (min-width: 1200px) {
+    .parentClass .modal-1000 {
+        --bs-modal-width: 1000px;
+        width: 1000px;
+        max-width: 1000px;
+    }
+    .parentClass .modal-1000 .modal-body {
+        padding: 0px 30px;
+    }
+    .parentClass .modal-1000 .modal-content {
+        border-radius: 28px;
+    }
+}
+@media (max-width: 1200px) {
+    .parentClass .modal-1000 .changeable {
+        border-top: 1px solid #E1E1E1;
+    }
+    .parentClass .modal-1000 .changeable .border-end {
+        border-right: 0px solid transparent !important;
+    }
+    .parentClass .modal-1000 .modal-content {
+        border-radius: 10px;
+    }
+}
+.modal[id*=AddSectionImageModal] .modal-body,
+#imageModalEdit .modal-body {
+    margin: 0px;
+}
+
+body .parentClass {
+    --vs-colors--lightest: rgba(60, 60, 60, 0.26);
+    --vs-colors--light: rgba(60, 60, 60, 0.5);
+    --vs-colors--dark: #333;
+    --vs-colors--darkest: rgba(0, 0, 0, 0.15);
+    /* Search Input */
+    --vs-search-input-color: inherit;
+    --vs-search-input-bg: rgb(255, 255, 255);
+    --vs-search-input-placeholder-color: inherit;
+    /* Font */
+    --vs-font-size: 14px;
+    --vs-line-height: 1.5;
+    /* Disabled State */
+    --vs-state-disabled-bg: rgb(248, 248, 248);
+    --vs-state-disabled-color: var(--vs-colors--light);
+    --vs-state-disabled-controls-color: var(--vs-colors--light);
+    --vs-state-disabled-cursor: not-allowed;
+    /* Borders */
+    --vs-border-color: #000;
+    --vs-border-width: 1px;
+    --vs-border-style: solid;
+    --vs-border-radius: 34px;
+    /* Actions: house the component controls */
+    --vs-actions-padding: 4px 6px 0 3px;
+    /* Component Controls: Clear, Open Indicator */
+    --vs-controls-color: var(--vs-colors--light);
+    --vs-controls-size: 1;
+    --vs-controls--deselect-text-shadow: 0 1px 0 #fff;
+    /* Selected */
+    --vs-selected-bg: #f0f0f0;
+    --vs-selected-color: var(--vs-colors--dark);
+    --vs-selected-border-color: var(--vs-border-color);
+    --vs-selected-border-style: var(--vs-border-style);
+    --vs-selected-border-width: var(--vs-border-width);
+    /* Dropdown */
+    --vs-dropdown-bg: #fff;
+    --vs-dropdown-color: inherit;
+    --vs-dropdown-z-index: 1000;
+    --vs-dropdown-min-width: 160px;
+    --vs-dropdown-max-height: 350px;
+    --vs-dropdown-box-shadow: 0px 3px 6px 0px var(--vs-colors--darkest);
+    /* Options */
+    --vs-dropdown-option-bg: #000;
+    --vs-dropdown-option-color: var(--vs-dropdown-color);
+    --vs-dropdown-option-padding: 3px 20px;
+    /* Active State */
+    --vs-dropdown-option--active-bg: var(--main-color-book);
+    --vs-dropdown-option--active-color: #fff;
+    /* Deselect State */
+    --vs-dropdown-option--deselect-bg: #fb5858;
+    --vs-dropdown-option--deselect-color: #fff;
+    /* Transitions */
+    --vs-transition-timing-function: cubic-bezier(1, -0.115, 0.975, 0.855);
+    --vs-transition-duration: 150ms;
+}
+body .parentClass .v-select {
+    font-size: 14px;
+}
+body .parentClass .vs__dropdown-toggle {
+    padding: 0 16px;
+    height: 30px;
+}
+body .parentClass .vs--single .vs__selected,
+body .parentClass .vs__selected-options,
+body .parentClass .vs__search {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+body .parentClass .vs__open-indicator {
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='9' height='6' viewBox='0 0 9 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M3.82733 4.88848L0.913934 2.23994C0.237605 1.6251 0.672575 0.5 1.58661 0.5L7.41339 0.5C8.32743 0.5 8.76239 1.6251 8.08606 2.23994L5.17267 4.88848C4.79125 5.23523 4.20875 5.23523 3.82733 4.88848Z' fill='black'/%3e%3c/svg%3e ");
+    fill: transparent;
+    background-size: 11px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+body .parentClass .vs__clear {
+    display: none;
+}
+body .parentClass .vs--open .vs__dropdown-toggle {
+    border-top-left-radius: 20px !important;
+    border-top-right-radius: 20px !important;
+}
+body .parentClass .vs__dropdown-menu {
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+}
+
+.parentClass .proportions-block {
+    display: flex;
+    font-size: 14px;
+    color: #808080;
+}
+.parentClass .proportions-block .logo-proportions,
+.parentClass .proportions-block .logo-proportions svg {
+    width: 100%;
+    height: 100%;
+}
+.parentClass .proportions-block .proportions-element {
+    border: 1px solid #808080;
+}
+.parentClass .proportions-block .proportions-top-arrow {
+    height: 50px !important;
+    margin-bottom: 20px;
+    text-align: center;
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+    position: relative;
+    background-image: linear-gradient(to right, #808080, #808080);
+    background-size: 100% 1px;
+    background-repeat: no-repeat;
+    background-position: center;
+    flex-shrink: 0;
+}
+.parentClass .proportions-block .proportions-top-arrow::before {
+    content: url("data:image/svg+xml;charset=UTF-8,%3csvg width='6' height='9' viewBox='0 0 6 9' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M3.00024 -1.39045e-07L0.402168 9L5.59832 9L3.00024 -1.39045e-07Z' fill='%23808080'/%3e%3c/svg%3e ");
+    top: 50% !important;
+    position: absolute;
+    left: 0%;
+    transform: translateY(-50%) rotate(-90deg);
+}
+.parentClass .proportions-block .proportions-top-arrow::after {
+    content: url("data:image/svg+xml;charset=UTF-8,%3csvg width='6' height='9' viewBox='0 0 6 9' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M3.00024 -1.39045e-07L0.402168 9L5.59832 9L3.00024 -1.39045e-07Z' fill='%23808080'/%3e%3c/svg%3e ");
+    top: 50% !important;
+    position: absolute;
+    right: 0%;
+    transform: translateY(-50%) rotate(90deg);
+}
+.parentClass .proportions-block .proportions-left-arrow {
+    margin-top: auto;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    width: 50px !important;
+    border-top: 1px solid #808080;
+    border-bottom: 1px solid #808080;
+    position: relative;
+    background-image: linear-gradient(to right, #808080, #808080);
+    background-size: 1px 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    flex-shrink: 0;
+}
+.parentClass .proportions-block .proportions-left-arrow::before {
+    content: url("data:image/svg+xml;charset=UTF-8,%3csvg width='6' height='9' viewBox='0 0 6 9' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M3.00024 -1.39045e-07L0.402168 9L5.59832 9L3.00024 -1.39045e-07Z' fill='%23808080'/%3e%3c/svg%3e ");
+    top: -9px !important;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.parentClass .proportions-block .proportions-left-arrow::after {
+    content: url("data:image/svg+xml;charset=UTF-8,%3csvg width='6' height='9' viewBox='0 0 6 9' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M3.00024 -1.39045e-07L0.402168 9L5.59832 9L3.00024 -1.39045e-07Z' fill='%23808080'/%3e%3c/svg%3e ");
+    bottom: -9px !important;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) rotate(180deg);
+}
+.parentClass .proportions-icon .proportions-top-arrow {
+    margin: 0px !important;
+    height: 30px !important;
+    background-position: top 4px center;
+}
+.parentClass .proportions-icon .proportions-top-arrow span {
+    top: -20px;
+    position: relative;
+}
+.parentClass .proportions-icon .proportions-top-arrow::before, .parentClass .proportions-icon .proportions-top-arrow::after {
+    top: 4.36px !important;
+}
+.parentClass .proportions-icon .proportions-left-arrow {
+    text-align: right;
+    justify-content: end;
+    width: 30px !important;
+    background-position: right 4px center;
+}
+.parentClass .proportions-icon .proportions-left-arrow span {
+    right: -14px;
+    position: relative;
+}
+.parentClass .proportions-icon .proportions-left-arrow::before {
+    right: -12px !important;
+}
+.parentClass .proportions-icon .proportions-left-arrow::after {
+    left: 26px !important;
+}
+
+.parentClass .clear-block-wrapper .arrow,
+.parentClass .clear-block-wrapper .d-flex,
+.parentClass .clear-block-wrapper .grid-container-clear2 {
+    flex-shrink: 0;
+}
+.parentClass .clear-block-wrapper {
+    max-width: 542px;
+    width: -moz-fit-content;
+    width: fit-content;
+}
+.parentClass .clear-block-wrapper .arrow {
+    text-align: center;
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+    position: relative;
+    background-image: linear-gradient(to right, #808080, #808080);
+    background-size: 100% 1px;
+    background-repeat: no-repeat;
+    background-position: center;
+    flex-shrink: 0;
+}
+.parentClass .clear-block-wrapper .arrow::before, .parentClass .clear-block-wrapper .arrow::after {
+    content: url("data:image/svg+xml;charset=UTF-8,%3csvg width='6' height='9' viewBox='0 0 6 9' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M3.00024 -1.39045e-07L0.402168 9L5.59832 9L3.00024 -1.39045e-07Z' fill='%23808080'/%3e%3c/svg%3e ");
+    top: 50%;
+    position: absolute;
+    left: 0%;
+    transform: translateY(-50%) rotate(-90deg);
+}
+.parentClass .clear-block-wrapper .arrow span {
+    position: absolute;
+    font-size: 14px;
+    color: #808080;
+}
+.parentClass .clear-block-wrapper .left-arrow.arrow,
+.parentClass .clear-block-wrapper .right-arrow.arrow {
+    width: 30px;
+    border-left: 0px solid transparent !important;
+    border-right: 0px solid transparent !important;
+    border-top: 1px solid #808080;
+    border-bottom: 1px solid #808080;
+    background-size: 1px auto;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.parentClass .clear-block-wrapper .top-arrow.arrow,
+.parentClass .clear-block-wrapper .bottom-arrow.arrow {
+    height: 30px !important;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.parentClass .clear-block-wrapper .left-arrow.arrow {
+    background-position: left 4px center;
+}
+.parentClass .clear-block-wrapper .left-arrow.arrow:before {
+    top: -9px !important;
+    left: 4.36px;
+    transform: translateX(-50%);
+}
+.parentClass .clear-block-wrapper .left-arrow.arrow:after {
+    bottom: -9px !important;
+    left: 4.36px;
+    transform: translateX(-50%) rotate(180deg);
+}
+.parentClass .clear-block-wrapper .left-arrow.arrow span {
+    left: -10px;
+}
+.parentClass .clear-block-wrapper .right-arrow.arrow {
+    align-self: end;
+    background-position: right 4px center;
+}
+.parentClass .clear-block-wrapper .right-arrow.arrow:before {
+    top: -9px !important;
+    left: calc(100% - 4.36px);
+    transform: translateX(-50%);
+}
+.parentClass .clear-block-wrapper .right-arrow.arrow:after {
+    bottom: -9px !important;
+    left: calc(100% - 4.36px);
+    transform: translateX(-50%) rotate(180deg);
+}
+.parentClass .clear-block-wrapper .right-arrow.arrow span {
+    right: -10px;
+}
+.parentClass .clear-block-wrapper .top-arrow.arrow {
+    background-position: top 4px center;
+}
+.parentClass .clear-block-wrapper .top-arrow.arrow::before, .parentClass .clear-block-wrapper .top-arrow.arrow::after {
+    top: 4.36px;
+}
+.parentClass .clear-block-wrapper .top-arrow.arrow::after {
+    transform: translateY(-50%) rotate(90deg);
+    right: 0px;
+    left: auto;
+}
+.parentClass .clear-block-wrapper .top-arrow.arrow span {
+    top: -20px;
+}
+.parentClass .clear-block-wrapper .bottom-arrow.arrow {
+    background-position: bottom 4px center;
+}
+.parentClass .clear-block-wrapper .bottom-arrow.arrow::before, .parentClass .clear-block-wrapper .bottom-arrow.arrow::after {
+    top: calc(100% - 4.36px);
+}
+.parentClass .clear-block-wrapper .bottom-arrow.arrow::after {
+    transform: translateY(-50%) rotate(90deg);
+    right: 0px;
+    left: auto;
+}
+.parentClass .clear-block-wrapper .bottom-arrow.arrow span {
+    bottom: -20px;
+}
+.parentClass .grid-container-clear2 {
+    display: grid;
+    gap: 1px;
+    background-color: #808080;
+    padding: 1px;
+    width: -moz-fit-content;
+    width: fit-content;
+}
+.parentClass .grid-container-clear2 > div {
+    background-color: #fff;
+}
+.parentClass .grid-container-clear2 .logo-favicon {
+    width: 100%;
+    height: 100%;
+}
+.parentClass .grid-container-clear2 .logo-favicon * {
+    fill: var(--sec-color) !important;
+}
+.parentClass .grid-container-clear {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 1px;
+    width: 171px;
+    height: 171px;
+    padding: 1px;
+    background-color: #808080;
+}
+.parentClass .grid-container-clear > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    font-size: 14px;
+    color: #808080;
+}
+.parentClass .grid-container-clear .top-left {
+    grid-area: 1/1;
+}
+.parentClass .grid-container-clear .top-right {
+    grid-area: 1/3;
+}
+.parentClass .grid-container-clear .center {
+    grid-area: 2/2;
+}
+.parentClass .grid-container-clear .bottom-left {
+    grid-area: 3/1;
+}
+.parentClass .grid-container-clear .bottom-right {
+    grid-area: 3/3;
+}
+.parentClass .grid-container-clear .logo-favicon {
+    width: 57px;
+    height: 57px;
+}
+.parentClass .grid-container-clear .logo-favicon svg {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.parentClass #section-new {
+    min-height: unset;
+    padding-right: 98px;
+    padding-left: 0px;
+    overflow: visible;
+    z-index: 2;
+}
+@media screen and (max-width: 992px) {
+    .parentClass #section-new {
+        padding: 60px 0px 40px 0px;
+    }
+}
+.parentClass #section-new h1,
+.parentClass #section-new div.editable-content {
+    width: -moz-fit-content;
+    width: fit-content;
+    padding-right: 110px;
+    min-width: 550px;
+}
+.parentClass #section-new .content {
+    max-width: unset !important;
+}
+.parentClass #section-new .add-line {
+    height: 28px;
+    background-image: linear-gradient(to right, #000, #000);
+    background-position: center;
+    background-size: auto 2px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+}
+.parentClass #section-new .add-line .add-icon {
+    background-color: #000;
+    width: 33px;
+    height: 28px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parentClass #section-new .add-line .add-icon svg {
+    filter: invert(1);
+}
+.parentClass #section-new .add-line .dropdown-menu-center {
+    right: auto;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    padding: 0px;
+    border: 2px solid #000;
+    border-radius: 28px;
+    gap: 0px;
+    transition: all 300ms linear;
+    position: fixed;
+}
+.parentClass #section-new .add-line .dropdown-menu-center.show {
+    display: flex;
+}
+.parentClass #section-new .add-line .dropdown-menu-center[x-placement=bottom-start] {
+    transform: translate(-50%, 40px) !important;
+}
+.parentClass #section-new .add-line .dropdown-menu-center[x-placement=top-start] {
+    transform: translate(-50%, -115px) !important;
+}
+.parentClass #section-new .add-line .dropdown-menu-center a {
+    padding: 22px 28px;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    font-weight: 400;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+}
+.parentClass #section-new .add-line .dropdown-menu-center a:hover {
+    background-color: transparent;
+    color: var(--theme-color);
+}
+@media screen and (max-width: 992px) {
+    .parentClass #section-new .add-line .dropdown-menu-center a {
+        padding: 10px 15px;
+    }
+}
+.parentClass .new-image,
+.parentClass figure.image,
+.parentClass .editable-content,
+.parentClass figure.image img {
+    max-width: 100%;
+    height: auto;
+}
+.parentClass .wrapper-cropper {
+    width: 500px;
+    margin: 0 auto;
+}
+.parentClass .wrapper-cropper img {
+    display: block;
+    max-width: 100%;
+}
+.parentClass #dropzone {
+    border: 2px dashed var(--main-color-book);
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
+.parentClass .resizable-image {
+    position: relative;
+    display: inline-block;
+}
+.parentClass .resizable-image img {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}
+.parentClass .resizable-image .resizer {
+    width: 15px;
+    height: 15px;
+    background: #000;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    cursor: se-resize;
+    border: 2px solid #fff;
+}
+.parentClass .content {
+    position: relative;
+}
+.parentClass .editable-wrap {
+    position: absolute;
+    right: 0px;
+    display: flex;
+    gap: 10px;
+    opacity: 0;
+    z-index: -1;
+    transition: opacity 300ms linear;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+.parentClass .editable-wrap button {
+    border: 0px !important;
+    color: transparent;
+    background-color: transparent;
+    font-size: 0px;
+    width: 20px;
+    height: 20px;
+    background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.parentClass .editable-wrap button.edit-button {
+    background-image: url('data:image/svg+xml,%3Csvg width="17" height="18" viewBox="0 0 17 18" fill="none" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath d="M16.531 5.21604L15.0004 6.7467C14.8443 6.90276 14.592 6.90276 14.4359 6.7467L10.7504 3.06116C10.5943 2.9051 10.5943 2.65276 10.7504 2.4967L12.281 0.96604C12.9019 0.345142 13.9113 0.345142 14.5355 0.96604L16.531 2.96155C17.1553 3.58245 17.1553 4.59182 16.531 5.21604ZM9.43554 3.81155L0.716401 12.5307L0.0124945 16.5649C-0.0837946 17.1094 0.39101 17.5809 0.935541 17.4879L4.96972 16.7807L13.6889 8.06155C13.8449 7.90549 13.8449 7.65315 13.6889 7.49709L10.0033 3.81155C9.84394 3.65549 9.5916 3.65549 9.43554 3.81155ZM4.11972 11.7836C3.9371 11.601 3.9371 11.3088 4.11972 11.1262L9.233 6.01291C9.41562 5.8303 9.70781 5.8303 9.89042 6.01291C10.073 6.19553 10.073 6.48772 9.89042 6.67034L4.77714 11.7836C4.59453 11.9662 4.30234 11.9662 4.11972 11.7836ZM2.92109 14.576H4.51484V15.7813L2.37324 16.1565L1.34062 15.1238L1.71581 12.9822H2.92109V14.576Z" fill="black"/%3E%3C/svg%3E');
+    background-size: 16px;
+}
+.parentClass .editable-wrap button.delete-button {
+    background-image: url('data:image/svg+xml,%3Csvg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath d="M13.4585 4.95834C13.2706 4.95834 13.0905 5.03297 12.9576 5.16581C12.8248 5.29865 12.7502 5.47882 12.7502 5.66668V13.5936C12.7298 13.9518 12.5688 14.2875 12.3021 14.5275C12.0355 14.7675 11.6848 14.8924 11.3264 14.875H5.67391C5.31556 14.8924 4.96486 14.7675 4.69819 14.5275C4.43152 14.2875 4.27048 13.9518 4.25016 13.5936V5.66668C4.25016 5.47882 4.17553 5.29865 4.0427 5.16581C3.90986 5.03297 3.72969 4.95834 3.54183 4.95834C3.35397 4.95834 3.1738 5.03297 3.04096 5.16581C2.90812 5.29865 2.8335 5.47882 2.8335 5.66668V13.5936C2.85371 14.3276 3.16399 15.0237 3.69637 15.5294C4.22876 16.0351 4.93985 16.3092 5.67391 16.2917H11.3264C12.0605 16.3092 12.7716 16.0351 13.304 15.5294C13.8363 15.0237 14.1466 14.3276 14.1668 13.5936V5.66668C14.1668 5.47882 14.0922 5.29865 13.9594 5.16581C13.8265 5.03297 13.6464 4.95834 13.4585 4.95834Z" fill="black"/%3E%3Cpath d="M14.1667 2.83334H11.3333V1.41668C11.3333 1.22882 11.2587 1.04865 11.1259 0.91581C10.993 0.782971 10.8129 0.708344 10.625 0.708344H6.375C6.18714 0.708344 6.00697 0.782971 5.87413 0.91581C5.74129 1.04865 5.66667 1.22882 5.66667 1.41668V2.83334H2.83333C2.64547 2.83334 2.4653 2.90797 2.33247 3.04081C2.19963 3.17365 2.125 3.35382 2.125 3.54168C2.125 3.72954 2.19963 3.90971 2.33247 4.04254C2.4653 4.17538 2.64547 4.25001 2.83333 4.25001H14.1667C14.3545 4.25001 14.5347 4.17538 14.6675 4.04254C14.8004 3.90971 14.875 3.72954 14.875 3.54168C14.875 3.35382 14.8004 3.17365 14.6675 3.04081C14.5347 2.90797 14.3545 2.83334 14.1667 2.83334ZM7.08333 2.83334V2.12501H9.91667V2.83334H7.08333Z" fill="black"/%3E%3Cpath d="M7.79167 12.0417V7.08333C7.79167 6.89547 7.71704 6.7153 7.5842 6.58247C7.45136 6.44963 7.2712 6.375 7.08333 6.375C6.89547 6.375 6.7153 6.44963 6.58247 6.58247C6.44963 6.7153 6.375 6.89547 6.375 7.08333V12.0417C6.375 12.2295 6.44963 12.4097 6.58247 12.5425C6.7153 12.6754 6.89547 12.75 7.08333 12.75C7.2712 12.75 7.45136 12.6754 7.5842 12.5425C7.71704 12.4097 7.79167 12.2295 7.79167 12.0417Z" fill="black"/%3E%3Cpath d="M10.6252 12.0417V7.08333C10.6252 6.89547 10.5505 6.7153 10.4177 6.58247C10.2849 6.44963 10.1047 6.375 9.91683 6.375C9.72897 6.375 9.5488 6.44963 9.41596 6.58247C9.28312 6.7153 9.2085 6.89547 9.2085 7.08333V12.0417C9.2085 12.2295 9.28312 12.4097 9.41596 12.5425C9.5488 12.6754 9.72897 12.75 9.91683 12.75C10.1047 12.75 10.2849 12.6754 10.4177 12.5425C10.5505 12.4097 10.6252 12.2295 10.6252 12.0417Z" fill="black"/%3E%3C/svg%3E');
+}
+@media screen and (max-width: 992px) {
+    .parentClass .editable-wrap {
+        left: auto !important;
+        right: 0px;
+        margin-left: 0px !important;
+    }
+}
+.parentClass h1.editable-content + .editable-wrap {
+    margin-left: -210px;
+}
+.parentClass div.editable-content + .editable-wrap {
+    margin-left: -170px;
+}
+.parentClass img.editable-content + .editable-wrap {
+    margin-left: -90px;
+}
+.parentClass .editable-wrap:hover,
+.parentClass .editable-content:hover + .editable-wrap {
+    opacity: 1;
+    z-index: 2;
+}
+
+:root {
+    /* -- Overrides generic colors. ------------------------------------------------------------- */
+    --ck-color-button-on-color: var(--theme-color);
+    --ck-color-base-foreground: var(--theme-color);
+    /* -- Overrides the default .ck-button class colors. ---------------------------------------- */
+    --ck-color-split-button-hover-border: var(--theme-color);
+    --ck-color-list-button-on-background: var(--theme-color);
+    --ck-color-list-button-on-background-focus: var(--theme-color);
+    --ck-color-link-default: var(--theme-color);
+}
+
+.ck.ck-editor__editable > .ck-placeholder::before {
+    color: #B9B9B9;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    letter-spacing: -0.738391px;
+}
+
+.el-tiptap-editor > .el-tiptap-editor__content {
+    padding: 10px 15px;
+}
+
+.el-tiptap-editor__command-button--active {
+    color: var(--theme-color);
+}
+
+.ck.ck-editor {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.43;
+    color: #424242;
+}
+
+.el-tiptap-editor > .el-tiptap-editor__content:nth-child(2) {
+    border-top: 1px solid #D9D9DF;
+    border-radius: 2px;
+}
+
+.ck.ck-content.ck-rounded-corners {
+    height: 300px !important;
+}
+
+.project-risk .ck.ck-content.ck-rounded-corners {
+    min-height: 260px;
+}
+
+.project-risk .ck.ck-toolbar.ck-toolbar_grouping {
+    display: none;
+}
+
+.project-risk .ck.ck-toolbar.ck-toolbar_grouping {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .ck.ck-content.ck-rounded-corners {
+        height: 200px !important;
+    }
+}
+.ck .ck-powered-by {
+    display: none !important;
+}
+
+.ck-body-wrapper * {
+    z-index: 1061 !important;
+}
+
+.drop-wrapper .drop-area {
+    background: #FAFAFA;
+    border: 1px dashed #B9B9B9;
+    border-radius: 2px;
+    width: 100%;
+    height: 258px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+.drop-wrapper .drop-area .info {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 147%;
+    text-align: center;
+    letter-spacing: -0.738391px;
+    color: #51647A;
+}
+.drop-wrapper .drop-area input[type=file][accept="video/*"] ~ .info-img {
+    display: none;
+}
+.drop-wrapper .drop-area input[type=file][accept="image/*"] ~ .info-video {
+    display: none;
+}
+.drop-wrapper .drop-area .icon-circle {
+    width: 64px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(1, 2, 29, 0.0668433), 0px 0px 20px rgba(1, 2, 29, 0.0153792), 0px 40px 50px -10px rgba(1, 2, 29, 0.02);
+    border-radius: 100px;
+}
+.drop-wrapper .drop-area + .icons-options {
+    visibility: hidden;
+    margin-top: 12px;
+    padding: 0px;
+    display: flex;
+    gap: 15px;
+}
+.drop-wrapper .drop-area + .icons-options svg {
+    fill: var(--bs-main);
+}
+.drop-wrapper .drop-area.full > span.info, .drop-wrapper .drop-area.full > span.icon-circle {
+    display: none;
+}
+.drop-wrapper .drop-area.full .gallery {
+    max-height: calc(100% - 60px);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    height: 940px;
+}
+.drop-wrapper .drop-area.full .gallery img,
+.drop-wrapper .drop-area.full .gallery video {
+    -o-object-fit: cover;
+    object-fit: cover;
+    max-height: 100%;
+    max-width: 100%;
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.drop-wrapper .drop-area.full + .icons-options {
+    visibility: visible;
+}
+
+.deleteModalContent {
+    padding: 15px;
+}
+
+.main-book a {
+    color: var(--theme-color);
+}
+
+.main-book .main-btn {
+    background-color: var(--theme-color);
+}
+
+.main-book .sec-btn:hover {
+    border-color: var(--theme-color);
+    color: var(--theme-color);
+}
+
+.main-book #dropzone {
+    border: 2px dashed var(--theme-color);
+}
+
+.main-book {
+    scrollbar-color: var(--theme-color) #f2f2f2 !important;
+}
+
+.parentClass {
+    scrollbar-color: var(--main-color-book) #f2f2f2;
+}
+
+#new-brandbook-form {
+    z-index: 10000;
+}
+
+#modal-choose-plan {
+    z-index: 1060;
+}
+
+.footer-icon {
+    align-self: center;
+}
+
+.parentClass section>*:not([class*="bg"]):not([class*="add-section"]){
+    position: relative;
+    z-index: 1;
+}
+
+.parentClass #section-new + .content {
+    z-index: 3;
+}
+.not-remove-watermark {
+    margin-top: 0 !important;
+}/*# sourceMappingURL=main.css.map */

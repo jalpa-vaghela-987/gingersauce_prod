@@ -1,0 +1,71 @@
+:root {
+    /* -- Overrides generic colors. ------------------------------------------------------------- */
+    --ck-color-button-on-color: var(--theme-color);
+    --ck-color-base-foreground: var(--theme-color);
+    /* -- Overrides the default .ck-button class colors. ---------------------------------------- */
+
+    --ck-color-split-button-hover-border: var(--theme-color);
+
+    --ck-color-list-button-on-background: var(--theme-color);
+
+    --ck-color-list-button-on-background-focus: var(--theme-color);
+    --ck-color-link-default: var(--theme-color);
+}
+
+.ck.ck-editor__editable>.ck-placeholder::before {
+    color: #B9B9B9;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    letter-spacing: -0.738391px;
+}
+
+.el-tiptap-editor>.el-tiptap-editor__content {
+    padding: 10px 15px
+}
+
+.el-tiptap-editor__command-button--active {
+    color: var(--theme-color);
+}
+
+.ck.ck-editor {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.43;
+    color: #424242;
+}
+
+.el-tiptap-editor>.el-tiptap-editor__content:nth-child(2) {
+    border-top: 1px solid #D9D9DF;
+    border-radius: 2px;
+}
+
+.ck.ck-content.ck-rounded-corners {
+    height: 300px !important;
+}
+
+.project-risk .ck.ck-content.ck-rounded-corners {
+    min-height: 260px;
+}
+
+.project-risk .ck.ck-toolbar.ck-toolbar_grouping {
+    display: none;
+}
+
+.project-risk .ck.ck-toolbar.ck-toolbar_grouping {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .ck.ck-content.ck-rounded-corners {
+        height: 200px !important;
+    }
+}
+
+.ck .ck-powered-by {
+    display: none !important;
+}
+
+.ck-body-wrapper * {
+    z-index: 1061 !important;
+}

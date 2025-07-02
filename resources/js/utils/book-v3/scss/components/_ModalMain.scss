@@ -1,0 +1,59 @@
+.parentClassV3 .modal {
+    .modal-header {
+        border-color: #0000004D;
+        padding: 10px 25px;
+    }
+
+    .modal-content {
+        border-radius: 20px;
+    }
+
+    .btn-close {
+        opacity: 1;
+        top: 16px;
+        right: 20px;
+        background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg  viewBox='0 0 16 17' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.233065 14.8505C-0.00748041 15.0984 -0.00748037 15.5004 0.233065 15.7484C0.47361 15.9963 0.863612 15.9963 1.10416 15.7484L7.59833 9.05483L14.4082 16.0738C14.6488 16.3217 15.0388 16.3217 15.2793 16.0738C15.5199 15.8259 15.5199 15.4239 15.2793 15.176L8.46942 8.157L15.332 1.08378C15.5725 0.835848 15.5725 0.433876 15.332 0.185946C15.0914 -0.0619827 14.7014 -0.0619819 14.4609 0.185947L7.59833 7.25917L1.0515 0.511382C0.810955 0.263453 0.420954 0.263453 0.180409 0.511382C-0.0601367 0.759311 -0.0601359 1.16128 0.180409 1.40921L6.72724 8.157L0.233065 14.8505Z' fill='%233C3C3B'/%3e%3c/svg%3e");
+        background-color: transparent;
+        border: 0px;
+        width: 15px;
+        height: 16px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        box-sizing: border-box;
+
+        @media (max-width: 1200px) {
+            top: 14px;
+            right: 14px;
+            width: 14px;
+            height: 14px;
+
+        }
+    }
+
+    .button-wrapper.d-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 5px;
+        align-self: center;
+    }
+
+    &#downloadModal {
+        .modal-body {
+            padding: 8px 10px 8px 10px;
+
+            .container-fluid {
+                max-height: 400px;
+                overflow: auto;
+            }
+        }
+    }
+
+    .block-download {
+        padding: 12px 0;
+
+        &:not(:last-child) {
+            border-bottom: 1px solid #0000004D;
+        }
+    }
+}

@@ -1,0 +1,25 @@
+.core-values-block-wrap {
+    padding: 24px 30px 30px;
+
+    .content {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 410px);
+        gap: 29px 62px
+    }
+
+    @media screen and (max-width: 992px) {
+        h3.fs-32 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        h5 {
+            font-size: 18px;
+        }
+
+        p.fs-12,
+        div.fs-12 {
+            font-size: 8px;
+        }
+    }
+}
