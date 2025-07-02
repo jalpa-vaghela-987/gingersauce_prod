@@ -1,0 +1,68 @@
+{
+    "name": "bitandblack/colors",
+    "type": "library",
+    "description": "Handle colors and their systems easily. Based on Adobe InDesigns color books.",
+    "keywords": [
+        "color",
+        "php",
+        "cmyk",
+        "cmy",
+        "rgb",
+        "rgba",
+        "hex",
+        "pantone",
+        "hks",
+        "ral",
+        "lab",
+        "cielab",
+        "xyz",
+        "adobe",
+        "adobe color book",
+        "acb",
+        "hsl",
+        "hsla",
+        "complementary"
+    ],
+    "homepage": "https://www.bitandblack.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobias Köngeter",
+            "email": "hello@bitandblack.com",
+            "homepage": "https://www.bitandblack.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "ext-json": "*",
+        "myclabs/php-enum": "^1.7"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^0.12",
+        "phpunit/phpunit": "^7.5 || ^8.0 || ^9.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Color\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Color\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "phpstan": "php vendor/bin/phpstan analyse src tests --level max --memory-limit=-1 --ansi",
+        "phpunit": "php vendor/bin/phpunit --configuration ./tests/phpunit.xml --colors=always"
+    },
+    "scripts-descriptions": {
+        "phpstan": "Runs PHPStan over the src folder and the tests folder.",
+        "phpunit": "Runs PHPUnit."
+    },
+    "support": {
+        "issues": "https://bitbucket.org/wirbelwild/colors/issues"
+    }
+}

@@ -1,0 +1,2409 @@
+{
+  "name": {
+    "system": "PANTONE+ Premium Metallics Coated",
+    "prefix": "PANTONE",
+    "suffix": "C"
+  },
+  "values": [
+    {
+      "id": "1",
+      "name": "10101",
+      "alias": "10101C",
+      "lightness": 85,
+      "a-chrominance": 0,
+      "b-chrominance": 0
+    },
+    {
+      "id": "2",
+      "name": "10102",
+      "alias": "10102C",
+      "lightness": 79,
+      "a-chrominance": 0,
+      "b-chrominance": 0
+    },
+    {
+      "id": "3",
+      "name": "10103",
+      "alias": "10103C",
+      "lightness": 76,
+      "a-chrominance": -1,
+      "b-chrominance": -1
+    },
+    {
+      "id": "4",
+      "name": "10104",
+      "alias": "10104C",
+      "lightness": 71,
+      "a-chrominance": -1,
+      "b-chrominance": -1
+    },
+    {
+      "id": "5",
+      "name": "10105",
+      "alias": "10105C",
+      "lightness": 71,
+      "a-chrominance": -1,
+      "b-chrominance": -1
+    },
+    {
+      "id": "6",
+      "name": "Silver",
+      "alias": "SilvrC",
+      "lightness": 69,
+      "a-chrominance": -1,
+      "b-chrominance": -1
+    },
+    {
+      "id": "7",
+      "name": "10106",
+      "alias": "10106C",
+      "lightness": 69,
+      "a-chrominance": -6,
+      "b-chrominance": 28
+    },
+    {
+      "id": "8",
+      "name": "10107",
+      "alias": "10107C",
+      "lightness": 69,
+      "a-chrominance": -6,
+      "b-chrominance": 37
+    },
+    {
+      "id": "9",
+      "name": "10108",
+      "alias": "10108C",
+      "lightness": 69,
+      "a-chrominance": -7,
+      "b-chrominance": 47
+    },
+    {
+      "id": "10",
+      "name": "10109",
+      "alias": "10109C",
+      "lightness": 69,
+      "a-chrominance": -6,
+      "b-chrominance": 55
+    },
+    {
+      "id": "11",
+      "name": "10110",
+      "alias": "10110C",
+      "lightness": 69,
+      "a-chrominance": -6,
+      "b-chrominance": 64
+    },
+    {
+      "id": "12",
+      "name": "10111",
+      "alias": "10111C",
+      "lightness": 71,
+      "a-chrominance": -5,
+      "b-chrominance": 73
+    },
+    {
+      "id": "13",
+      "name": "10112",
+      "alias": "10112C",
+      "lightness": 69,
+      "a-chrominance": -4,
+      "b-chrominance": 18
+    },
+    {
+      "id": "14",
+      "name": "10113",
+      "alias": "10113C",
+      "lightness": 68,
+      "a-chrominance": -5,
+      "b-chrominance": 30
+    },
+    {
+      "id": "15",
+      "name": "10114",
+      "alias": "10114C",
+      "lightness": 68,
+      "a-chrominance": -5,
+      "b-chrominance": 39
+    },
+    {
+      "id": "16",
+      "name": "10115",
+      "alias": "10115C",
+      "lightness": 67,
+      "a-chrominance": -4,
+      "b-chrominance": 48
+    },
+    {
+      "id": "17",
+      "name": "10116",
+      "alias": "10116C",
+      "lightness": 68,
+      "a-chrominance": -3,
+      "b-chrominance": 56
+    },
+    {
+      "id": "18",
+      "name": "10117",
+      "alias": "10117C",
+      "lightness": 67,
+      "a-chrominance": 0,
+      "b-chrominance": 64
+    },
+    {
+      "id": "19",
+      "name": "10118",
+      "alias": "10118C",
+      "lightness": 67,
+      "a-chrominance": -2,
+      "b-chrominance": 29
+    },
+    {
+      "id": "20",
+      "name": "10119",
+      "alias": "10119C",
+      "lightness": 67,
+      "a-chrominance": -1,
+      "b-chrominance": 38
+    },
+    {
+      "id": "21",
+      "name": "10120",
+      "alias": "10120C",
+      "lightness": 66,
+      "a-chrominance": 2,
+      "b-chrominance": 46
+    },
+    {
+      "id": "22",
+      "name": "10121",
+      "alias": "10121C",
+      "lightness": 65,
+      "a-chrominance": 5,
+      "b-chrominance": 54
+    },
+    {
+      "id": "23",
+      "name": "10122",
+      "alias": "10122C",
+      "lightness": 65,
+      "a-chrominance": 8,
+      "b-chrominance": 61
+    },
+    {
+      "id": "24",
+      "name": "10123",
+      "alias": "10123C",
+      "lightness": 65,
+      "a-chrominance": 13,
+      "b-chrominance": 69
+    },
+    {
+      "id": "25",
+      "name": "10124",
+      "alias": "10124C",
+      "lightness": 67,
+      "a-chrominance": -2,
+      "b-chrominance": 25
+    },
+    {
+      "id": "26",
+      "name": "10125",
+      "alias": "10125C",
+      "lightness": 65,
+      "a-chrominance": 0,
+      "b-chrominance": 32
+    },
+    {
+      "id": "27",
+      "name": "10126",
+      "alias": "10126C",
+      "lightness": 64,
+      "a-chrominance": 2,
+      "b-chrominance": 39
+    },
+    {
+      "id": "28",
+      "name": "10127",
+      "alias": "10127C",
+      "lightness": 62,
+      "a-chrominance": 6,
+      "b-chrominance": 45
+    },
+    {
+      "id": "29",
+      "name": "10128",
+      "alias": "10128C",
+      "lightness": 61,
+      "a-chrominance": 10,
+      "b-chrominance": 51
+    },
+    {
+      "id": "30",
+      "name": "10129",
+      "alias": "10129C",
+      "lightness": 60,
+      "a-chrominance": 16,
+      "b-chrominance": 57
+    },
+    {
+      "id": "31",
+      "name": "10130",
+      "alias": "10130C",
+      "lightness": 63,
+      "a-chrominance": 10,
+      "b-chrominance": 22
+    },
+    {
+      "id": "32",
+      "name": "10131",
+      "alias": "10131C",
+      "lightness": 59,
+      "a-chrominance": 13,
+      "b-chrominance": 29
+    },
+    {
+      "id": "33",
+      "name": "10132",
+      "alias": "10132C",
+      "lightness": 57,
+      "a-chrominance": 17,
+      "b-chrominance": 35
+    },
+    {
+      "id": "34",
+      "name": "10133",
+      "alias": "10133C",
+      "lightness": 54,
+      "a-chrominance": 20,
+      "b-chrominance": 40
+    },
+    {
+      "id": "35",
+      "name": "10134",
+      "alias": "10134C",
+      "lightness": 51,
+      "a-chrominance": 22,
+      "b-chrominance": 44
+    },
+    {
+      "id": "36",
+      "name": "10135",
+      "alias": "10135C",
+      "lightness": 49,
+      "a-chrominance": 24,
+      "b-chrominance": 48
+    },
+    {
+      "id": "37",
+      "name": "10136",
+      "alias": "10136C",
+      "lightness": 65,
+      "a-chrominance": 5,
+      "b-chrominance": 12
+    },
+    {
+      "id": "38",
+      "name": "10137",
+      "alias": "10137C",
+      "lightness": 62,
+      "a-chrominance": 9,
+      "b-chrominance": 20
+    },
+    {
+      "id": "39",
+      "name": "10138",
+      "alias": "10138C",
+      "lightness": 58,
+      "a-chrominance": 13,
+      "b-chrominance": 27
+    },
+    {
+      "id": "40",
+      "name": "10139",
+      "alias": "10139C",
+      "lightness": 55,
+      "a-chrominance": 16,
+      "b-chrominance": 32
+    },
+    {
+      "id": "41",
+      "name": "10140",
+      "alias": "10140C",
+      "lightness": 53,
+      "a-chrominance": 19,
+      "b-chrominance": 37
+    },
+    {
+      "id": "42",
+      "name": "10141",
+      "alias": "10141C",
+      "lightness": 49,
+      "a-chrominance": 21,
+      "b-chrominance": 40
+    },
+    {
+      "id": "43",
+      "name": "10142",
+      "alias": "10142C",
+      "lightness": 63,
+      "a-chrominance": 13,
+      "b-chrominance": 25
+    },
+    {
+      "id": "44",
+      "name": "10143",
+      "alias": "10143C",
+      "lightness": 60,
+      "a-chrominance": 19,
+      "b-chrominance": 33
+    },
+    {
+      "id": "45",
+      "name": "10144",
+      "alias": "10144C",
+      "lightness": 58,
+      "a-chrominance": 24,
+      "b-chrominance": 40
+    },
+    {
+      "id": "46",
+      "name": "10145",
+      "alias": "10145C",
+      "lightness": 57,
+      "a-chrominance": 29,
+      "b-chrominance": 47
+    },
+    {
+      "id": "47",
+      "name": "10146",
+      "alias": "10146C",
+      "lightness": 55,
+      "a-chrominance": 35,
+      "b-chrominance": 53
+    },
+    {
+      "id": "48",
+      "name": "10147",
+      "alias": "10147C",
+      "lightness": 55,
+      "a-chrominance": 40,
+      "b-chrominance": 59
+    },
+    {
+      "id": "49",
+      "name": "10148",
+      "alias": "10148C",
+      "lightness": 61,
+      "a-chrominance": 19,
+      "b-chrominance": 15
+    },
+    {
+      "id": "50",
+      "name": "10149",
+      "alias": "10149C",
+      "lightness": 58,
+      "a-chrominance": 25,
+      "b-chrominance": 21
+    },
+    {
+      "id": "51",
+      "name": "10150",
+      "alias": "10150C",
+      "lightness": 56,
+      "a-chrominance": 31,
+      "b-chrominance": 28
+    },
+    {
+      "id": "52",
+      "name": "10151",
+      "alias": "10151C",
+      "lightness": 54,
+      "a-chrominance": 36,
+      "b-chrominance": 34
+    },
+    {
+      "id": "53",
+      "name": "10152",
+      "alias": "10152C",
+      "lightness": 53,
+      "a-chrominance": 42,
+      "b-chrominance": 41
+    },
+    {
+      "id": "54",
+      "name": "10153",
+      "alias": "10153C",
+      "lightness": 52,
+      "a-chrominance": 48,
+      "b-chrominance": 49
+    },
+    {
+      "id": "55",
+      "name": "10154",
+      "alias": "10154C",
+      "lightness": 64,
+      "a-chrominance": 9,
+      "b-chrominance": 7
+    },
+    {
+      "id": "56",
+      "name": "10155",
+      "alias": "10155C",
+      "lightness": 60,
+      "a-chrominance": 16,
+      "b-chrominance": 12
+    },
+    {
+      "id": "57",
+      "name": "10156",
+      "alias": "10156C",
+      "lightness": 56,
+      "a-chrominance": 23,
+      "b-chrominance": 17
+    },
+    {
+      "id": "58",
+      "name": "10157",
+      "alias": "10157C",
+      "lightness": 53,
+      "a-chrominance": 29,
+      "b-chrominance": 21
+    },
+    {
+      "id": "59",
+      "name": "10158",
+      "alias": "10158C",
+      "lightness": 50,
+      "a-chrominance": 35,
+      "b-chrominance": 26
+    },
+    {
+      "id": "60",
+      "name": "10159",
+      "alias": "10159C",
+      "lightness": 47,
+      "a-chrominance": 42,
+      "b-chrominance": 30
+    },
+    {
+      "id": "61",
+      "name": "10160",
+      "alias": "10160C",
+      "lightness": 60,
+      "a-chrominance": 26,
+      "b-chrominance": 1
+    },
+    {
+      "id": "62",
+      "name": "10161",
+      "alias": "10161C",
+      "lightness": 56,
+      "a-chrominance": 33,
+      "b-chrominance": 4
+    },
+    {
+      "id": "63",
+      "name": "10162",
+      "alias": "10162C",
+      "lightness": 53,
+      "a-chrominance": 39,
+      "b-chrominance": 8
+    },
+    {
+      "id": "64",
+      "name": "10163",
+      "alias": "10163C",
+      "lightness": 51,
+      "a-chrominance": 45,
+      "b-chrominance": 14
+    },
+    {
+      "id": "65",
+      "name": "10164",
+      "alias": "10164C",
+      "lightness": 50,
+      "a-chrominance": 49,
+      "b-chrominance": 20
+    },
+    {
+      "id": "66",
+      "name": "10165",
+      "alias": "10165C",
+      "lightness": 49,
+      "a-chrominance": 54,
+      "b-chrominance": 28
+    },
+    {
+      "id": "67",
+      "name": "10166",
+      "alias": "10166C",
+      "lightness": 58,
+      "a-chrominance": 25,
+      "b-chrominance": -3
+    },
+    {
+      "id": "68",
+      "name": "10167",
+      "alias": "10167C",
+      "lightness": 55,
+      "a-chrominance": 33,
+      "b-chrominance": -2
+    },
+    {
+      "id": "69",
+      "name": "10168",
+      "alias": "10168C",
+      "lightness": 51,
+      "a-chrominance": 40,
+      "b-chrominance": 0
+    },
+    {
+      "id": "70",
+      "name": "10169",
+      "alias": "10169C",
+      "lightness": 48,
+      "a-chrominance": 46,
+      "b-chrominance": 3
+    },
+    {
+      "id": "71",
+      "name": "10170",
+      "alias": "10170C",
+      "lightness": 45,
+      "a-chrominance": 52,
+      "b-chrominance": 7
+    },
+    {
+      "id": "72",
+      "name": "10171",
+      "alias": "10171C",
+      "lightness": 44,
+      "a-chrominance": 58,
+      "b-chrominance": 14
+    },
+    {
+      "id": "73",
+      "name": "10172",
+      "alias": "10172C",
+      "lightness": 57,
+      "a-chrominance": 21,
+      "b-chrominance": -10
+    },
+    {
+      "id": "74",
+      "name": "10173",
+      "alias": "10173C",
+      "lightness": 53,
+      "a-chrominance": 28,
+      "b-chrominance": -11
+    },
+    {
+      "id": "75",
+      "name": "10174",
+      "alias": "10174C",
+      "lightness": 50,
+      "a-chrominance": 35,
+      "b-chrominance": -12
+    },
+    {
+      "id": "76",
+      "name": "10175",
+      "alias": "10175C",
+      "lightness": 47,
+      "a-chrominance": 41,
+      "b-chrominance": -11
+    },
+    {
+      "id": "77",
+      "name": "10176",
+      "alias": "10176C",
+      "lightness": 44,
+      "a-chrominance": 48,
+      "b-chrominance": -9
+    },
+    {
+      "id": "78",
+      "name": "10177",
+      "alias": "10177C",
+      "lightness": 42,
+      "a-chrominance": 54,
+      "b-chrominance": -5
+    },
+    {
+      "id": "79",
+      "name": "10178",
+      "alias": "10178C",
+      "lightness": 62,
+      "a-chrominance": 18,
+      "b-chrominance": -7
+    },
+    {
+      "id": "80",
+      "name": "10179",
+      "alias": "10179C",
+      "lightness": 59,
+      "a-chrominance": 24,
+      "b-chrominance": -8
+    },
+    {
+      "id": "81",
+      "name": "10180",
+      "alias": "10180C",
+      "lightness": 56,
+      "a-chrominance": 31,
+      "b-chrominance": -9
+    },
+    {
+      "id": "82",
+      "name": "10181",
+      "alias": "10181C",
+      "lightness": 53,
+      "a-chrominance": 37,
+      "b-chrominance": -9
+    },
+    {
+      "id": "83",
+      "name": "10182",
+      "alias": "10182C",
+      "lightness": 49,
+      "a-chrominance": 44,
+      "b-chrominance": -9
+    },
+    {
+      "id": "84",
+      "name": "10183",
+      "alias": "10183C",
+      "lightness": 48,
+      "a-chrominance": 50,
+      "b-chrominance": -7
+    },
+    {
+      "id": "85",
+      "name": "10184",
+      "alias": "10184C",
+      "lightness": 63,
+      "a-chrominance": 15,
+      "b-chrominance": -9
+    },
+    {
+      "id": "86",
+      "name": "10185",
+      "alias": "10185C",
+      "lightness": 60,
+      "a-chrominance": 22,
+      "b-chrominance": -11
+    },
+    {
+      "id": "87",
+      "name": "10186",
+      "alias": "10186C",
+      "lightness": 56,
+      "a-chrominance": 28,
+      "b-chrominance": -13
+    },
+    {
+      "id": "88",
+      "name": "10187",
+      "alias": "10187C",
+      "lightness": 54,
+      "a-chrominance": 34,
+      "b-chrominance": -15
+    },
+    {
+      "id": "89",
+      "name": "10188",
+      "alias": "10188C",
+      "lightness": 51,
+      "a-chrominance": 41,
+      "b-chrominance": -16
+    },
+    {
+      "id": "90",
+      "name": "10189",
+      "alias": "10189C",
+      "lightness": 49,
+      "a-chrominance": 48,
+      "b-chrominance": -16
+    },
+    {
+      "id": "91",
+      "name": "10190",
+      "alias": "10190C",
+      "lightness": 63,
+      "a-chrominance": 5,
+      "b-chrominance": -3
+    },
+    {
+      "id": "92",
+      "name": "10191",
+      "alias": "10191C",
+      "lightness": 58,
+      "a-chrominance": 8,
+      "b-chrominance": -4
+    },
+    {
+      "id": "93",
+      "name": "10192",
+      "alias": "10192C",
+      "lightness": 53,
+      "a-chrominance": 11,
+      "b-chrominance": -4
+    },
+    {
+      "id": "94",
+      "name": "10193",
+      "alias": "10193C",
+      "lightness": 48,
+      "a-chrominance": 13,
+      "b-chrominance": -5
+    },
+    {
+      "id": "95",
+      "name": "10194",
+      "alias": "10194C",
+      "lightness": 43,
+      "a-chrominance": 15,
+      "b-chrominance": -5
+    },
+    {
+      "id": "96",
+      "name": "10195",
+      "alias": "10195C",
+      "lightness": 38,
+      "a-chrominance": 17,
+      "b-chrominance": -5
+    },
+    {
+      "id": "97",
+      "name": "10196",
+      "alias": "10196C",
+      "lightness": 62,
+      "a-chrominance": 11,
+      "b-chrominance": -8
+    },
+    {
+      "id": "98",
+      "name": "10197",
+      "alias": "10197C",
+      "lightness": 57,
+      "a-chrominance": 20,
+      "b-chrominance": -12
+    },
+    {
+      "id": "99",
+      "name": "10198",
+      "alias": "10198C",
+      "lightness": 52,
+      "a-chrominance": 27,
+      "b-chrominance": -14
+    },
+    {
+      "id": "100",
+      "name": "10199",
+      "alias": "10199C",
+      "lightness": 48,
+      "a-chrominance": 32,
+      "b-chrominance": -15
+    },
+    {
+      "id": "101",
+      "name": "10200",
+      "alias": "10200C",
+      "lightness": 44,
+      "a-chrominance": 38,
+      "b-chrominance": -16
+    },
+    {
+      "id": "102",
+      "name": "10201",
+      "alias": "10201C",
+      "lightness": 40,
+      "a-chrominance": 43,
+      "b-chrominance": -15
+    },
+    {
+      "id": "103",
+      "name": "10202",
+      "alias": "10202C",
+      "lightness": 56,
+      "a-chrominance": 17,
+      "b-chrominance": -12
+    },
+    {
+      "id": "104",
+      "name": "10203",
+      "alias": "10203C",
+      "lightness": 52,
+      "a-chrominance": 22,
+      "b-chrominance": -15
+    },
+    {
+      "id": "105",
+      "name": "10204",
+      "alias": "10204C",
+      "lightness": 47,
+      "a-chrominance": 27,
+      "b-chrominance": -17
+    },
+    {
+      "id": "106",
+      "name": "10205",
+      "alias": "10205C",
+      "lightness": 43,
+      "a-chrominance": 32,
+      "b-chrominance": -18
+    },
+    {
+      "id": "107",
+      "name": "10206",
+      "alias": "10206C",
+      "lightness": 39,
+      "a-chrominance": 35,
+      "b-chrominance": -19
+    },
+    {
+      "id": "108",
+      "name": "10207",
+      "alias": "10207C",
+      "lightness": 35,
+      "a-chrominance": 38,
+      "b-chrominance": -19
+    },
+    {
+      "id": "109",
+      "name": "10208",
+      "alias": "10208C",
+      "lightness": 61,
+      "a-chrominance": 14,
+      "b-chrominance": -12
+    },
+    {
+      "id": "110",
+      "name": "10209",
+      "alias": "10209C",
+      "lightness": 57,
+      "a-chrominance": 20,
+      "b-chrominance": -16
+    },
+    {
+      "id": "111",
+      "name": "10210",
+      "alias": "10210C",
+      "lightness": 53,
+      "a-chrominance": 25,
+      "b-chrominance": -19
+    },
+    {
+      "id": "112",
+      "name": "10211",
+      "alias": "10211C",
+      "lightness": 49,
+      "a-chrominance": 29,
+      "b-chrominance": -22
+    },
+    {
+      "id": "113",
+      "name": "10212",
+      "alias": "10212C",
+      "lightness": 45,
+      "a-chrominance": 34,
+      "b-chrominance": -25
+    },
+    {
+      "id": "114",
+      "name": "10213",
+      "alias": "10213C",
+      "lightness": 41,
+      "a-chrominance": 39,
+      "b-chrominance": -28
+    },
+    {
+      "id": "115",
+      "name": "10214",
+      "alias": "10214C",
+      "lightness": 55,
+      "a-chrominance": 14,
+      "b-chrominance": -19
+    },
+    {
+      "id": "116",
+      "name": "10215",
+      "alias": "10215C",
+      "lightness": 50,
+      "a-chrominance": 19,
+      "b-chrominance": -25
+    },
+    {
+      "id": "117",
+      "name": "10216",
+      "alias": "10216C",
+      "lightness": 45,
+      "a-chrominance": 23,
+      "b-chrominance": -30
+    },
+    {
+      "id": "118",
+      "name": "10217",
+      "alias": "10217C",
+      "lightness": 40,
+      "a-chrominance": 27,
+      "b-chrominance": -35
+    },
+    {
+      "id": "119",
+      "name": "10218",
+      "alias": "10218C",
+      "lightness": 34,
+      "a-chrominance": 31,
+      "b-chrominance": -39
+    },
+    {
+      "id": "120",
+      "name": "10219",
+      "alias": "10219C",
+      "lightness": 29,
+      "a-chrominance": 34,
+      "b-chrominance": -43
+    },
+    {
+      "id": "121",
+      "name": "10220",
+      "alias": "10220C",
+      "lightness": 62,
+      "a-chrominance": 7,
+      "b-chrominance": -11
+    },
+    {
+      "id": "122",
+      "name": "10221",
+      "alias": "10221C",
+      "lightness": 58,
+      "a-chrominance": 10,
+      "b-chrominance": -15
+    },
+    {
+      "id": "123",
+      "name": "10222",
+      "alias": "10222C",
+      "lightness": 55,
+      "a-chrominance": 12,
+      "b-chrominance": -19
+    },
+    {
+      "id": "124",
+      "name": "10223",
+      "alias": "10223C",
+      "lightness": 50,
+      "a-chrominance": 15,
+      "b-chrominance": -23
+    },
+    {
+      "id": "125",
+      "name": "10224",
+      "alias": "10224C",
+      "lightness": 46,
+      "a-chrominance": 18,
+      "b-chrominance": -27
+    },
+    {
+      "id": "126",
+      "name": "10225",
+      "alias": "10225C",
+      "lightness": 42,
+      "a-chrominance": 21,
+      "b-chrominance": -31
+    },
+    {
+      "id": "127",
+      "name": "10226",
+      "alias": "10226C",
+      "lightness": 62,
+      "a-chrominance": 5,
+      "b-chrominance": -12
+    },
+    {
+      "id": "128",
+      "name": "10227",
+      "alias": "10227C",
+      "lightness": 58,
+      "a-chrominance": 7,
+      "b-chrominance": -16
+    },
+    {
+      "id": "129",
+      "name": "10228",
+      "alias": "10228C",
+      "lightness": 55,
+      "a-chrominance": 9,
+      "b-chrominance": -20
+    },
+    {
+      "id": "130",
+      "name": "10229",
+      "alias": "10229C",
+      "lightness": 50,
+      "a-chrominance": 11,
+      "b-chrominance": -24
+    },
+    {
+      "id": "131",
+      "name": "10230",
+      "alias": "10230C",
+      "lightness": 45,
+      "a-chrominance": 13,
+      "b-chrominance": -28
+    },
+    {
+      "id": "132",
+      "name": "10231",
+      "alias": "10231C",
+      "lightness": 42,
+      "a-chrominance": 16,
+      "b-chrominance": -33
+    },
+    {
+      "id": "133",
+      "name": "10232",
+      "alias": "10232C",
+      "lightness": 55,
+      "a-chrominance": 6,
+      "b-chrominance": -17
+    },
+    {
+      "id": "134",
+      "name": "10233",
+      "alias": "10233C",
+      "lightness": 50,
+      "a-chrominance": 9,
+      "b-chrominance": -22
+    },
+    {
+      "id": "135",
+      "name": "10234",
+      "alias": "10234C",
+      "lightness": 44,
+      "a-chrominance": 11,
+      "b-chrominance": -27
+    },
+    {
+      "id": "136",
+      "name": "10235",
+      "alias": "10235C",
+      "lightness": 39,
+      "a-chrominance": 14,
+      "b-chrominance": -31
+    },
+    {
+      "id": "137",
+      "name": "10236",
+      "alias": "10236C",
+      "lightness": 34,
+      "a-chrominance": 16,
+      "b-chrominance": -34
+    },
+    {
+      "id": "138",
+      "name": "10237",
+      "alias": "10237C",
+      "lightness": 36,
+      "a-chrominance": 15,
+      "b-chrominance": -33
+    },
+    {
+      "id": "139",
+      "name": "10238",
+      "alias": "10238C",
+      "lightness": 58,
+      "a-chrominance": 4,
+      "b-chrominance": -18
+    },
+    {
+      "id": "140",
+      "name": "10239",
+      "alias": "10239C",
+      "lightness": 53,
+      "a-chrominance": 6,
+      "b-chrominance": -24
+    },
+    {
+      "id": "141",
+      "name": "10240",
+      "alias": "10240C",
+      "lightness": 48,
+      "a-chrominance": 9,
+      "b-chrominance": -30
+    },
+    {
+      "id": "142",
+      "name": "10241",
+      "alias": "10241C",
+      "lightness": 43,
+      "a-chrominance": 12,
+      "b-chrominance": -35
+    },
+    {
+      "id": "143",
+      "name": "10242",
+      "alias": "10242C",
+      "lightness": 38,
+      "a-chrominance": 15,
+      "b-chrominance": -41
+    },
+    {
+      "id": "144",
+      "name": "10243",
+      "alias": "10243C",
+      "lightness": 33,
+      "a-chrominance": 19,
+      "b-chrominance": -46
+    },
+    {
+      "id": "145",
+      "name": "10244",
+      "alias": "10244C",
+      "lightness": 55,
+      "a-chrominance": -2,
+      "b-chrominance": -22
+    },
+    {
+      "id": "146",
+      "name": "10245",
+      "alias": "10245C",
+      "lightness": 49,
+      "a-chrominance": -1,
+      "b-chrominance": -29
+    },
+    {
+      "id": "147",
+      "name": "10246",
+      "alias": "10246C",
+      "lightness": 44,
+      "a-chrominance": 1,
+      "b-chrominance": -35
+    },
+    {
+      "id": "148",
+      "name": "10247",
+      "alias": "10247C",
+      "lightness": 39,
+      "a-chrominance": 3,
+      "b-chrominance": -40
+    },
+    {
+      "id": "149",
+      "name": "10248",
+      "alias": "10248C",
+      "lightness": 34,
+      "a-chrominance": 7,
+      "b-chrominance": -45
+    },
+    {
+      "id": "150",
+      "name": "10249",
+      "alias": "10249C",
+      "lightness": 29,
+      "a-chrominance": 11,
+      "b-chrominance": -50
+    },
+    {
+      "id": "151",
+      "name": "10250",
+      "alias": "10250C",
+      "lightness": 64,
+      "a-chrominance": -1,
+      "b-chrominance": -10
+    },
+    {
+      "id": "152",
+      "name": "10251",
+      "alias": "10251C",
+      "lightness": 59,
+      "a-chrominance": -1,
+      "b-chrominance": -16
+    },
+    {
+      "id": "153",
+      "name": "10252",
+      "alias": "10252C",
+      "lightness": 55,
+      "a-chrominance": -1,
+      "b-chrominance": -23
+    },
+    {
+      "id": "154",
+      "name": "10253",
+      "alias": "10253C",
+      "lightness": 50,
+      "a-chrominance": 0,
+      "b-chrominance": -28
+    },
+    {
+      "id": "155",
+      "name": "10254",
+      "alias": "10254C",
+      "lightness": 45,
+      "a-chrominance": 2,
+      "b-chrominance": -34
+    },
+    {
+      "id": "156",
+      "name": "10255",
+      "alias": "10255C",
+      "lightness": 41,
+      "a-chrominance": 5,
+      "b-chrominance": -40
+    },
+    {
+      "id": "157",
+      "name": "10256",
+      "alias": "10256C",
+      "lightness": 60,
+      "a-chrominance": -4,
+      "b-chrominance": -16
+    },
+    {
+      "id": "158",
+      "name": "10257",
+      "alias": "10257C",
+      "lightness": 56,
+      "a-chrominance": -5,
+      "b-chrominance": -21
+    },
+    {
+      "id": "159",
+      "name": "10258",
+      "alias": "10258C",
+      "lightness": 52,
+      "a-chrominance": -5,
+      "b-chrominance": -27
+    },
+    {
+      "id": "160",
+      "name": "10259",
+      "alias": "10259C",
+      "lightness": 47,
+      "a-chrominance": -4,
+      "b-chrominance": -32
+    },
+    {
+      "id": "161",
+      "name": "10260",
+      "alias": "10260C",
+      "lightness": 44,
+      "a-chrominance": -2,
+      "b-chrominance": -38
+    },
+    {
+      "id": "162",
+      "name": "10261",
+      "alias": "10261C",
+      "lightness": 39,
+      "a-chrominance": 1,
+      "b-chrominance": -44
+    },
+    {
+      "id": "163",
+      "name": "10262",
+      "alias": "10262C",
+      "lightness": 62,
+      "a-chrominance": -4,
+      "b-chrominance": -7
+    },
+    {
+      "id": "164",
+      "name": "10263",
+      "alias": "10263C",
+      "lightness": 56,
+      "a-chrominance": -5,
+      "b-chrominance": -10
+    },
+    {
+      "id": "165",
+      "name": "10264",
+      "alias": "10264C",
+      "lightness": 51,
+      "a-chrominance": -7,
+      "b-chrominance": -13
+    },
+    {
+      "id": "166",
+      "name": "10265",
+      "alias": "10265C",
+      "lightness": 46,
+      "a-chrominance": -8,
+      "b-chrominance": -15
+    },
+    {
+      "id": "167",
+      "name": "10266",
+      "alias": "10266C",
+      "lightness": 41,
+      "a-chrominance": -8,
+      "b-chrominance": -17
+    },
+    {
+      "id": "168",
+      "name": "10267",
+      "alias": "10267C",
+      "lightness": 36,
+      "a-chrominance": -8,
+      "b-chrominance": -18
+    },
+    {
+      "id": "169",
+      "name": "10268",
+      "alias": "10268C",
+      "lightness": 61,
+      "a-chrominance": -9,
+      "b-chrominance": -16
+    },
+    {
+      "id": "170",
+      "name": "10269",
+      "alias": "10269C",
+      "lightness": 57,
+      "a-chrominance": -12,
+      "b-chrominance": -21
+    },
+    {
+      "id": "171",
+      "name": "10270",
+      "alias": "10270C",
+      "lightness": 53,
+      "a-chrominance": -13,
+      "b-chrominance": -26
+    },
+    {
+      "id": "172",
+      "name": "10271",
+      "alias": "10271C",
+      "lightness": 49,
+      "a-chrominance": -14,
+      "b-chrominance": -31
+    },
+    {
+      "id": "173",
+      "name": "10272",
+      "alias": "10272C",
+      "lightness": 46,
+      "a-chrominance": -13,
+      "b-chrominance": -37
+    },
+    {
+      "id": "174",
+      "name": "10273",
+      "alias": "10273C",
+      "lightness": 42,
+      "a-chrominance": -12,
+      "b-chrominance": -43
+    },
+    {
+      "id": "175",
+      "name": "10274",
+      "alias": "10274C",
+      "lightness": 62,
+      "a-chrominance": -13,
+      "b-chrominance": -13
+    },
+    {
+      "id": "176",
+      "name": "10275",
+      "alias": "10275C",
+      "lightness": 60,
+      "a-chrominance": -16,
+      "b-chrominance": -18
+    },
+    {
+      "id": "177",
+      "name": "10276",
+      "alias": "10276C",
+      "lightness": 57,
+      "a-chrominance": -20,
+      "b-chrominance": -22
+    },
+    {
+      "id": "178",
+      "name": "10277",
+      "alias": "10277C",
+      "lightness": 54,
+      "a-chrominance": -23,
+      "b-chrominance": -27
+    },
+    {
+      "id": "179",
+      "name": "10278",
+      "alias": "10278C",
+      "lightness": 51,
+      "a-chrominance": -25,
+      "b-chrominance": -31
+    },
+    {
+      "id": "180",
+      "name": "10279",
+      "alias": "10279C",
+      "lightness": 49,
+      "a-chrominance": -27,
+      "b-chrominance": -37
+    },
+    {
+      "id": "181",
+      "name": "10280",
+      "alias": "10280C",
+      "lightness": 63,
+      "a-chrominance": -11,
+      "b-chrominance": -8
+    },
+    {
+      "id": "182",
+      "name": "10281",
+      "alias": "10281C",
+      "lightness": 60,
+      "a-chrominance": -15,
+      "b-chrominance": -10
+    },
+    {
+      "id": "183",
+      "name": "10282",
+      "alias": "10282C",
+      "lightness": 56,
+      "a-chrominance": -19,
+      "b-chrominance": -13
+    },
+    {
+      "id": "184",
+      "name": "10283",
+      "alias": "10283C",
+      "lightness": 52,
+      "a-chrominance": -22,
+      "b-chrominance": -15
+    },
+    {
+      "id": "185",
+      "name": "10284",
+      "alias": "10284C",
+      "lightness": 49,
+      "a-chrominance": -25,
+      "b-chrominance": -17
+    },
+    {
+      "id": "186",
+      "name": "10285",
+      "alias": "10285C",
+      "lightness": 45,
+      "a-chrominance": -27,
+      "b-chrominance": -20
+    },
+    {
+      "id": "187",
+      "name": "10286",
+      "alias": "10286C",
+      "lightness": 64,
+      "a-chrominance": -14,
+      "b-chrominance": -7
+    },
+    {
+      "id": "188",
+      "name": "10287",
+      "alias": "10287C",
+      "lightness": 62,
+      "a-chrominance": -19,
+      "b-chrominance": -10
+    },
+    {
+      "id": "189",
+      "name": "10288",
+      "alias": "10288C",
+      "lightness": 59,
+      "a-chrominance": -25,
+      "b-chrominance": -12
+    },
+    {
+      "id": "190",
+      "name": "10289",
+      "alias": "10289C",
+      "lightness": 57,
+      "a-chrominance": -30,
+      "b-chrominance": -14
+    },
+    {
+      "id": "191",
+      "name": "10290",
+      "alias": "10290C",
+      "lightness": 55,
+      "a-chrominance": -35,
+      "b-chrominance": -16
+    },
+    {
+      "id": "192",
+      "name": "10291",
+      "alias": "10291C",
+      "lightness": 52,
+      "a-chrominance": -41,
+      "b-chrominance": -17
+    },
+    {
+      "id": "193",
+      "name": "10292",
+      "alias": "10292C",
+      "lightness": 66,
+      "a-chrominance": -16,
+      "b-chrominance": -3
+    },
+    {
+      "id": "194",
+      "name": "10293",
+      "alias": "10293C",
+      "lightness": 64,
+      "a-chrominance": -22,
+      "b-chrominance": -3
+    },
+    {
+      "id": "195",
+      "name": "10294",
+      "alias": "10294C",
+      "lightness": 62,
+      "a-chrominance": -28,
+      "b-chrominance": -3
+    },
+    {
+      "id": "196",
+      "name": "10295",
+      "alias": "10295C",
+      "lightness": 60,
+      "a-chrominance": -34,
+      "b-chrominance": -3
+    },
+    {
+      "id": "197",
+      "name": "10296",
+      "alias": "10296C",
+      "lightness": 58,
+      "a-chrominance": -41,
+      "b-chrominance": -3
+    },
+    {
+      "id": "198",
+      "name": "10297",
+      "alias": "10297C",
+      "lightness": 56,
+      "a-chrominance": -49,
+      "b-chrominance": -2
+    },
+    {
+      "id": "199",
+      "name": "10298",
+      "alias": "10298C",
+      "lightness": 64,
+      "a-chrominance": -14,
+      "b-chrominance": 9
+    },
+    {
+      "id": "200",
+      "name": "10299",
+      "alias": "10299C",
+      "lightness": 61,
+      "a-chrominance": -19,
+      "b-chrominance": 13
+    },
+    {
+      "id": "201",
+      "name": "10300",
+      "alias": "10300C",
+      "lightness": 59,
+      "a-chrominance": -24,
+      "b-chrominance": 16
+    },
+    {
+      "id": "202",
+      "name": "10301",
+      "alias": "10301C",
+      "lightness": 56,
+      "a-chrominance": -30,
+      "b-chrominance": 19
+    },
+    {
+      "id": "203",
+      "name": "10302",
+      "alias": "10302C",
+      "lightness": 54,
+      "a-chrominance": -35,
+      "b-chrominance": 22
+    },
+    {
+      "id": "204",
+      "name": "10303",
+      "alias": "10303C",
+      "lightness": 51,
+      "a-chrominance": -42,
+      "b-chrominance": 25
+    },
+    {
+      "id": "205",
+      "name": "10304",
+      "alias": "10304C",
+      "lightness": 65,
+      "a-chrominance": -13,
+      "b-chrominance": 14
+    },
+    {
+      "id": "206",
+      "name": "10305",
+      "alias": "10305C",
+      "lightness": 63,
+      "a-chrominance": -18,
+      "b-chrominance": 19
+    },
+    {
+      "id": "207",
+      "name": "10306",
+      "alias": "10306C",
+      "lightness": 60,
+      "a-chrominance": -23,
+      "b-chrominance": 23
+    },
+    {
+      "id": "208",
+      "name": "10307",
+      "alias": "10307C",
+      "lightness": 58,
+      "a-chrominance": -28,
+      "b-chrominance": 27
+    },
+    {
+      "id": "209",
+      "name": "10308",
+      "alias": "10308C",
+      "lightness": 56,
+      "a-chrominance": -32,
+      "b-chrominance": 30
+    },
+    {
+      "id": "210",
+      "name": "10309",
+      "alias": "10309C",
+      "lightness": 53,
+      "a-chrominance": -38,
+      "b-chrominance": 34
+    },
+    {
+      "id": "211",
+      "name": "10310",
+      "alias": "10310C",
+      "lightness": 65,
+      "a-chrominance": -5,
+      "b-chrominance": 5
+    },
+    {
+      "id": "212",
+      "name": "10311",
+      "alias": "10311C",
+      "lightness": 60,
+      "a-chrominance": -8,
+      "b-chrominance": 8
+    },
+    {
+      "id": "213",
+      "name": "10312",
+      "alias": "10312C",
+      "lightness": 56,
+      "a-chrominance": -10,
+      "b-chrominance": 10
+    },
+    {
+      "id": "214",
+      "name": "10313",
+      "alias": "10313C",
+      "lightness": 52,
+      "a-chrominance": -12,
+      "b-chrominance": 12
+    },
+    {
+      "id": "215",
+      "name": "10314",
+      "alias": "10314C",
+      "lightness": 48,
+      "a-chrominance": -14,
+      "b-chrominance": 13
+    },
+    {
+      "id": "216",
+      "name": "10315",
+      "alias": "10315C",
+      "lightness": 44,
+      "a-chrominance": -15,
+      "b-chrominance": 14
+    },
+    {
+      "id": "217",
+      "name": "10316",
+      "alias": "10316C",
+      "lightness": 67,
+      "a-chrominance": -13,
+      "b-chrominance": 19
+    },
+    {
+      "id": "218",
+      "name": "10317",
+      "alias": "10317C",
+      "lightness": 65,
+      "a-chrominance": -18,
+      "b-chrominance": 26
+    },
+    {
+      "id": "219",
+      "name": "10318",
+      "alias": "10318C",
+      "lightness": 64,
+      "a-chrominance": -22,
+      "b-chrominance": 32
+    },
+    {
+      "id": "220",
+      "name": "10319",
+      "alias": "10319C",
+      "lightness": 63,
+      "a-chrominance": -27,
+      "b-chrominance": 38
+    },
+    {
+      "id": "221",
+      "name": "10320",
+      "alias": "10320C",
+      "lightness": 62,
+      "a-chrominance": -33,
+      "b-chrominance": 43
+    },
+    {
+      "id": "222",
+      "name": "10321",
+      "alias": "10321C",
+      "lightness": 61,
+      "a-chrominance": -39,
+      "b-chrominance": 49
+    },
+    {
+      "id": "223",
+      "name": "10322",
+      "alias": "10322C",
+      "lightness": 68,
+      "a-chrominance": -9,
+      "b-chrominance": 26
+    },
+    {
+      "id": "224",
+      "name": "10323",
+      "alias": "10323C",
+      "lightness": 67,
+      "a-chrominance": -12,
+      "b-chrominance": 34
+    },
+    {
+      "id": "225",
+      "name": "10324",
+      "alias": "10324C",
+      "lightness": 67,
+      "a-chrominance": -15,
+      "b-chrominance": 42
+    },
+    {
+      "id": "226",
+      "name": "10325",
+      "alias": "10325C",
+      "lightness": 65,
+      "a-chrominance": -18,
+      "b-chrominance": 49
+    },
+    {
+      "id": "227",
+      "name": "10326",
+      "alias": "10326C",
+      "lightness": 65,
+      "a-chrominance": -21,
+      "b-chrominance": 56
+    },
+    {
+      "id": "228",
+      "name": "10327",
+      "alias": "10327C",
+      "lightness": 65,
+      "a-chrominance": -25,
+      "b-chrominance": 62
+    },
+    {
+      "id": "229",
+      "name": "10328",
+      "alias": "10328C",
+      "lightness": 64,
+      "a-chrominance": -8,
+      "b-chrominance": 17
+    },
+    {
+      "id": "230",
+      "name": "10329",
+      "alias": "10329C",
+      "lightness": 61,
+      "a-chrominance": -10,
+      "b-chrominance": 22
+    },
+    {
+      "id": "231",
+      "name": "10330",
+      "alias": "10330C",
+      "lightness": 57,
+      "a-chrominance": -11,
+      "b-chrominance": 26
+    },
+    {
+      "id": "232",
+      "name": "10331",
+      "alias": "10331C",
+      "lightness": 54,
+      "a-chrominance": -13,
+      "b-chrominance": 29
+    },
+    {
+      "id": "233",
+      "name": "10332",
+      "alias": "10332C",
+      "lightness": 51,
+      "a-chrominance": -14,
+      "b-chrominance": 31
+    },
+    {
+      "id": "234",
+      "name": "10333",
+      "alias": "10333C",
+      "lightness": 47,
+      "a-chrominance": -15,
+      "b-chrominance": 32
+    },
+    {
+      "id": "235",
+      "name": "10334",
+      "alias": "10334C",
+      "lightness": 63,
+      "a-chrominance": -2,
+      "b-chrominance": 12
+    },
+    {
+      "id": "236",
+      "name": "10335",
+      "alias": "10335C",
+      "lightness": 60,
+      "a-chrominance": -2,
+      "b-chrominance": 16
+    },
+    {
+      "id": "237",
+      "name": "10336",
+      "alias": "10336C",
+      "lightness": 56,
+      "a-chrominance": -3,
+      "b-chrominance": 20
+    },
+    {
+      "id": "238",
+      "name": "10337",
+      "alias": "10337C",
+      "lightness": 53,
+      "a-chrominance": -3,
+      "b-chrominance": 23
+    },
+    {
+      "id": "239",
+      "name": "10338",
+      "alias": "10338C",
+      "lightness": 49,
+      "a-chrominance": -4,
+      "b-chrominance": 25
+    },
+    {
+      "id": "240",
+      "name": "10339",
+      "alias": "10339C",
+      "lightness": 44,
+      "a-chrominance": -4,
+      "b-chrominance": 28
+    },
+    {
+      "id": "241",
+      "name": "10340",
+      "alias": "10340C",
+      "lightness": 63,
+      "a-chrominance": 1,
+      "b-chrominance": 14
+    },
+    {
+      "id": "242",
+      "name": "10341",
+      "alias": "10341C",
+      "lightness": 59,
+      "a-chrominance": 1,
+      "b-chrominance": 19
+    },
+    {
+      "id": "243",
+      "name": "10342",
+      "alias": "10342C",
+      "lightness": 56,
+      "a-chrominance": 1,
+      "b-chrominance": 23
+    },
+    {
+      "id": "244",
+      "name": "10343",
+      "alias": "10343C",
+      "lightness": 52,
+      "a-chrominance": 2,
+      "b-chrominance": 27
+    },
+    {
+      "id": "245",
+      "name": "10344",
+      "alias": "10344C",
+      "lightness": 49,
+      "a-chrominance": 2,
+      "b-chrominance": 29
+    },
+    {
+      "id": "246",
+      "name": "10345",
+      "alias": "10345C",
+      "lightness": 45,
+      "a-chrominance": 2,
+      "b-chrominance": 32
+    },
+    {
+      "id": "247",
+      "name": "10346",
+      "alias": "10346C",
+      "lightness": 63,
+      "a-chrominance": 3,
+      "b-chrominance": 15
+    },
+    {
+      "id": "248",
+      "name": "10347",
+      "alias": "10347C",
+      "lightness": 60,
+      "a-chrominance": 4,
+      "b-chrominance": 21
+    },
+    {
+      "id": "249",
+      "name": "10348",
+      "alias": "10348C",
+      "lightness": 56,
+      "a-chrominance": 5,
+      "b-chrominance": 25
+    },
+    {
+      "id": "250",
+      "name": "10349",
+      "alias": "10349C",
+      "lightness": 54,
+      "a-chrominance": 6,
+      "b-chrominance": 28
+    },
+    {
+      "id": "251",
+      "name": "10350",
+      "alias": "10350C",
+      "lightness": 50,
+      "a-chrominance": 7,
+      "b-chrominance": 31
+    },
+    {
+      "id": "252",
+      "name": "10351",
+      "alias": "10351C",
+      "lightness": 47,
+      "a-chrominance": 7,
+      "b-chrominance": 34
+    },
+    {
+      "id": "253",
+      "name": "10352",
+      "alias": "10352C",
+      "lightness": 66,
+      "a-chrominance": 2,
+      "b-chrominance": 10
+    },
+    {
+      "id": "254",
+      "name": "10353",
+      "alias": "10353C",
+      "lightness": 63,
+      "a-chrominance": 4,
+      "b-chrominance": 17
+    },
+    {
+      "id": "255",
+      "name": "10354",
+      "alias": "10354C",
+      "lightness": 59,
+      "a-chrominance": 6,
+      "b-chrominance": 23
+    },
+    {
+      "id": "256",
+      "name": "10355",
+      "alias": "10355C",
+      "lightness": 56,
+      "a-chrominance": 8,
+      "b-chrominance": 28
+    },
+    {
+      "id": "257",
+      "name": "10356",
+      "alias": "10356C",
+      "lightness": 53,
+      "a-chrominance": 9,
+      "b-chrominance": 32
+    },
+    {
+      "id": "258",
+      "name": "10357",
+      "alias": "10357C",
+      "lightness": 49,
+      "a-chrominance": 10,
+      "b-chrominance": 35
+    },
+    {
+      "id": "259",
+      "name": "10358",
+      "alias": "10358C",
+      "lightness": 61,
+      "a-chrominance": 4,
+      "b-chrominance": 15
+    },
+    {
+      "id": "260",
+      "name": "10359",
+      "alias": "10359C",
+      "lightness": 58,
+      "a-chrominance": 6,
+      "b-chrominance": 20
+    },
+    {
+      "id": "261",
+      "name": "10360",
+      "alias": "10360C",
+      "lightness": 54,
+      "a-chrominance": 8,
+      "b-chrominance": 23
+    },
+    {
+      "id": "262",
+      "name": "10361",
+      "alias": "10361C",
+      "lightness": 50,
+      "a-chrominance": 9,
+      "b-chrominance": 26
+    },
+    {
+      "id": "263",
+      "name": "10362",
+      "alias": "10362C",
+      "lightness": 46,
+      "a-chrominance": 10,
+      "b-chrominance": 28
+    },
+    {
+      "id": "264",
+      "name": "10363",
+      "alias": "10363C",
+      "lightness": 42,
+      "a-chrominance": 11,
+      "b-chrominance": 30
+    },
+    {
+      "id": "265",
+      "name": "10364",
+      "alias": "10364C",
+      "lightness": 64,
+      "a-chrominance": 5,
+      "b-chrominance": 12
+    },
+    {
+      "id": "266",
+      "name": "10365",
+      "alias": "10365C",
+      "lightness": 60,
+      "a-chrominance": 9,
+      "b-chrominance": 19
+    },
+    {
+      "id": "267",
+      "name": "10366",
+      "alias": "10366C",
+      "lightness": 55,
+      "a-chrominance": 12,
+      "b-chrominance": 24
+    },
+    {
+      "id": "268",
+      "name": "10367",
+      "alias": "10367C",
+      "lightness": 51,
+      "a-chrominance": 15,
+      "b-chrominance": 27
+    },
+    {
+      "id": "269",
+      "name": "10368",
+      "alias": "10368C",
+      "lightness": 47,
+      "a-chrominance": 17,
+      "b-chrominance": 30
+    },
+    {
+      "id": "270",
+      "name": "10369",
+      "alias": "10369C",
+      "lightness": 44,
+      "a-chrominance": 19,
+      "b-chrominance": 32
+    },
+    {
+      "id": "271",
+      "name": "10370",
+      "alias": "10370C",
+      "lightness": 64,
+      "a-chrominance": 2,
+      "b-chrominance": 6
+    },
+    {
+      "id": "272",
+      "name": "10371",
+      "alias": "10371C",
+      "lightness": 58,
+      "a-chrominance": 4,
+      "b-chrominance": 10
+    },
+    {
+      "id": "273",
+      "name": "10372",
+      "alias": "10372C",
+      "lightness": 54,
+      "a-chrominance": 6,
+      "b-chrominance": 13
+    },
+    {
+      "id": "274",
+      "name": "10373",
+      "alias": "10373C",
+      "lightness": 49,
+      "a-chrominance": 7,
+      "b-chrominance": 15
+    },
+    {
+      "id": "275",
+      "name": "10374",
+      "alias": "10374C",
+      "lightness": 44,
+      "a-chrominance": 8,
+      "b-chrominance": 16
+    },
+    {
+      "id": "276",
+      "name": "10375",
+      "alias": "10375C",
+      "lightness": 39,
+      "a-chrominance": 9,
+      "b-chrominance": 17
+    },
+    {
+      "id": "277",
+      "name": "10376",
+      "alias": "10376C",
+      "lightness": 58,
+      "a-chrominance": 3,
+      "b-chrominance": 6
+    },
+    {
+      "id": "278",
+      "name": "10377",
+      "alias": "10377C",
+      "lightness": 54,
+      "a-chrominance": 5,
+      "b-chrominance": 8
+    },
+    {
+      "id": "279",
+      "name": "10378",
+      "alias": "10378C",
+      "lightness": 49,
+      "a-chrominance": 6,
+      "b-chrominance": 9
+    },
+    {
+      "id": "280",
+      "name": "10379",
+      "alias": "10379C",
+      "lightness": 44,
+      "a-chrominance": 7,
+      "b-chrominance": 10
+    },
+    {
+      "id": "281",
+      "name": "10380",
+      "alias": "10380C",
+      "lightness": 40,
+      "a-chrominance": 7,
+      "b-chrominance": 11
+    },
+    {
+      "id": "282",
+      "name": "10381",
+      "alias": "10381C",
+      "lightness": 34,
+      "a-chrominance": 7,
+      "b-chrominance": 12
+    },
+    {
+      "id": "283",
+      "name": "10382",
+      "alias": "10382C",
+      "lightness": 60,
+      "a-chrominance": 2,
+      "b-chrominance": -1
+    },
+    {
+      "id": "284",
+      "name": "10383",
+      "alias": "10383C",
+      "lightness": 53,
+      "a-chrominance": 3,
+      "b-chrominance": 0
+    },
+    {
+      "id": "285",
+      "name": "10384",
+      "alias": "10384C",
+      "lightness": 47,
+      "a-chrominance": 4,
+      "b-chrominance": 0
+    },
+    {
+      "id": "286",
+      "name": "10385",
+      "alias": "10385C",
+      "lightness": 41,
+      "a-chrominance": 5,
+      "b-chrominance": 0
+    },
+    {
+      "id": "287",
+      "name": "10386",
+      "alias": "10386C",
+      "lightness": 35,
+      "a-chrominance": 5,
+      "b-chrominance": 0
+    },
+    {
+      "id": "288",
+      "name": "10387",
+      "alias": "10387C",
+      "lightness": 30,
+      "a-chrominance": 5,
+      "b-chrominance": 1
+    },
+    {
+      "id": "289",
+      "name": "10388",
+      "alias": "10388C",
+      "lightness": 59,
+      "a-chrominance": -1,
+      "b-chrominance": -3
+    },
+    {
+      "id": "290",
+      "name": "10389",
+      "alias": "10389C",
+      "lightness": 53,
+      "a-chrominance": -1,
+      "b-chrominance": -3
+    },
+    {
+      "id": "291",
+      "name": "10390",
+      "alias": "10390C",
+      "lightness": 47,
+      "a-chrominance": -2,
+      "b-chrominance": -3
+    },
+    {
+      "id": "292",
+      "name": "10391",
+      "alias": "10391C",
+      "lightness": 41,
+      "a-chrominance": -2,
+      "b-chrominance": -4
+    },
+    {
+      "id": "293",
+      "name": "10392",
+      "alias": "10392C",
+      "lightness": 35,
+      "a-chrominance": -2,
+      "b-chrominance": -4
+    },
+    {
+      "id": "294",
+      "name": "10393",
+      "alias": "10393C",
+      "lightness": 29,
+      "a-chrominance": -2,
+      "b-chrominance": -4
+    },
+    {
+      "id": "295",
+      "name": "10394",
+      "alias": "10394C",
+      "lightness": 52,
+      "a-chrominance": 1,
+      "b-chrominance": 2
+    },
+    {
+      "id": "296",
+      "name": "10395",
+      "alias": "10395C",
+      "lightness": 46,
+      "a-chrominance": 1,
+      "b-chrominance": 2
+    },
+    {
+      "id": "297",
+      "name": "10396",
+      "alias": "10396C",
+      "lightness": 39,
+      "a-chrominance": 1,
+      "b-chrominance": 2
+    },
+    {
+      "id": "298",
+      "name": "10397",
+      "alias": "10397C",
+      "lightness": 33,
+      "a-chrominance": 1,
+      "b-chrominance": 2
+    },
+    {
+      "id": "299",
+      "name": "10398",
+      "alias": "10398C",
+      "lightness": 27,
+      "a-chrominance": 1,
+      "b-chrominance": 2
+    },
+    {
+      "id": "300",
+      "name": "10399",
+      "alias": "10399C",
+      "lightness": 22,
+      "a-chrominance": 1,
+      "b-chrominance": 2
+    }
+  ]
+}

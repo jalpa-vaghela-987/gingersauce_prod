@@ -1,0 +1,1689 @@
+{
+  "name": {
+    "system": "PANTONE+ Pastels & Neon Uncoated",
+    "prefix": "PANTONE",
+    "suffix": "U"
+  },
+  "values": [
+    {
+      "id": "1",
+      "name": "Yellow 0131",
+      "alias": "Y131PU",
+      "lightness": 96,
+      "a-chrominance": -7,
+      "b-chrominance": 44
+    },
+    {
+      "id": "2",
+      "name": "Red 0331",
+      "alias": "R331PU",
+      "lightness": 81,
+      "a-chrominance": 33,
+      "b-chrominance": 7
+    },
+    {
+      "id": "3",
+      "name": "Magenta 0521",
+      "alias": "M521PU",
+      "lightness": 79,
+      "a-chrominance": 36,
+      "b-chrominance": -13
+    },
+    {
+      "id": "4",
+      "name": "Violet 0631",
+      "alias": "V631PU",
+      "lightness": 67,
+      "a-chrominance": 26,
+      "b-chrominance": -32
+    },
+    {
+      "id": "5",
+      "name": "Blue 0821",
+      "alias": "B821PU",
+      "lightness": 78,
+      "a-chrominance": -25,
+      "b-chrominance": -25
+    },
+    {
+      "id": "6",
+      "name": "Green 0921",
+      "alias": "G921PU",
+      "lightness": 84,
+      "a-chrominance": -38,
+      "b-chrominance": -1
+    },
+    {
+      "id": "7",
+      "name": "Black 0961",
+      "alias": "K961PU",
+      "lightness": 64,
+      "a-chrominance": 1,
+      "b-chrominance": 3
+    },
+    {
+      "id": "8",
+      "name": "9140",
+      "alias": "9140PU",
+      "lightness": 95,
+      "a-chrominance": -2,
+      "b-chrominance": 25
+    },
+    {
+      "id": "9",
+      "name": "9284",
+      "alias": "9284PU",
+      "lightness": 88,
+      "a-chrominance": 20,
+      "b-chrominance": 3
+    },
+    {
+      "id": "10",
+      "name": "9324",
+      "alias": "9324PU",
+      "lightness": 87,
+      "a-chrominance": 21,
+      "b-chrominance": -8
+    },
+    {
+      "id": "11",
+      "name": "9344",
+      "alias": "9344PU",
+      "lightness": 79,
+      "a-chrominance": 18,
+      "b-chrominance": -21
+    },
+    {
+      "id": "12",
+      "name": "9464",
+      "alias": "9464PU",
+      "lightness": 83,
+      "a-chrominance": -21,
+      "b-chrominance": -19
+    },
+    {
+      "id": "13",
+      "name": "9524",
+      "alias": "9524PU",
+      "lightness": 88,
+      "a-chrominance": -27,
+      "b-chrominance": -1
+    },
+    {
+      "id": "14",
+      "name": "9084",
+      "alias": "9084PU",
+      "lightness": 75,
+      "a-chrominance": 1,
+      "b-chrominance": 4
+    },
+    {
+      "id": "15",
+      "name": "9060",
+      "alias": "9060PU",
+      "lightness": 96,
+      "a-chrominance": -2,
+      "b-chrominance": 15
+    },
+    {
+      "id": "16",
+      "name": "9280",
+      "alias": "9280PU",
+      "lightness": 93,
+      "a-chrominance": 9,
+      "b-chrominance": 3
+    },
+    {
+      "id": "17",
+      "name": "9320",
+      "alias": "9320PU",
+      "lightness": 92,
+      "a-chrominance": 12,
+      "b-chrominance": -4
+    },
+    {
+      "id": "18",
+      "name": "9340",
+      "alias": "9340PU",
+      "lightness": 93,
+      "a-chrominance": 6,
+      "b-chrominance": -4
+    },
+    {
+      "id": "19",
+      "name": "9460",
+      "alias": "9460PU",
+      "lightness": 90,
+      "a-chrominance": -12,
+      "b-chrominance": -9
+    },
+    {
+      "id": "20",
+      "name": "9520",
+      "alias": "9520PU",
+      "lightness": 92,
+      "a-chrominance": -17,
+      "b-chrominance": 0
+    },
+    {
+      "id": "21",
+      "name": "9083",
+      "alias": "9083PU",
+      "lightness": 78,
+      "a-chrominance": 1,
+      "b-chrominance": 4
+    },
+    {
+      "id": "22",
+      "name": "9064",
+      "alias": "9064PU",
+      "lightness": 96,
+      "a-chrominance": -2,
+      "b-chrominance": 15
+    },
+    {
+      "id": "23",
+      "name": "9285",
+      "alias": "9285PU",
+      "lightness": 95,
+      "a-chrominance": 4,
+      "b-chrominance": 3
+    },
+    {
+      "id": "24",
+      "name": "9061",
+      "alias": "9061PU",
+      "lightness": 95,
+      "a-chrominance": 6,
+      "b-chrominance": 0
+    },
+    {
+      "id": "25",
+      "name": "9345",
+      "alias": "9345PU",
+      "lightness": 94,
+      "a-chrominance": 4,
+      "b-chrominance": -1
+    },
+    {
+      "id": "26",
+      "name": "9062",
+      "alias": "9062PU",
+      "lightness": 94,
+      "a-chrominance": -6,
+      "b-chrominance": -2
+    },
+    {
+      "id": "27",
+      "name": "9063",
+      "alias": "9063PU",
+      "lightness": 95,
+      "a-chrominance": -7,
+      "b-chrominance": 3
+    },
+    {
+      "id": "28",
+      "name": "9081",
+      "alias": "9081PU",
+      "lightness": 86,
+      "a-chrominance": 1,
+      "b-chrominance": 4
+    },
+    {
+      "id": "29",
+      "name": "9043",
+      "alias": "9043PU",
+      "lightness": 91,
+      "a-chrominance": 1,
+      "b-chrominance": 5
+    },
+    {
+      "id": "30",
+      "name": "9080",
+      "alias": "9080PU",
+      "lightness": 87,
+      "a-chrominance": 1,
+      "b-chrominance": 4
+    },
+    {
+      "id": "31",
+      "name": "9100",
+      "alias": "9100PU",
+      "lightness": 92,
+      "a-chrominance": 0,
+      "b-chrominance": 4
+    },
+    {
+      "id": "32",
+      "name": "9101",
+      "alias": "9101PU",
+      "lightness": 89,
+      "a-chrominance": -1,
+      "b-chrominance": 3
+    },
+    {
+      "id": "33",
+      "name": "9102",
+      "alias": "9102PU",
+      "lightness": 84,
+      "a-chrominance": -2,
+      "b-chrominance": 2
+    },
+    {
+      "id": "34",
+      "name": "9103",
+      "alias": "9103PU",
+      "lightness": 80,
+      "a-chrominance": -2,
+      "b-chrominance": 2
+    },
+    {
+      "id": "35",
+      "name": "9082",
+      "alias": "9082PU",
+      "lightness": 82,
+      "a-chrominance": 1,
+      "b-chrominance": 5
+    },
+    {
+      "id": "36",
+      "name": "9121",
+      "alias": "9121PU",
+      "lightness": 96,
+      "a-chrominance": -5,
+      "b-chrominance": 31
+    },
+    {
+      "id": "37",
+      "name": "9120",
+      "alias": "9120PU",
+      "lightness": 96,
+      "a-chrominance": -5,
+      "b-chrominance": 27
+    },
+    {
+      "id": "38",
+      "name": "9141",
+      "alias": "9141PU",
+      "lightness": 95,
+      "a-chrominance": -2,
+      "b-chrominance": 27
+    },
+    {
+      "id": "39",
+      "name": "9142",
+      "alias": "9142PU",
+      "lightness": 89,
+      "a-chrominance": 0,
+      "b-chrominance": 20
+    },
+    {
+      "id": "40",
+      "name": "9161",
+      "alias": "9161PU",
+      "lightness": 88,
+      "a-chrominance": 2,
+      "b-chrominance": 20
+    },
+    {
+      "id": "41",
+      "name": "9143",
+      "alias": "9143PU",
+      "lightness": 88,
+      "a-chrominance": -1,
+      "b-chrominance": 16
+    },
+    {
+      "id": "42",
+      "name": "9162",
+      "alias": "9162PU",
+      "lightness": 84,
+      "a-chrominance": 2,
+      "b-chrominance": 15
+    },
+    {
+      "id": "43",
+      "name": "9160",
+      "alias": "9160PU",
+      "lightness": 93,
+      "a-chrominance": 4,
+      "b-chrominance": 24
+    },
+    {
+      "id": "44",
+      "name": "9180",
+      "alias": "9180PU",
+      "lightness": 93,
+      "a-chrominance": 5,
+      "b-chrominance": 15
+    },
+    {
+      "id": "45",
+      "name": "9181",
+      "alias": "9181PU",
+      "lightness": 92,
+      "a-chrominance": 7,
+      "b-chrominance": 19
+    },
+    {
+      "id": "46",
+      "name": "9200",
+      "alias": "9200PU",
+      "lightness": 91,
+      "a-chrominance": 9,
+      "b-chrominance": 17
+    },
+    {
+      "id": "47",
+      "name": "9201",
+      "alias": "9201PU",
+      "lightness": 92,
+      "a-chrominance": 8,
+      "b-chrominance": 17
+    },
+    {
+      "id": "48",
+      "name": "9220",
+      "alias": "9220PU",
+      "lightness": 91,
+      "a-chrominance": 9,
+      "b-chrominance": 14
+    },
+    {
+      "id": "49",
+      "name": "9221",
+      "alias": "9221PU",
+      "lightness": 87,
+      "a-chrominance": 9,
+      "b-chrominance": 13
+    },
+    {
+      "id": "50",
+      "name": "9184",
+      "alias": "9184PU",
+      "lightness": 94,
+      "a-chrominance": 2,
+      "b-chrominance": 11
+    },
+    {
+      "id": "51",
+      "name": "9185",
+      "alias": "9185PU",
+      "lightness": 91,
+      "a-chrominance": 4,
+      "b-chrominance": 11
+    },
+    {
+      "id": "52",
+      "name": "9202",
+      "alias": "9202PU",
+      "lightness": 88,
+      "a-chrominance": 6,
+      "b-chrominance": 13
+    },
+    {
+      "id": "53",
+      "name": "9182",
+      "alias": "9182PU",
+      "lightness": 88,
+      "a-chrominance": 6,
+      "b-chrominance": 14
+    },
+    {
+      "id": "54",
+      "name": "9183",
+      "alias": "9183PU",
+      "lightness": 87,
+      "a-chrominance": 5,
+      "b-chrominance": 11
+    },
+    {
+      "id": "55",
+      "name": "9203",
+      "alias": "9203PU",
+      "lightness": 84,
+      "a-chrominance": 6,
+      "b-chrominance": 12
+    },
+    {
+      "id": "56",
+      "name": "9186",
+      "alias": "9186PU",
+      "lightness": 84,
+      "a-chrominance": 5,
+      "b-chrominance": 11
+    },
+    {
+      "id": "57",
+      "name": "9224",
+      "alias": "9224PU",
+      "lightness": 94,
+      "a-chrominance": 4,
+      "b-chrominance": 10
+    },
+    {
+      "id": "58",
+      "name": "9225",
+      "alias": "9225PU",
+      "lightness": 92,
+      "a-chrominance": 5,
+      "b-chrominance": 11
+    },
+    {
+      "id": "59",
+      "name": "9226",
+      "alias": "9226PU",
+      "lightness": 91,
+      "a-chrominance": 3,
+      "b-chrominance": 8
+    },
+    {
+      "id": "60",
+      "name": "9222",
+      "alias": "9222PU",
+      "lightness": 85,
+      "a-chrominance": 7,
+      "b-chrominance": 10
+    },
+    {
+      "id": "61",
+      "name": "9223",
+      "alias": "9223PU",
+      "lightness": 83,
+      "a-chrominance": 6,
+      "b-chrominance": 9
+    },
+    {
+      "id": "62",
+      "name": "9242",
+      "alias": "9242PU",
+      "lightness": 85,
+      "a-chrominance": 10,
+      "b-chrominance": 8
+    },
+    {
+      "id": "63",
+      "name": "9243",
+      "alias": "9243PU",
+      "lightness": 82,
+      "a-chrominance": 8,
+      "b-chrominance": 7
+    },
+    {
+      "id": "64",
+      "name": "9244",
+      "alias": "9244PU",
+      "lightness": 94,
+      "a-chrominance": 5,
+      "b-chrominance": 6
+    },
+    {
+      "id": "65",
+      "name": "9240",
+      "alias": "9240PU",
+      "lightness": 93,
+      "a-chrominance": 8,
+      "b-chrominance": 7
+    },
+    {
+      "id": "66",
+      "name": "9260",
+      "alias": "9260PU",
+      "lightness": 92,
+      "a-chrominance": 10,
+      "b-chrominance": 5
+    },
+    {
+      "id": "67",
+      "name": "9241",
+      "alias": "9241PU",
+      "lightness": 89,
+      "a-chrominance": 9,
+      "b-chrominance": 7
+    },
+    {
+      "id": "68",
+      "name": "9261",
+      "alias": "9261PU",
+      "lightness": 87,
+      "a-chrominance": 13,
+      "b-chrominance": 6
+    },
+    {
+      "id": "69",
+      "name": "9262",
+      "alias": "9262PU",
+      "lightness": 84,
+      "a-chrominance": 12,
+      "b-chrominance": 6
+    },
+    {
+      "id": "70",
+      "name": "9263",
+      "alias": "9263PU",
+      "lightness": 81,
+      "a-chrominance": 10,
+      "b-chrominance": 6
+    },
+    {
+      "id": "71",
+      "name": "9286",
+      "alias": "9286PU",
+      "lightness": 91,
+      "a-chrominance": 12,
+      "b-chrominance": 3
+    },
+    {
+      "id": "72",
+      "name": "9281",
+      "alias": "9281PU",
+      "lightness": 89,
+      "a-chrominance": 13,
+      "b-chrominance": 3
+    },
+    {
+      "id": "73",
+      "name": "9300",
+      "alias": "9300PU",
+      "lightness": 92,
+      "a-chrominance": 11,
+      "b-chrominance": 0
+    },
+    {
+      "id": "74",
+      "name": "9282",
+      "alias": "9282PU",
+      "lightness": 86,
+      "a-chrominance": 14,
+      "b-chrominance": 3
+    },
+    {
+      "id": "75",
+      "name": "9301",
+      "alias": "9301PU",
+      "lightness": 89,
+      "a-chrominance": 12,
+      "b-chrominance": 0
+    },
+    {
+      "id": "76",
+      "name": "9321",
+      "alias": "9321PU",
+      "lightness": 90,
+      "a-chrominance": 12,
+      "b-chrominance": -3
+    },
+    {
+      "id": "77",
+      "name": "9302",
+      "alias": "9302PU",
+      "lightness": 84,
+      "a-chrominance": 15,
+      "b-chrominance": 0
+    },
+    {
+      "id": "78",
+      "name": "9021",
+      "alias": "9021PU",
+      "lightness": 93,
+      "a-chrominance": 6,
+      "b-chrominance": 4
+    },
+    {
+      "id": "79",
+      "name": "9022",
+      "alias": "9022PU",
+      "lightness": 93,
+      "a-chrominance": 7,
+      "b-chrominance": -1
+    },
+    {
+      "id": "80",
+      "name": "9023",
+      "alias": "9023PU",
+      "lightness": 91,
+      "a-chrominance": 5,
+      "b-chrominance": -4
+    },
+    {
+      "id": "81",
+      "name": "9283",
+      "alias": "9283PU",
+      "lightness": 84,
+      "a-chrominance": 11,
+      "b-chrominance": 4
+    },
+    {
+      "id": "82",
+      "name": "9303",
+      "alias": "9303PU",
+      "lightness": 80,
+      "a-chrominance": 14,
+      "b-chrominance": 0
+    },
+    {
+      "id": "83",
+      "name": "9322",
+      "alias": "9322PU",
+      "lightness": 85,
+      "a-chrominance": 15,
+      "b-chrominance": -4
+    },
+    {
+      "id": "84",
+      "name": "9323",
+      "alias": "9323PU",
+      "lightness": 80,
+      "a-chrominance": 14,
+      "b-chrominance": -3
+    },
+    {
+      "id": "85",
+      "name": "9360",
+      "alias": "9360PU",
+      "lightness": 87,
+      "a-chrominance": 7,
+      "b-chrominance": -12
+    },
+    {
+      "id": "86",
+      "name": "9341",
+      "alias": "9341PU",
+      "lightness": 88,
+      "a-chrominance": 8,
+      "b-chrominance": -7
+    },
+    {
+      "id": "87",
+      "name": "9342",
+      "alias": "9342PU",
+      "lightness": 87,
+      "a-chrominance": 8,
+      "b-chrominance": -6
+    },
+    {
+      "id": "88",
+      "name": "9343",
+      "alias": "9343PU",
+      "lightness": 84,
+      "a-chrominance": 10,
+      "b-chrominance": -9
+    },
+    {
+      "id": "89",
+      "name": "9361",
+      "alias": "9361PU",
+      "lightness": 84,
+      "a-chrominance": 9,
+      "b-chrominance": -12
+    },
+    {
+      "id": "90",
+      "name": "9362",
+      "alias": "9362PU",
+      "lightness": 81,
+      "a-chrominance": 9,
+      "b-chrominance": -13
+    },
+    {
+      "id": "91",
+      "name": "9363",
+      "alias": "9363PU",
+      "lightness": 79,
+      "a-chrominance": 9,
+      "b-chrominance": -11
+    },
+    {
+      "id": "92",
+      "name": "9380",
+      "alias": "9380PU",
+      "lightness": 88,
+      "a-chrominance": 2,
+      "b-chrominance": -12
+    },
+    {
+      "id": "93",
+      "name": "9384",
+      "alias": "9384PU",
+      "lightness": 88,
+      "a-chrominance": 1,
+      "b-chrominance": -11
+    },
+    {
+      "id": "94",
+      "name": "9381",
+      "alias": "9381PU",
+      "lightness": 84,
+      "a-chrominance": 1,
+      "b-chrominance": -13
+    },
+    {
+      "id": "95",
+      "name": "9382",
+      "alias": "9382PU",
+      "lightness": 82,
+      "a-chrominance": 2,
+      "b-chrominance": -15
+    },
+    {
+      "id": "96",
+      "name": "9383",
+      "alias": "9383PU",
+      "lightness": 80,
+      "a-chrominance": 2,
+      "b-chrominance": -13
+    },
+    {
+      "id": "97",
+      "name": "9385",
+      "alias": "9385PU",
+      "lightness": 84,
+      "a-chrominance": -1,
+      "b-chrominance": -8
+    },
+    {
+      "id": "98",
+      "name": "9403",
+      "alias": "9403PU",
+      "lightness": 80,
+      "a-chrominance": -3,
+      "b-chrominance": -13
+    },
+    {
+      "id": "99",
+      "name": "9400",
+      "alias": "9400PU",
+      "lightness": 91,
+      "a-chrominance": -2,
+      "b-chrominance": -9
+    },
+    {
+      "id": "100",
+      "name": "9401",
+      "alias": "9401PU",
+      "lightness": 87,
+      "a-chrominance": -3,
+      "b-chrominance": -13
+    },
+    {
+      "id": "101",
+      "name": "9402",
+      "alias": "9402PU",
+      "lightness": 83,
+      "a-chrominance": -3,
+      "b-chrominance": -14
+    },
+    {
+      "id": "102",
+      "name": "9420",
+      "alias": "9420PU",
+      "lightness": 85,
+      "a-chrominance": -7,
+      "b-chrominance": -15
+    },
+    {
+      "id": "103",
+      "name": "9421",
+      "alias": "9421PU",
+      "lightness": 82,
+      "a-chrominance": -7,
+      "b-chrominance": -14
+    },
+    {
+      "id": "104",
+      "name": "9422",
+      "alias": "9422PU",
+      "lightness": 82,
+      "a-chrominance": -5,
+      "b-chrominance": -11
+    },
+    {
+      "id": "105",
+      "name": "9423",
+      "alias": "9423PU",
+      "lightness": 79,
+      "a-chrominance": -5,
+      "b-chrominance": -10
+    },
+    {
+      "id": "106",
+      "name": "9424",
+      "alias": "9424PU",
+      "lightness": 89,
+      "a-chrominance": -11,
+      "b-chrominance": -8
+    },
+    {
+      "id": "107",
+      "name": "9440",
+      "alias": "9440PU",
+      "lightness": 86,
+      "a-chrominance": -11,
+      "b-chrominance": -13
+    },
+    {
+      "id": "108",
+      "name": "9441",
+      "alias": "9441PU",
+      "lightness": 85,
+      "a-chrominance": -12,
+      "b-chrominance": -15
+    },
+    {
+      "id": "109",
+      "name": "9442",
+      "alias": "9442PU",
+      "lightness": 82,
+      "a-chrominance": -13,
+      "b-chrominance": -15
+    },
+    {
+      "id": "110",
+      "name": "9461",
+      "alias": "9461PU",
+      "lightness": 84,
+      "a-chrominance": -16,
+      "b-chrominance": -13
+    },
+    {
+      "id": "111",
+      "name": "9462",
+      "alias": "9462PU",
+      "lightness": 82,
+      "a-chrominance": -15,
+      "b-chrominance": -12
+    },
+    {
+      "id": "112",
+      "name": "9443",
+      "alias": "9443PU",
+      "lightness": 79,
+      "a-chrominance": -10,
+      "b-chrominance": -13
+    },
+    {
+      "id": "113",
+      "name": "9480",
+      "alias": "9480PU",
+      "lightness": 90,
+      "a-chrominance": -15,
+      "b-chrominance": -7
+    },
+    {
+      "id": "114",
+      "name": "9481",
+      "alias": "9481PU",
+      "lightness": 89,
+      "a-chrominance": -17,
+      "b-chrominance": -8
+    },
+    {
+      "id": "115",
+      "name": "9500",
+      "alias": "9500PU",
+      "lightness": 89,
+      "a-chrominance": -20,
+      "b-chrominance": -6
+    },
+    {
+      "id": "116",
+      "name": "9482",
+      "alias": "9482PU",
+      "lightness": 85,
+      "a-chrominance": -17,
+      "b-chrominance": -8
+    },
+    {
+      "id": "117",
+      "name": "9501",
+      "alias": "9501PU",
+      "lightness": 84,
+      "a-chrominance": -18,
+      "b-chrominance": -6
+    },
+    {
+      "id": "118",
+      "name": "9483",
+      "alias": "9483PU",
+      "lightness": 82,
+      "a-chrominance": -11,
+      "b-chrominance": -4
+    },
+    {
+      "id": "119",
+      "name": "9463",
+      "alias": "9463PU",
+      "lightness": 82,
+      "a-chrominance": -12,
+      "b-chrominance": -8
+    },
+    {
+      "id": "120",
+      "name": "9042",
+      "alias": "9042PU",
+      "lightness": 92,
+      "a-chrominance": -3,
+      "b-chrominance": 1
+    },
+    {
+      "id": "121",
+      "name": "9041",
+      "alias": "9041PU",
+      "lightness": 93,
+      "a-chrominance": -7,
+      "b-chrominance": 3
+    },
+    {
+      "id": "122",
+      "name": "9040",
+      "alias": "9040PU",
+      "lightness": 93,
+      "a-chrominance": -7,
+      "b-chrominance": -4
+    },
+    {
+      "id": "123",
+      "name": "9044",
+      "alias": "9044PU",
+      "lightness": 86,
+      "a-chrominance": -12,
+      "b-chrominance": -5
+    },
+    {
+      "id": "124",
+      "name": "9045",
+      "alias": "9045PU",
+      "lightness": 84,
+      "a-chrominance": -11,
+      "b-chrominance": -2
+    },
+    {
+      "id": "125",
+      "name": "9503",
+      "alias": "9503PU",
+      "lightness": 82,
+      "a-chrominance": -11,
+      "b-chrominance": -2
+    },
+    {
+      "id": "126",
+      "name": "9504",
+      "alias": "9504PU",
+      "lightness": 82,
+      "a-chrominance": -10,
+      "b-chrominance": -3
+    },
+    {
+      "id": "127",
+      "name": "9525",
+      "alias": "9525PU",
+      "lightness": 95,
+      "a-chrominance": -8,
+      "b-chrominance": 6
+    },
+    {
+      "id": "128",
+      "name": "9540",
+      "alias": "9540PU",
+      "lightness": 93,
+      "a-chrominance": -13,
+      "b-chrominance": 5
+    },
+    {
+      "id": "129",
+      "name": "9541",
+      "alias": "9541PU",
+      "lightness": 91,
+      "a-chrominance": -11,
+      "b-chrominance": 4
+    },
+    {
+      "id": "130",
+      "name": "9521",
+      "alias": "9521PU",
+      "lightness": 90,
+      "a-chrominance": -12,
+      "b-chrominance": 1
+    },
+    {
+      "id": "131",
+      "name": "9522",
+      "alias": "9522PU",
+      "lightness": 87,
+      "a-chrominance": -11,
+      "b-chrominance": 1
+    },
+    {
+      "id": "132",
+      "name": "9523",
+      "alias": "9523PU",
+      "lightness": 86,
+      "a-chrominance": -8,
+      "b-chrominance": 1
+    },
+    {
+      "id": "133",
+      "name": "9502",
+      "alias": "9502PU",
+      "lightness": 84,
+      "a-chrominance": -13,
+      "b-chrominance": -3
+    },
+    {
+      "id": "134",
+      "name": "9544",
+      "alias": "9544PU",
+      "lightness": 96,
+      "a-chrominance": -6,
+      "b-chrominance": 8
+    },
+    {
+      "id": "135",
+      "name": "9560",
+      "alias": "9560PU",
+      "lightness": 95,
+      "a-chrominance": -10,
+      "b-chrominance": 9
+    },
+    {
+      "id": "136",
+      "name": "9561",
+      "alias": "9561PU",
+      "lightness": 91,
+      "a-chrominance": -11,
+      "b-chrominance": 9
+    },
+    {
+      "id": "137",
+      "name": "9562",
+      "alias": "9562PU",
+      "lightness": 87,
+      "a-chrominance": -8,
+      "b-chrominance": 9
+    },
+    {
+      "id": "138",
+      "name": "9563",
+      "alias": "9563PU",
+      "lightness": 84,
+      "a-chrominance": -6,
+      "b-chrominance": 8
+    },
+    {
+      "id": "139",
+      "name": "9542",
+      "alias": "9542PU",
+      "lightness": 84,
+      "a-chrominance": -8,
+      "b-chrominance": 5
+    },
+    {
+      "id": "140",
+      "name": "9543",
+      "alias": "9543PU",
+      "lightness": 81,
+      "a-chrominance": -9,
+      "b-chrominance": 5
+    },
+    {
+      "id": "141",
+      "name": "9020",
+      "alias": "9020PU",
+      "lightness": 95,
+      "a-chrominance": -4,
+      "b-chrominance": 26
+    },
+    {
+      "id": "142",
+      "name": "9600",
+      "alias": "9600PU",
+      "lightness": 94,
+      "a-chrominance": -7,
+      "b-chrominance": 20
+    },
+    {
+      "id": "143",
+      "name": "9601",
+      "alias": "9601PU",
+      "lightness": 92,
+      "a-chrominance": -4,
+      "b-chrominance": 15
+    },
+    {
+      "id": "144",
+      "name": "9122",
+      "alias": "9122PU",
+      "lightness": 90,
+      "a-chrominance": -3,
+      "b-chrominance": 23
+    },
+    {
+      "id": "145",
+      "name": "9602",
+      "alias": "9602PU",
+      "lightness": 87,
+      "a-chrominance": -4,
+      "b-chrominance": 16
+    },
+    {
+      "id": "146",
+      "name": "9603",
+      "alias": "9603PU",
+      "lightness": 83,
+      "a-chrominance": -3,
+      "b-chrominance": 13
+    },
+    {
+      "id": "147",
+      "name": "9123",
+      "alias": "9123PU",
+      "lightness": 83,
+      "a-chrominance": -2,
+      "b-chrominance": 19
+    },
+    {
+      "id": "148",
+      "name": "9580",
+      "alias": "9580PU",
+      "lightness": 95,
+      "a-chrominance": -9,
+      "b-chrominance": 15
+    },
+    {
+      "id": "149",
+      "name": "9581",
+      "alias": "9581PU",
+      "lightness": 91,
+      "a-chrominance": -7,
+      "b-chrominance": 14
+    },
+    {
+      "id": "150",
+      "name": "9584",
+      "alias": "9584PU",
+      "lightness": 89,
+      "a-chrominance": -5,
+      "b-chrominance": 11
+    },
+    {
+      "id": "151",
+      "name": "9582",
+      "alias": "9582PU",
+      "lightness": 85,
+      "a-chrominance": -4,
+      "b-chrominance": 10
+    },
+    {
+      "id": "152",
+      "name": "9583",
+      "alias": "9583PU",
+      "lightness": 84,
+      "a-chrominance": -4,
+      "b-chrominance": 10
+    },
+    {
+      "id": "153",
+      "name": "9585",
+      "alias": "9585PU",
+      "lightness": 85,
+      "a-chrominance": -4,
+      "b-chrominance": 10
+    },
+    {
+      "id": "154",
+      "name": "9163",
+      "alias": "9163PU",
+      "lightness": 83,
+      "a-chrominance": 2,
+      "b-chrominance": 12
+    },
+    {
+      "id": "155",
+      "name": "801",
+      "alias": "0801PU",
+      "lightness": 57,
+      "a-chrominance": -30,
+      "b-chrominance": -40
+    },
+    {
+      "id": "156",
+      "name": "802",
+      "alias": "0802PU",
+      "lightness": 74,
+      "a-chrominance": -63,
+      "b-chrominance": 57
+    },
+    {
+      "id": "157",
+      "name": "803",
+      "alias": "0803PU",
+      "lightness": 94,
+      "a-chrominance": 4,
+      "b-chrominance": 90
+    },
+    {
+      "id": "158",
+      "name": "804",
+      "alias": "0804PU",
+      "lightness": 84,
+      "a-chrominance": 47,
+      "b-chrominance": 67
+    },
+    {
+      "id": "159",
+      "name": "805",
+      "alias": "0805PU",
+      "lightness": 74,
+      "a-chrominance": 70,
+      "b-chrominance": 37
+    },
+    {
+      "id": "160",
+      "name": "806",
+      "alias": "0806PU",
+      "lightness": 66,
+      "a-chrominance": 81,
+      "b-chrominance": -7
+    },
+    {
+      "id": "161",
+      "name": "807",
+      "alias": "0807PU",
+      "lightness": 57,
+      "a-chrominance": 75,
+      "b-chrominance": -29
+    },
+    {
+      "id": "162",
+      "name": "901",
+      "alias": "0901PU",
+      "lightness": 63,
+      "a-chrominance": -30,
+      "b-chrominance": -38
+    },
+    {
+      "id": "163",
+      "name": "902",
+      "alias": "0902PU",
+      "lightness": 84,
+      "a-chrominance": -47,
+      "b-chrominance": 43
+    },
+    {
+      "id": "164",
+      "name": "903",
+      "alias": "0903PU",
+      "lightness": 96,
+      "a-chrominance": -4,
+      "b-chrominance": 68
+    },
+    {
+      "id": "165",
+      "name": "904",
+      "alias": "0904PU",
+      "lightness": 89,
+      "a-chrominance": 29,
+      "b-chrominance": 46
+    },
+    {
+      "id": "166",
+      "name": "905",
+      "alias": "0905PU",
+      "lightness": 80,
+      "a-chrominance": 50,
+      "b-chrominance": 18
+    },
+    {
+      "id": "167",
+      "name": "906",
+      "alias": "0906PU",
+      "lightness": 73,
+      "a-chrominance": 61,
+      "b-chrominance": -17
+    },
+    {
+      "id": "168",
+      "name": "907",
+      "alias": "0907PU",
+      "lightness": 67,
+      "a-chrominance": 61,
+      "b-chrominance": -28
+    },
+    {
+      "id": "169",
+      "name": "908",
+      "alias": "0908PU",
+      "lightness": 66,
+      "a-chrominance": -30,
+      "b-chrominance": -36
+    },
+    {
+      "id": "170",
+      "name": "909",
+      "alias": "0909PU",
+      "lightness": 89,
+      "a-chrominance": -34,
+      "b-chrominance": 34
+    },
+    {
+      "id": "171",
+      "name": "910",
+      "alias": "0910PU",
+      "lightness": 96,
+      "a-chrominance": -5,
+      "b-chrominance": 50
+    },
+    {
+      "id": "172",
+      "name": "911",
+      "alias": "0911PU",
+      "lightness": 91,
+      "a-chrominance": 20,
+      "b-chrominance": 35
+    },
+    {
+      "id": "173",
+      "name": "912",
+      "alias": "0912PU",
+      "lightness": 83,
+      "a-chrominance": 40,
+      "b-chrominance": 13
+    },
+    {
+      "id": "174",
+      "name": "913",
+      "alias": "0913PU",
+      "lightness": 77,
+      "a-chrominance": 49,
+      "b-chrominance": -15
+    },
+    {
+      "id": "175",
+      "name": "914",
+      "alias": "0914PU",
+      "lightness": 72,
+      "a-chrominance": 53,
+      "b-chrominance": -26
+    },
+    {
+      "id": "176",
+      "name": "915",
+      "alias": "0915PU",
+      "lightness": 71,
+      "a-chrominance": -29,
+      "b-chrominance": -33
+    },
+    {
+      "id": "177",
+      "name": "916",
+      "alias": "0916PU",
+      "lightness": 91,
+      "a-chrominance": -28,
+      "b-chrominance": 29
+    },
+    {
+      "id": "178",
+      "name": "917",
+      "alias": "0917PU",
+      "lightness": 97,
+      "a-chrominance": -6,
+      "b-chrominance": 38
+    },
+    {
+      "id": "179",
+      "name": "918",
+      "alias": "0918PU",
+      "lightness": 94,
+      "a-chrominance": 12,
+      "b-chrominance": 26
+    },
+    {
+      "id": "180",
+      "name": "919",
+      "alias": "0919PU",
+      "lightness": 88,
+      "a-chrominance": 29,
+      "b-chrominance": 8
+    },
+    {
+      "id": "181",
+      "name": "920",
+      "alias": "0920PU",
+      "lightness": 83,
+      "a-chrominance": 37,
+      "b-chrominance": -13
+    },
+    {
+      "id": "182",
+      "name": "921",
+      "alias": "0921PU",
+      "lightness": 80,
+      "a-chrominance": 39,
+      "b-chrominance": -19
+    },
+    {
+      "id": "183",
+      "name": "808",
+      "alias": "0808PU",
+      "lightness": 61,
+      "a-chrominance": -51,
+      "b-chrominance": 1
+    },
+    {
+      "id": "184",
+      "name": "809",
+      "alias": "0809PU",
+      "lightness": 89,
+      "a-chrominance": -16,
+      "b-chrominance": 77
+    },
+    {
+      "id": "185",
+      "name": "810",
+      "alias": "0810PU",
+      "lightness": 91,
+      "a-chrominance": 21,
+      "b-chrominance": 80
+    },
+    {
+      "id": "186",
+      "name": "811",
+      "alias": "0811PU",
+      "lightness": 77,
+      "a-chrominance": 62,
+      "b-chrominance": 49
+    },
+    {
+      "id": "187",
+      "name": "812",
+      "alias": "0812PU",
+      "lightness": 67,
+      "a-chrominance": 74,
+      "b-chrominance": 11
+    },
+    {
+      "id": "188",
+      "name": "813",
+      "alias": "0813PU",
+      "lightness": 60,
+      "a-chrominance": 76,
+      "b-chrominance": -20
+    },
+    {
+      "id": "189",
+      "name": "814",
+      "alias": "0814PU",
+      "lightness": 47,
+      "a-chrominance": 29,
+      "b-chrominance": -50
+    },
+    {
+      "id": "190",
+      "name": "922",
+      "alias": "0922PU",
+      "lightness": 70,
+      "a-chrominance": -46,
+      "b-chrominance": -1
+    },
+    {
+      "id": "191",
+      "name": "923",
+      "alias": "0923PU",
+      "lightness": 94,
+      "a-chrominance": -13,
+      "b-chrominance": 60
+    },
+    {
+      "id": "192",
+      "name": "924",
+      "alias": "0924PU",
+      "lightness": 94,
+      "a-chrominance": 7,
+      "b-chrominance": 58
+    },
+    {
+      "id": "193",
+      "name": "925",
+      "alias": "0925PU",
+      "lightness": 84,
+      "a-chrominance": 41,
+      "b-chrominance": 31
+    },
+    {
+      "id": "194",
+      "name": "926",
+      "alias": "0926PU",
+      "lightness": 76,
+      "a-chrominance": 55,
+      "b-chrominance": -1
+    },
+    {
+      "id": "195",
+      "name": "927",
+      "alias": "0927PU",
+      "lightness": 72,
+      "a-chrominance": 58,
+      "b-chrominance": -22
+    },
+    {
+      "id": "196",
+      "name": "928",
+      "alias": "0928PU",
+      "lightness": 61,
+      "a-chrominance": 23,
+      "b-chrominance": -42
+    },
+    {
+      "id": "197",
+      "name": "929",
+      "alias": "0929PU",
+      "lightness": 75,
+      "a-chrominance": -40,
+      "b-chrominance": -2
+    },
+    {
+      "id": "198",
+      "name": "930",
+      "alias": "0930PU",
+      "lightness": 96,
+      "a-chrominance": -11,
+      "b-chrominance": 46
+    },
+    {
+      "id": "199",
+      "name": "931",
+      "alias": "0931PU",
+      "lightness": 95,
+      "a-chrominance": 2,
+      "b-chrominance": 47
+    },
+    {
+      "id": "200",
+      "name": "932",
+      "alias": "0932PU",
+      "lightness": 87,
+      "a-chrominance": 31,
+      "b-chrominance": 23
+    },
+    {
+      "id": "201",
+      "name": "933",
+      "alias": "0933PU",
+      "lightness": 80,
+      "a-chrominance": 43,
+      "b-chrominance": -4
+    },
+    {
+      "id": "202",
+      "name": "934",
+      "alias": "0934PU",
+      "lightness": 78,
+      "a-chrominance": 46,
+      "b-chrominance": -19
+    },
+    {
+      "id": "203",
+      "name": "935",
+      "alias": "0935PU",
+      "lightness": 69,
+      "a-chrominance": 19,
+      "b-chrominance": -34
+    },
+    {
+      "id": "204",
+      "name": "936",
+      "alias": "0936PU",
+      "lightness": 80,
+      "a-chrominance": -33,
+      "b-chrominance": -3
+    },
+    {
+      "id": "205",
+      "name": "937",
+      "alias": "0937PU",
+      "lightness": 96,
+      "a-chrominance": -9,
+      "b-chrominance": 36
+    },
+    {
+      "id": "206",
+      "name": "938",
+      "alias": "0938PU",
+      "lightness": 96,
+      "a-chrominance": -1,
+      "b-chrominance": 34
+    },
+    {
+      "id": "207",
+      "name": "939",
+      "alias": "0939PU",
+      "lightness": 90,
+      "a-chrominance": 21,
+      "b-chrominance": 16
+    },
+    {
+      "id": "208",
+      "name": "940",
+      "alias": "0940PU",
+      "lightness": 85,
+      "a-chrominance": 33,
+      "b-chrominance": -4
+    },
+    {
+      "id": "209",
+      "name": "941",
+      "alias": "0941PU",
+      "lightness": 82,
+      "a-chrominance": 37,
+      "b-chrominance": -16
+    },
+    {
+      "id": "210",
+      "name": "942",
+      "alias": "0942PU",
+      "lightness": 77,
+      "a-chrominance": 15,
+      "b-chrominance": -26
+    }
+  ]
+}
